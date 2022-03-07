@@ -1,6 +1,9 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
+Tags: General
+
 ## [Data Distribution Shifts and Monitoring](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html)
 Date: Feb 7, 2022
 Tags: General, Drift, Data Distribution, Observability
