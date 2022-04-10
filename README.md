@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+Date: Mar 29, 2022<BR>
+Tags: Guide, Explainablity<BR>
+
 ## [Scaling Machine Learning Productivity at LinkedIn](https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin)
 Date: Jan 3, 2019<BR>
 Tags: Auto ML, Feature store, Monitoring<BR>
