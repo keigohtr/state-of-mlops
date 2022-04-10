@@ -1,6 +1,16 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Scaling Machine Learning Productivity at LinkedIn](https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin)
+Date: Jan 3, 2019
+Tags: Auto ML, Feature store, Monitoring
+Company: LinkedIn
+
+## [The journey to build an explainable AI-driven recommendation system to help scale sales efficiency across LinkedIn](https://engineering.linkedin.com/blog/2022/the-journey-to-build-an-explainable-ai-driven-recommendation-sys)
+Date: Apr 6, 2022
+Tags: Explainability, Recommendation, Narrative generation
+Company: LinkedIn
+
 ## [Introducing Fabricator: A Declarative Feature Engineering Framework](https://doordash.engineering/2022/01/11/introducing-fabricator-a-declarative-feature-engineering-framework/)
 Date: Apr 4, 2022
 Tags: Data, Data Engineering, Feature Store
