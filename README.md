@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Gitlab DevSecOps 2021 Survey](https://learn.gitlab.com/c/2021-devsecops-report?x=u5RjB_)
+Date: Apr 25, 2022<BR>
+Tags: DevSecOps, Survey<BR>
+Company: Gitlab<BR>
+
 ## [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 Date: Mar 29, 2022<BR>
 Tags: Guide, Explainablity<BR>
