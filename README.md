@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Monzo’s machine learning stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack)
+Date: May 2, 2022<BR>
+Tags: MLOps, Operations<BR>
+Company: Monzo<BR>
+
 ## [Gitlab DevSecOps 2021 Survey](https://learn.gitlab.com/c/2021-devsecops-report?x=u5RjB_)
 Date: Apr 25, 2022<BR>
 Tags: DevSecOps, Survey<BR>
