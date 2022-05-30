@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [My MLOps Stack](https://mymlops.com/)
+Date: May 30, 2022<BR>
+Tags: MLOps, Reference<BR>
+
 ## [Monzo’s machine learning stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack)
 Date: May 2, 2022<BR>
 Tags: MLOps, Operations<BR>
