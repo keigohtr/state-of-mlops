@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [The SPACE of Developer Productivity](https://dl.acm.org/doi/pdf/10.1145/3454122.3454124)
+Date: Jun 13, 2022<BR>
+Tags: Productivity, Engineering Management<BR>
+
 ## [My MLOps Stack](https://mymlops.com/)
 Date: May 30, 2022<BR>
 Tags: MLOps, Reference<BR>
