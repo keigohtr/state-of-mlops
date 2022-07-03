@@ -1,10 +1,14 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Evidently](https://docs.evidentlyai.com/)
+Date: Jul 4, 2022<BR>
+Tags: MLOps, Monitoring, Drift detection<BR>
+Company: Evidently AI<BR>
+
 ## [Made With ML #MLOps](https://madewithml.com/#mlops)
 Date: Jun 27, 2022<BR>
 Tags: MLOps, Tutorial, Reference<BR>
-
 
 ## [The SPACE of Developer Productivity](https://dl.acm.org/doi/pdf/10.1145/3454122.3454124)
 Date: Jun 13, 2022<BR>
