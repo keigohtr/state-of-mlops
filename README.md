@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [MLOps: A Taxonomy and a Methodology](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9792270)
+Date: Jul 4, 2022<BR>
+Tags: MLOps, Overview, Survey<BR>
+
 ## [Evidently](https://docs.evidentlyai.com/)
 Date: Jul 4, 2022<BR>
 Tags: MLOps, Monitoring, Drift detection<BR>
