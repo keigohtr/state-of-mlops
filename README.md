@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Shipping to Production](https://blog.pragmaticengineer.com/shipping-to-production/)
+Date: Jul 4, 2022<BR>
+Tags: MLOps, Production, Introduction<BR>
+
 ## [MLOps: A Taxonomy and a Methodology](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9792270)
 Date: Jul 4, 2022<BR>
 Tags: MLOps, Overview, Survey<BR>
