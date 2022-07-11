@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
+Date: Jul 11, 2022<BR>
+Tags: MLOps, Definition, Role and responsibility<BR>
+
 ## [Shipping to Production](https://blog.pragmaticengineer.com/shipping-to-production/)
 Date: Jul 4, 2022<BR>
 Tags: MLOps, Production, Introduction<BR>
