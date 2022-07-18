@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Deployment for Free -- A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/)
+Date: Jul 19, 2022<BR>
+Tags: MLOps, In-House case, Stitch Fix<BR>
+Company: Stitch<BR>
+
 ## [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
 Date: Jul 11, 2022<BR>
 Tags: MLOps, Definition, Role and responsibility<BR>
