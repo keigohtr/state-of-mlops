@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Stanford CS25: Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+Date: Jul 19, 2022<BR>
+Tags: ML, Learning-resource, Transformers<BR>
+Company: Stanford<BR>
+
 ## [Deployment for Free -- A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/)
 Date: Jul 19, 2022<BR>
 Tags: MLOps, In-House case, Stitch Fix<BR>
