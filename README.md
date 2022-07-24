@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Scaling productivity on microservices at Lyft (Part 1)](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813)
+Date: Nov 11, 2021<BR>
+Tags: Kubernetes, Use case, Engineering<BR>
+Company: Lyft<BR>
+
 ## [How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 Date: Nov 10, 2020<BR>
 Tags: GraphQL, Use case, Engineering<BR>
