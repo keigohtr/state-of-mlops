@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
+Date: Nov 10, 2020<BR>
+Tags: GraphQL, Use case, Engineering<BR>
+Company: Netflix<BR>
+
 ## [Operating Apache Pinot @ Uber Scale](https://eng.uber.com/operating-apache-pinot/)
 Date: Oct 20, 2020<BR>
 Tags: Pinot, Use case, Engineering<BR>
