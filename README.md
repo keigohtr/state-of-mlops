@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Operating Apache Pinot @ Uber Scale](https://eng.uber.com/operating-apache-pinot/)
+Date: Jul 25, 2022<BR>
+Tags: Pinot, Use case, Engineering<BR>
+Company: Uber<BR>
+
 ## [Stanford CS25: Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 Date: Jul 19, 2022<BR>
 Tags: ML, Learning-resource, Transformers<BR>
