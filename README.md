@@ -7,7 +7,7 @@ Tags: Annotation, Syntetic data, Introduction<BR>
 
 ## [Scaling productivity on microservices at Lyft (Part 1)](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813)
 Date: Nov 11, 2021<BR>
-Tags: Kubernetes, Use case, Engineering<BR>
+Tags: Kubernetes, Productivity, Use case, Engineering<BR>
 Company: Lyft<BR>
 
 ## [How Netflix Scales its API with GraphQL Federation (Part 1)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
