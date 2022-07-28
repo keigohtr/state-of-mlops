@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [https://eng.uber.com/supercharging-a-b-testing-at-uber/](https://eng.uber.com/supercharging-a-b-testing-at-uber/)
+Date: Jul 21, 2022<BR>
+Tags: AB testing, Architecture, Design<BR>
+Company: Uber<BR>
+
 ## [A Guide to Data Annotation and Synthetic Data Generation Tools](https://gradientflow.com/data-annotation-synthetic-data/)
 Date: Jul 12, 2022<BR>
 Tags: Annotation, Syntetic data, Introduction<BR>
