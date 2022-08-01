@@ -1,7 +1,7 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
-## [https://eng.uber.com/supercharging-a-b-testing-at-uber/](https://eng.uber.com/supercharging-a-b-testing-at-uber/)
+## [Supercharging A/B Testing at Uber](https://eng.uber.com/supercharging-a-b-testing-at-uber/)
 Date: Jul 21, 2022<BR>
 Tags: AB testing, Architecture, Design<BR>
 Company: Uber<BR>
