@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Managing Uber’s Data Workflows at Scale](https://eng.uber.com/managing-data-workflows-at-scale/)
+Date: Feb 28, 2019<BR>
+Tags: Data, ETL, Architecture, Design<BR>
+Company: Uber<BR>
+
 ## [Supercharging A/B Testing at Uber](https://eng.uber.com/supercharging-a-b-testing-at-uber/)
 Date: Jul 21, 2022<BR>
 Tags: AB testing, Architecture, Design<BR>
