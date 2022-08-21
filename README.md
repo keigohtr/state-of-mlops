@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Towards data quality management at LinkedIn](https://engineering.linkedin.com/blog/2022/towards-data-quality-management-at-linkedin)
+Date: Jun 9, 2022<BR>
+Tags: Data, Architecture, Design<BR>
+Company: LinkedIn<BR>
+
 ## [Managing Uber’s Data Workflows at Scale](https://eng.uber.com/managing-data-workflows-at-scale/)
 Date: Feb 28, 2019<BR>
 Tags: Data, ETL, Architecture, Design<BR>
