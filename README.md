@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://www.uber.com/en-PL/blog/ml-education-at-uber/)
+Date: Jul 28, 2022<BR>
+Tags: MLOps, Reference, Guide<BR>
+Company: Uber<BR>
+
 ## [Towards data quality management at LinkedIn](https://engineering.linkedin.com/blog/2022/towards-data-quality-management-at-linkedin)
 Date: Jun 9, 2022<BR>
 Tags: Data, Architecture, Design<BR>
