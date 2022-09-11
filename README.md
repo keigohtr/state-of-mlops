@@ -1,6 +1,15 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Principles for the security of machine learning](https://www.ncsc.gov.uk/collection/machine-learning)
+Date: Aug 31, 2022<BR>
+Tags: Security, Principles<BR>
+
+## [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
+Date: Sep 12, 2022<BR>
+Tags: MLOps, Principles<BR>
+Company: Google<BR>
+
 ## [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://www.uber.com/en-PL/blog/ml-education-at-uber/)
 Date: Jul 28, 2022<BR>
 Tags: MLOps, Reference, Guide<BR>
