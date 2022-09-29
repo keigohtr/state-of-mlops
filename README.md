@@ -132,3 +132,13 @@ Tags: General, Drift, Data Distribution, Observability<BR>
 ## [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
 Date: Jan 25, 2021<BR>
 Tags: Kubernetes, Modeling platform, Computing resource management<BR>
+
+## [Explaination of MLOps and its common terms](https://censius.ai/wiki)
+Date: Sep 29, 2022<BR>
+Tags: General, Drift, Data Distribution, Observability<BR>
+Company: Censius<BR>
+
+## [Curated list and description of MLOps tools](https://censius.ai/mlops-tools)
+Date: Sep 29, 2022<BR>
+Tags: General, Drift, Data Distribution, Observability , Guide<BR>
+Company: Censius<BR>
