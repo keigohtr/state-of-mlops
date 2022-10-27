@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [DATA MESH ARCHITECTURE](https://www.datamesh-architecture.com/)
+Date: Oct 27, 2022<BR>
+Tags: Data mesh<BR>
+
 ## [Lessons Learned: The Journey to Real-Time Machine Learning at Instacart](https://tech.instacart.com/lessons-learned-the-journey-to-real-time-machine-learning-at-instacart-942f3a656af3)
 Date: Sep 7, 2022<BR>
 Tags: Real time ML, Use case<BR>
