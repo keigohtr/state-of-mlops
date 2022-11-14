@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [The Architecture of a Modern Startup](https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb)
+Date: Nov 5, 2022<BR>
+Tags: Use case<BR>
+Company: SYZYGY AI<BR>
+
 ## [The Growing Importance of Metadata Management Systems](https://gradientflow.com/the-growing-importance-of-metadata-management-systems/)
 Date: Oct 27, 2022<BR>
 Tags: Metadata management, Introduction<BR>
