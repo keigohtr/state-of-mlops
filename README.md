@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
+Date: Nov 7, 2022<BR>
+Tags: Argo rollouts, experience, automation<BR>
+Company: Monzo<BR>
+
 ## [The Architecture of a Modern Startup](https://betterprogramming.pub/architecture-of-modern-startup-abaec235c2eb)
 Date: Nov 5, 2022<BR>
 Tags: Use case<BR>
