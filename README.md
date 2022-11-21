@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Thoughts on ML Engineering After a Year of my PhD](https://www.shreyashankar.com/phd-year-one/)
+Date: Jul 18, 2022<BR>
+Tags: Consideration, ML Engineering<BR>
+
+
 ## [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 Date: Nov 7, 2022<BR>
 Tags: Argo rollouts, experience, automation<BR>
