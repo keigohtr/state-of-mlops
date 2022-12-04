@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Using MLOps to Build a Real-time End-to-End Machine Learning Pipeline](https://www.binance.com/en/blog/all/using-mlops-to-build-a-realtime-endtoend-machine-learning-pipeline-3820048062346322706)
+Date: Nov 29
+Tags: MLOps, Use case, pipeline<BR>
+Company: Binance<BR>
+
 ## [Securing Machine Learning Algorithms](https://www.enisa.europa.eu/publications/securing-machine-learning-algorithms)
 Date: Dec 14, 2021<BR>
 Tags: Security, Reference<BR>
