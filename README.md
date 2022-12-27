@@ -1,8 +1,12 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Serve hundreds to thousands of ML models — architectures from industry](https://towardsdatascience.com/serve-hundreds-to-thousands-of-ml-models-architectures-from-industry-bf3d9474d427)
+Date: Jan 14, 2022<BR>
+Tags: Serving, Inferencing, Pattern<BR>
+
 ## [Using MLOps to Build a Real-time End-to-End Machine Learning Pipeline](https://www.binance.com/en/blog/all/using-mlops-to-build-a-realtime-endtoend-machine-learning-pipeline-3820048062346322706)
-Date: Nov 29
+Date: Nov 29, 2022<BR>
 Tags: MLOps, Use case, pipeline<BR>
 Company: Binance<BR>
 
