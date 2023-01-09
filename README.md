@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Bringing Machine Learning to Production at Ubisoft](https://www.the-odd-dataguy.com/2022/12/29/recap_pydata_mtl_june22/)
+Date: Dec 29, 2022<BR>
+Tags: Usecase<BR>
+Company: Ubisoft<BR>
+
 ## [Serve hundreds to thousands of ML models — architectures from industry](https://towardsdatascience.com/serve-hundreds-to-thousands-of-ml-models-architectures-from-industry-bf3d9474d427)
 Date: Jan 14, 2022<BR>
 Tags: Serving, Inferencing, Pattern<BR>
