@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Measuring an engineering organization](https://lethain.com/measuring-engineering-organizations/)
+Date: Jan 2, 2023<BR>
+Tags: Engineering management, Measuring productivity<BR>
+
 ## [Bringing Machine Learning to Production at Ubisoft](https://www.the-odd-dataguy.com/2022/12/29/recap_pydata_mtl_june22/)
 Date: Dec 29, 2022<BR>
 Tags: Usecase<BR>
