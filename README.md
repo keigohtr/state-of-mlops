@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
+Date: Jan 10, 2023<BR>
+Tags: FastAPI, Best practice<BR>
+
 ## [Measuring an engineering organization](https://lethain.com/measuring-engineering-organizations/)
 Date: Jan 2, 2023<BR>
 Tags: Engineering management, Measuring productivity<BR>
