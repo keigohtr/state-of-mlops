@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Global expansion of Machine Learning Models: how to distribute them as software products?](https://building.nubank.com.br/global-expansion-of-machine-learning-models/)
+Date: Jan 13, 2023<BR>
+Tags: Globalization, Lessons learned<BR>
+Company: Nubank<BR>
+
 ## [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
 Date: Jan 10, 2023<BR>
 Tags: FastAPI, Best practice<BR>
