@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Blueprints for recommender system architectures: 10th anniversary edition](https://amatriain.net/blog/RecsysArchitectures)
+Date: Jan 29, 2023<BR>
+Tags: Recommender<BR>
+
 ## [Global expansion of Machine Learning Models: how to distribute them as software products?](https://building.nubank.com.br/global-expansion-of-machine-learning-models/)
 Date: Jan 13, 2023<BR>
 Tags: Globalization, Lessons learned<BR>
