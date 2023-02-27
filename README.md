@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Unleashing ML Innovation at Spotify with Ray](https://engineering.atspotify.com/2023/02/unleashing-ml-innovation-at-spotify-with-ray/)
+Date: Feb 1, 2023<BR>
+Tags: Ray<BR>
+Company: Spotify<BR>
+
 ## [Curated papers, articles, and blogs on data science & machine learning in production.](https://github.com/eugeneyan/applied-ml)
 Date: Feb 27, 2023<BR>
 Tags: Curated list, MLOps, Production<BR>
