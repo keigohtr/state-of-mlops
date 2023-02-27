@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Curated papers, articles, and blogs on data science & machine learning in production.](https://github.com/eugeneyan/applied-ml)
+Date: Feb 27, 2023<BR>
+Tags: Curated list, MLOps, Production<BR>
+
 ## [Blueprints for recommender system architectures: 10th anniversary edition](https://amatriain.net/blog/RecsysArchitectures)
 Date: Jan 29, 2023<BR>
 Tags: Recommender<BR>
