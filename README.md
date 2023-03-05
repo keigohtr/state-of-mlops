@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [NVIDIA Merlin meets the MLOps ecosystem: building a production-ready RecSys pipeline on cloud](https://medium.com/nvidia-merlin/nvidia-merlin-meets-the-mlops-ecosystem-building-a-production-ready-recsys-pipeline-on-cloud-1a16c156166b)
+Date: Feb 23, 2023<BR>
+Tags: Recommender, MLOps, OSS<BR>
+Company: NVIDIA<BR>
+
 ## [Unleashing ML Innovation at Spotify with Ray](https://engineering.atspotify.com/2023/02/unleashing-ml-innovation-at-spotify-with-ray/)
 Date: Feb 1, 2023<BR>
 Tags: Ray<BR>
