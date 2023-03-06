@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [SOON (Spark cOntinuOus iNgestion) for near real-time data at Coinbase - Part 1](https://www.coinbase.com/blog/soon-for-near-real-time-data-at-coinbase-part-1)
+Date: Jan 25, 2023<BR>
+Tags: Real-time data processing<BR>
+Company: Coinbase<BR>
+
 ## [NVIDIA Merlin meets the MLOps ecosystem: building a production-ready RecSys pipeline on cloud](https://medium.com/nvidia-merlin/nvidia-merlin-meets-the-mlops-ecosystem-building-a-production-ready-recsys-pipeline-on-cloud-1a16c156166b)
 Date: Feb 23, 2023<BR>
 Tags: Recommender, MLOps, OSS<BR>
