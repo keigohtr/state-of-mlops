@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Distributed Training: Errors to Avoid](https://twitter.com/keigohtr/status/1632897748113707008)
+Date: Mar 2, 2023<BR>
+Tags: Tips, Distributed training<BR>
+Company: Neptune AI<BR>
+
 ## [SOON (Spark cOntinuOus iNgestion) for near real-time data at Coinbase - Part 1](https://www.coinbase.com/blog/soon-for-near-real-time-data-at-coinbase-part-1)
 Date: Jan 25, 2023<BR>
 Tags: Real-time data processing<BR>
