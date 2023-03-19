@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+Date: Mar 6, 2023<BR>
+Tags: MogoDB, Cassanra, ScyllaDB, journey<BR>
+Company: Discord<BR>
+
 ## [Distributed Training: Errors to Avoid](https://twitter.com/keigohtr/status/1632897748113707008)
 Date: Mar 2, 2023<BR>
 Tags: Tips, Distributed training<BR>
