@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Training 175B Parameter Language Models at 1000 GPU scale with Alpa and Ray](https://www.anyscale.com/blog/training-175b-parameter-language-models-at-1000-gpu-scale-with-alpa-and-ray)
+Date: Mar 22, 2023<BR>
+Tags: LLMs, Alpa, Ray, Training<BR>
+Company: anyscale<BR>
+
 ## [HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 Date: Mar 6, 2023<BR>
 Tags: MogoDB, Cassanra, ScyllaDB, journey<BR>
