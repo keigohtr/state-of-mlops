@@ -3,7 +3,7 @@ List of awesome mlops articles. Curated from Feb 2022.
 
 https://neptune.ai/blog/ml-platform-guide
 
-## [The Magic of Merlin: Shopify's New Machine Learning Platform]((https://shopify.engineering/merlin-shopify-machine-learning-platform)
+## [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform)
 Date: Apr 6, 2022<BR>
 Tags: Ray, Merlin, MLOps, Platform<BR>
 Company: Shopify<BR>
