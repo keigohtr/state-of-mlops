@@ -1,7 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
-https://neptune.ai/blog/ml-platform-guide
+## [Building a Machine Learning Platform [Definitive Guide]](https://neptune.ai/blog/ml-platform-guide)
+Date: Mar 23, 2023<BR>
+Tags: MLOps, Platform<BR>
+Company: Neptune AI<BR>
 
 ## [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform)
 Date: Apr 6, 2022<BR>
