@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Deploy ML models at the edge with Microk8s, Seldon and Istio](https://medium.com/ubuntu-ai/deploy-ml-models-at-the-edge-with-microk8s-seldon-and-istio-5b97fe695578)
+Date: Mar 24, 2023<BR>
+Tags: Edge, IoT, Tips<BR>
+
 ## [Building a Machine Learning Platform [Definitive Guide]](https://neptune.ai/blog/ml-platform-guide)
 Date: Mar 23, 2023<BR>
 Tags: MLOps, Platform<BR>
