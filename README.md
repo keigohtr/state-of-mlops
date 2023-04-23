@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [A Practitioner's Guide to Monitoring Machine Learning Applications](https://mlops.community/guide-to-monitoring-machine-learning-applications/)
+Date: Apr 11, 2023<BR>
+Tags: Observability<BR>
+
 ## [Deploy ML models at the edge with Microk8s, Seldon and Istio](https://medium.com/ubuntu-ai/deploy-ml-models-at-the-edge-with-microk8s-seldon-and-istio-5b97fe695578)
 Date: Mar 24, 2023<BR>
 Tags: Edge, IoT, Tips<BR>
