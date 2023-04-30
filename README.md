@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Recommended Resources for Starting A/B Testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
+Date: Apr 20, 2023<BR>
+Tags: A/B Testing, Links, Reference<BR>
+
 ## [Evaluate Your Team’s ML Maturity](https://www.comet.com/site/blog/evaluate-your-teams-ml-maturity/)
 Date: Apr 12, 2023<BR>
 Tags: MLOps, Reproducibility, Visibility, Debugging, Monitoring<BR>
