@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Scaling deep retrieval with TensorFlow Recommenders and Vertex AI Matching Engine](https://blog.tensorflow.org/2023/05/scaling-deep-retrieval-with-tensorflow-recommenders-and-vertex-ai-matching-engine.html)
+Date: May 2, 2023<BR>
+Tags: MLOps, Retrieval, TwoTower, GCP<BR>
+Company: Google<BR>
+
 ## [Recommended Resources for Starting A/B Testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
 Date: Apr 20, 2023<BR>
 Tags: A/B Testing, Links, Reference<BR>
