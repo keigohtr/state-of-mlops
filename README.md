@@ -1,6 +1,9 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [MLOps Guide](https://huyenchip.com/mlops/)
+Tags: MLOps, Reference, Career<BR>
+
 ## [Scaling deep retrieval with TensorFlow Recommenders and Vertex AI Matching Engine](https://blog.tensorflow.org/2023/05/scaling-deep-retrieval-with-tensorflow-recommenders-and-vertex-ai-matching-engine.html)
 Date: May 2, 2023<BR>
 Tags: MLOps, Retrieval, TwoTower, GCP<BR>
