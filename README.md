@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [DevEx: What Actually Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
+Date: May 3, 2023<BR>
+Tags: DevEx, Productivity, Management<BR>
+
 ## [MLOps Guide](https://huyenchip.com/mlops/)
 Tags: MLOps, Reference, Career<BR>
 
