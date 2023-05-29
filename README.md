@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Efficiently Scale LLM Training Across a Large GPU Cluster with Alpa and Ray](https://developer.nvidia.com/blog/efficiently-scale-llm-training-across-a-large-gpu-cluster-with-alpa-and-ray/)
+Date: May 2, 2023<BR>
+Tags: Alpa, Ray, JAX, Building LLMs<BR>
+Company: NVIDIA<BR>
+
 ## [DevEx: What Actually Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
 Date: May 3, 2023<BR>
 Tags: DevEx, Productivity, Management<BR>
