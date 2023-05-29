@@ -2,7 +2,7 @@
 List of awesome mlops articles. Curated from Feb 2022.
 
 ## [Efficiently Scale LLM Training Across a Large GPU Cluster with Alpa and Ray](https://developer.nvidia.com/blog/efficiently-scale-llm-training-across-a-large-gpu-cluster-with-alpa-and-ray/)
-Date: May 2, 2023<BR>
+Date: May 15, 2023<BR>
 Tags: Alpa, Ray, JAX, Building LLMs<BR>
 Company: NVIDIA<BR>
 
