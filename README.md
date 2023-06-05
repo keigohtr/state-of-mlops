@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Large Language Models: A Complete Guide](https://heartbeat.comet.ml/large-language-models-a-complete-guide-f818397c82d4)
+Date: May 31, 2023<BR>
+Tags: LLMs, Training, Deploying, Various topics<BR>
+
 ## [Efficiently Scale LLM Training Across a Large GPU Cluster with Alpa and Ray](https://developer.nvidia.com/blog/efficiently-scale-llm-training-across-a-large-gpu-cluster-with-alpa-and-ray/)
 Date: May 15, 2023<BR>
 Tags: Alpa, Ray, JAX, Building LLMs<BR>
