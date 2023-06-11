@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Securing AI Systems — Defensive Strategies](https://medium.datadriveninvestor.com/securing-ai-systems-defensive-strategies-6b1fd6ad33fa)
+Date: Jun 7, 2023<BR>
+Tags: Security, Generative AI, Strategy<BR>
+
 ## [Large Language Models: A Complete Guide](https://heartbeat.comet.ml/large-language-models-a-complete-guide-f818397c82d4)
 Date: May 31, 2023<BR>
 Tags: LLMs, Training, Deploying, Various topics<BR>
