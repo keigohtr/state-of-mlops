@@ -1,6 +1,11 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Model CI/CD with Comet](https://www.comet.com/site/blog/model-ci-cd-with-comet/)
+Date: May 25, 2023<BR>
+Tags: MLOps, Automation, CICD, Drift detection<BR>
+Company: Comet<BR>
+
 ## [ML Ops at Reasonable Scale](https://www.youtube.com/watch?v=Ndxpo4PeEms)
 Date: Jul 23, 2021<BR>
 Tags: Pipeline, MLOps, Data engineering<BR>
