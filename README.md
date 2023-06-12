@@ -1,6 +1,10 @@
 # awesome-mlops-articles
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [ML Ops at Reasonable Scale](https://www.youtube.com/watch?v=Ndxpo4PeEms)
+Date: Jul 23, 2021<BR>
+Tags: Pipeline, MLOps, Data engineering<BR>
+
 ## [Securing AI Systems — Defensive Strategies](https://medium.datadriveninvestor.com/securing-ai-systems-defensive-strategies-6b1fd6ad33fa)
 Date: Jun 7, 2023<BR>
 Tags: Security, Generative AI, Strategy<BR>
