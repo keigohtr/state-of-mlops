@@ -1,4 +1,4 @@
-# awesome-mlops-articles
+# state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
 ## [Model CI/CD with Comet](https://www.comet.com/site/blog/model-ci-cd-with-comet/)
