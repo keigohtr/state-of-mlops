@@ -1,6 +1,11 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [How Google Measures and Manages Tech Debt](https://www.linkedin.com/pulse/how-google-measures-manages-tech-debt-abi-noda/)
+Date: Jun 9, 2023<BR>
+Tags: Technical debt, Maturity model<BR>
+Company: Google<BR>
+
 ## [Model CI/CD with Comet](https://www.comet.com/site/blog/model-ci-cd-with-comet/)
 Date: May 25, 2023<BR>
 Tags: MLOps, Automation, CICD, Drift detection<BR>
