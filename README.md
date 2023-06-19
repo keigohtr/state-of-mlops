@@ -1,6 +1,11 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Monitoring Machine Learning Models in Production](https://heartbeat.comet.ml/monitoring-machine-learning-models-in-production-c999103332ce)
+Date: Jun 13, 2023<BR>
+Tags: Monitoring<BR>
+Company: Comet<BR>
+
 ## [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
 Date: Jun 19, 2023<BR>
 Tags: Visualization, Notebook, Drift detection<BR>
