@@ -1,6 +1,9 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [8 annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
+Tags: Tips, AB test, mistake<BR>
+
 ## [Monitoring Machine Learning Models in Production](https://heartbeat.comet.ml/monitoring-machine-learning-models-in-production-c999103332ce)
 Date: Jun 13, 2023<BR>
 Tags: Monitoring<BR>
