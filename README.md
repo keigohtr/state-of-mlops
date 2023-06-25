@@ -1,6 +1,10 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Mitigations](https://atlas.mitre.org/mitigations/)
+Tags: Security<BR>
+Company: Mitre<BR>
+
 ## [8 annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
 Tags: Tips, AB test, mistake<BR>
 
