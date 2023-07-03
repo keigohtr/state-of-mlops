@@ -1,6 +1,9 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [You Don't Need a Bigger Boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
+Tags: MLOps, Sample<BR>
+
 ## [MLOps Landscape in 2023: Top Tools and Platforms](https://neptune.ai/blog/mlops-tools-platforms-landscape)
 Tags: Landscape<BR>
 Company: Neptune AI<BR>
