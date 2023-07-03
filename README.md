@@ -1,6 +1,11 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Dealing with Train-serve Skew in Real-time ML Models: A Short Guide](https://building.nubank.com.br/dealing-with-train-serve-skew-in-real-time-ml-models-a-short-guide/)
+Date: Jun 23, 2023<BR>
+Tags: Drift detection, Realtime ML, Monitoring<BR>
+Company: Nubank<BR>
+
 ## [You Don't Need a Bigger Boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
 Tags: MLOps, Sample<BR>
 
