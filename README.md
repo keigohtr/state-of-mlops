@@ -1,6 +1,10 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [MLOps Landscape in 2023: Top Tools and Platforms](https://neptune.ai/blog/mlops-tools-platforms-landscape)
+Tags: Landscape<BR>
+Company: Neptune AI<BR>
+
 ## [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
 Tags: Chatbot, LLMs, Guardrails, OSS<BR>
 Company: NVIDIA<BR>
