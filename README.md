@@ -1,6 +1,16 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [ML system design: 200 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
+Date: Jun 12, 2023<BR>
+Tags: List of ML system design<BR>
+Company: Evidently AI<BR>
+
+## [How to Deploy an AI Model in Python with PyTriton](https://developer.nvidia.com/blog/how-to-deploy-an-ai-model-in-python-with-pytriton/)
+Date: Jun 28, 2023<BR>
+Tags: PyTriton, Triton Inference Server<BR>
+Company: NVIDIA<BR>
+
 ## [Dealing with Train-serve Skew in Real-time ML Models: A Short Guide](https://building.nubank.com.br/dealing-with-train-serve-skew-in-real-time-ml-models-a-short-guide/)
 Date: Jun 23, 2023<BR>
 Tags: Drift detection, Realtime ML, Monitoring<BR>
