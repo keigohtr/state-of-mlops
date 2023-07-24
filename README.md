@@ -1,6 +1,14 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Adding Interpretability to PyTorch Models with Captum](https://medium.com/chat-gpt-now-writes-all-my-articles/adding-interpretability-to-pytorch-models-with-captum-221d53fa2dbb)
+Date: Jun 28, 2023<BR>
+Tags: Explainability<BR>
+
+## [Explainable AI: Visualizing Attention in Transformers](https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)
+Date: Jul 18, 2023<BR>
+Tags: Explainability, Transformers, Attention<BR>
+
 ## [ML system design: 200 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 Date: Jun 12, 2023<BR>
 Tags: List of ML system design<BR>
