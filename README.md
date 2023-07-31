@@ -1,6 +1,16 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Effectively solve distributed training convergence issues with Amazon SageMaker Hyperband Automatic Model Tuning](https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/)
+Date: Jun 13, 2023<BR>
+Tags: Hyperparameter, tuning, distributed training<BR>
+Company: Amazon<BR>
+
+## [Launching Data Engine – A toolset for rapid iteration on unstructured datasets](https://dagshub.com/blog/launching-data-engine-toolset-for-unstructured-datasets/)
+Date: Jun 24, 2023<BR>
+Tags: Dataset, Data engine, Data engineering<BR>
+Company: DagsHub<BR>
+
 ## [Adding Interpretability to PyTorch Models with Captum](https://medium.com/chat-gpt-now-writes-all-my-articles/adding-interpretability-to-pytorch-models-with-captum-221d53fa2dbb)
 Date: Jun 28, 2023<BR>
 Tags: Explainability<BR>
