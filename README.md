@@ -1,6 +1,10 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
+Date: Jul, 2023<BR>
+Tags: LLMs, Evaluation, RAG, Fine-tuning, Caching, Guardrails, Defensive UX, Collect user feedback<BR>
+
 ## [Effectively solve distributed training convergence issues with Amazon SageMaker Hyperband Automatic Model Tuning](https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/)
 Date: Jun 13, 2023<BR>
 Tags: Hyperparameter, tuning, distributed training<BR>
