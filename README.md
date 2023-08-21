@@ -1,6 +1,26 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs](https://aws.amazon.com/blogs/machine-learning/deploy-thousands-of-model-ensembles-with-amazon-sagemaker-multi-model-endpoints-on-gpu-to-minimize-your-hosting-costs/)
+Date: Aug 8, 2023<BR>
+Tags: SageMaker, Multi-Model Endpoints, MMEs<BR>
+Company: Amazon<BR>
+
+## [Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator](https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
+Date: Aug 8, 2023<BR>
+Tags: NeMo, Data curation, Data scraping<BR>
+Company: NVIDIA<BR>
+
+## [A layered approach to MLOps](https://medium.com/data-science-at-microsoft/a-layered-approach-to-mlops-d935beefca2e)
+Date: Dec 20, 2022<BR>
+Tags: MLOps, DDD, Working with researcher and engineer, Practice<BR>
+Company: Microsoft<BR>
+
+## [Tutorial: Build an Active Learning Pipeline using Data Engine](https://dagshub.com/blog/active-learning-pipeline-with-data-engine/)
+Date: Aug 15, 2023<BR>
+Tags: Data Engine<BR>
+Company: DagsHub<BR>
+
 ## [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 Date: Jul, 2023<BR>
 Tags: LLMs, Evaluation, RAG, Fine-tuning, Caching, Guardrails, Defensive UX, Collect user feedback<BR>
