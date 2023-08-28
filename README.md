@@ -1,6 +1,27 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Cerebrium](https://www.cerebrium.ai/)
+Tags: SaaS, Serverless<BR>
+Company: cerebrium<BR>
+
+## [An Elegant Puzzle: Systems of Engineering Management](https://github.com/keyvanakbary/learning-notes/blob/master/books/an-elegant-puzzle.md)
+Tags: Engineering management, Reading note<BR>
+
+## [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
+Date: Aug 24, 2023<BR>
+Tags: Coding support, OSS<BR>
+Company: Meta<BR>
+
+## [How to Build a Fully Automated Data Drift Detection Pipeline](https://towardsdatascience.com/how-to-build-a-fully-automated-data-drift-detection-pipeline-e9278584e58d)
+Date: Aug 2, 2023<BR>
+Tags: Drift detection, Workflow, Evidently, Kestra<BR>
+
+## [ML Pipeline Architecture Design Patterns (With 10 Real-World Examples)](https://neptune.ai/blog/ml-pipeline-architecture-design-patterns)
+Date: Aug 11, 2023<BR>
+Tags: Real example, ML pipeline, Workflow<BR>
+Company: Neptune<BR>
+
 ## [Deploy thousands of model ensembles with Amazon SageMaker multi-model endpoints on GPU to minimize your hosting costs](https://aws.amazon.com/blogs/machine-learning/deploy-thousands-of-model-ensembles-with-amazon-sagemaker-multi-model-endpoints-on-gpu-to-minimize-your-hosting-costs/)
 Date: Aug 8, 2023<BR>
 Tags: SageMaker, Multi-Model Endpoints, MMEs<BR>
