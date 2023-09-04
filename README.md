@@ -1,6 +1,19 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Lessons Learnt From Consolidating ML Models in a Large Scale Recommendation System](https://netflixtechblog.medium.com/lessons-learnt-from-consolidating-ml-models-in-a-large-scale-recommendation-system-870c5ea5eb4a)
+Date: Aug 25, 2023<BR>
+Tags: Architect, ML system<BR>
+Company: Netflix<BR>
+
+## [Retrieval-Augmented Generation: How to Use Your Data to Guide LLMs](https://outerbounds.com/blog/retrieval-augmented-generation/)
+Date: Aug 24, 2023<BR>
+Tags: LLMs, RAG, Tunining, Vector search, Guide<BR>
+
+## [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
+Date: Aug 30, 2023<BR>
+Tags: Note, Productivity, DORA, SPACE<BR>
+
 ## [Cerebrium](https://www.cerebrium.ai/)
 Tags: SaaS, Serverless<BR>
 Company: cerebrium<BR>
