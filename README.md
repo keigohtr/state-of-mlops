@@ -1,6 +1,39 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Introducing Glassdoor’s ML Registry: A Centralized Artifact Management Solution](https://medium.com/glassdoor-engineering/introducing-glassdoors-ml-registry-a-centralized-artifact-management-solution-8bff3151cd9d)
+Date: Aug 31, 2023<BR>
+Tags: Artifact registory, In-house solution<BR>
+Company: Glassdoor<BR>
+
+## [Automated trace collection and analysis](https://pytorch.org/blog/automated-trace-collection/)
+Date: Sep 5, 2023<BR>
+Tags: CPU, GPU, Utilization, Profiling<BR>
+Company: PyTorch<BR>
+
+## [Optimize open LLMs using GPTQ and Hugging Face Optimum](https://www.philschmid.de/gptq-llama)
+Date: Aug 31, 2023<BR>
+Tags: LLMs quantization, GPTQ<BR>
+
+## [Organize Your Prompt Engineering with CometLLM](https://heartbeat.comet.ml/organize-your-prompt-engineering-with-cometllm-66e390ef6645)
+Date: Aug 26, 2023<BR>
+Tags: CometLLM<BR>
+Company: Comet<BR>
+
+## [Accelerating AI: Implementing Multi-GPU Distributed Training for Personalized Recommendations](https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/)
+Date: Jun 8, 2023<BR>
+Tags: Distributed training, DP (Data Parallel), DDP (Distributed Data Parallel)<BR>
+
+## [Evaluating the fairness of computer vision models](https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation/)
+Date: Aug 31, 2023<BR>
+Tags: DINOv2, FACET, dataset, fairness, CV<BR>
+Company: Meta<BR>
+
+## [Teaching with AI](https://openai.com/blog/teaching-with-ai)
+Date: Aug 31, 2023<BR>
+Tags: GPT, LLMs, Prompt<BR>
+Company: OpenAI<BR>
+
 ## [Lessons Learnt From Consolidating ML Models in a Large Scale Recommendation System](https://netflixtechblog.medium.com/lessons-learnt-from-consolidating-ml-models-in-a-large-scale-recommendation-system-870c5ea5eb4a)
 Date: Aug 25, 2023<BR>
 Tags: Architect, ML system<BR>
