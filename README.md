@@ -1,6 +1,23 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)
+Date: Sep, 2023<BR>
+Tags: Hallucination, survey, LLM, Summarization<BR>
+
+## [Optimizing LLMs From a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
+Date: Sep 15, 2023<BR>
+Tags: LLM, Fine tuning, Technique<BR>
+
+## [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
+Date: Sep 10, 2023<BR>
+Tags: LLM, Tuning, Training model, RLHF<BR>
+
+## [Unlocking Multi-GPU Model Training with Dask XGBoost](https://developer.nvidia.com/blog/unlocking-multi-gpu-model-training-with-dask-xgboost/)
+Date: Sep 7, 2023<BR>
+Tags: XGBoost, RAPIDS, Dask, Multi-GPU<BR>
+Company: NVIDIA<BR>
+
 ## [Introducing Glassdoor’s ML Registry: A Centralized Artifact Management Solution](https://medium.com/glassdoor-engineering/introducing-glassdoors-ml-registry-a-centralized-artifact-management-solution-8bff3151cd9d)
 Date: Aug 31, 2023<BR>
 Tags: Artifact registory, In-house solution<BR>
