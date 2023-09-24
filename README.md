@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Accelerating Vector Search: Fine-Tuning GPU Index Algorithms](https://developer.nvidia.com/blog/accelerating-vector-search-fine-tuning-gpu-index-algorithms/)
+Date: Sep 11, 2023<BR>
+Tags: Vector search, Benchmark, RAPIDS AI RAFT<BR>
+Company: NVIDIA<BR>
+
+## [LLM Monitoring and Observability — A Summary of Techniques and Approaches for Responsible AI](https://towardsdatascience.com/llm-monitoring-and-observability-c28121e75c2f)
+Date: Sep 15, 2023<BR>
+Tags: LLMOps, Monitoring, Evaluating, Tracking<BR>
+
+## [Google’s Bard chatbot can now find answers in your Gmail, Docs, Drive](https://www.theverge.com/2023/9/19/23878999/google-bard-ai-chatbot-gmail-docs-drive-extensions)
+Date: Sep 19, 2023<BR>
+Tags: Bard, Chatbot, Application<BR>
+Company: Google<BR>
+
+## [DALL·E 3](https://openai.com/dall-e-3)
+Tags: Text-to-image, ChatGPT plus<BR>
+Company: OpenAI<BR>
+
 ## [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)
 Date: Sep, 2023<BR>
 Tags: Hallucination, survey, LLM, Summarization<BR>
