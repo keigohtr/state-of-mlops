@@ -1,6 +1,20 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
+Date: Sep 29, 2023<BR>
+Tags: Lessons learned, BI tool<BR>
+
+## [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
+Date: Sep 19, 2023<BR>
+Tags: RAG<BR>
+
+## [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
+Tags: Causality, Book<BR>
+
+## [7 Habits of Highly Effective Software Engineers](https://makingsmallercircles.com/articles/7-habits-of-highly-effective-software-engineers/)
+Tags: Mindset<BR>
+
 ## [Accelerating Vector Search: Fine-Tuning GPU Index Algorithms](https://developer.nvidia.com/blog/accelerating-vector-search-fine-tuning-gpu-index-algorithms/)
 Date: Sep 11, 2023<BR>
 Tags: Vector search, Benchmark, RAPIDS AI RAFT<BR>
