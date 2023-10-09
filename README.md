@@ -1,6 +1,31 @@
 # state-of-mlops
 List of awesome mlops articles. Curated from Feb 2022.
 
+## [Retrieval Augmented Generation on audio data with LangChain and Chroma](https://www.assemblyai.com/blog/retrieval-augmented-generation-audio-langchain/)
+Date: Sep 26, 2023<BR>
+Tags: RAG<BR>
+Company: Assembly AI<BR>
+
+## [Chroma](https://python.langchain.com/docs/integrations/vectorstores/chroma)
+Tags: OSS, Vector database<BR>
+
+## [Weaviate](https://weaviate.io/)
+Tags: OSS, Vector database<BR>
+
+## [Prompt Engineering Evolution: Defining the New Program Simulation Prompt Framework](https://towardsdatascience.com/prompt-engineering-evolution-defining-the-new-program-simulation-prompt-framework-d8a1ee096904)
+Date: Sep 29, 2023<BR>
+Tags: Prompt engineering<BR>
+
+## [Training Foundation Improvements for Closeup Recommendation Ranker](https://medium.com/pinterest-engineering/training-foundation-improvements-for-closeup-recommendation-ranker-67d90603426e)
+Date: Sep 27, 2023<BR>
+Tags: MLOps, Automation<BR>
+Company: Pinterest<BR>
+
+## [How LinkedIn Is Using Embeddings to Up Its Match Game for Job Seekers](https://engineering.linkedin.com/blog/2023/how-linkedin-is-using-embeddings-to-up-its-match-game-for-job-se)
+Date: Oct 5, 2023<BR>
+Tags: Embeddings, Two tower, Recommender system<BR>
+Company: LinkedIn<BR>
+
 ## [Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
 Date: Sep 29, 2023<BR>
 Tags: Lessons learned, BI tool<BR>
