@@ -1,5 +1,32 @@
 # state-of-mlops
-List of awesome mlops articles. Curated from Feb 2022.
+List of awesome mlops articles.
+
+## [State of AI Report 2023](https://www.stateof.ai/)
+Date: Oct 12, 2023<BR>
+Tags: Report<BR>
+
+## [Analyzing the Security of Machine Learning Research Code](https://developer.nvidia.com/blog/analyzing-the-security-of-machine-learning-research-code/)
+Date: Oct 4, 2023<BR>
+Tags: Security, Tips, Practice, Credential<BR>
+Company: NVIDIA<BR>
+
+## [Train and Deploy Mistral 7B with Hugging Face on Amazon SageMaker](https://www.philschmid.de/sagemaker-mistral)
+Date: Oct 5, 2023<BR>
+Tags: AWS SageMaker, Serving an LLM, WebAPI<BR>
+
+## [Personalize your generative AI applications with Amazon SageMaker Feature Store](https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/)
+Date: Oct 6, 2023<BR>
+Tags: AWS SageMaker, Serving an LLM<BR>
+Company: AWS<BR>
+
+## [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html)
+Date: Oct 10, 2023<BR>
+Tags: LMM, Multimodal, CLIP, Flamingo<BR>
+
+## [Scaling Large (Language) Models with PyTorch Lightning](https://lightning.ai/blog/scaling-large-language-models-with-pytorch-lightning/)
+Date: Oct 4, 2023<BR>
+Tags: PyTorch Lightning, Training, Sample<BR>
+Company: Lightning AI<BR>
 
 ## [Retrieval Augmented Generation on audio data with LangChain and Chroma](https://www.assemblyai.com/blog/retrieval-augmented-generation-audio-langchain/)
 Date: Sep 26, 2023<BR>
