@@ -1,6 +1,13 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Reflections on AI Engineer Summit 2023](https://eugeneyan.com/writing/aieng-reflections/)
+Date: Oct, 2023<BR>
+Tags: LLMOps, Practice<BR>
+
+## [Startup CTO Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/README.md)
+Tags: Engineering management<BR>
+
 ## [State of AI Report 2023](https://www.stateof.ai/)
 Date: Oct 12, 2023<BR>
 Tags: Report<BR>
