@@ -1,6 +1,27 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
+Date: Oct, 2023<BR>
+Tags: SRE, Lessons learned<BR>
+Company: Google<BR>
+
+## [The Guide To LLM Evals: How To Build and Benchmark Your Evals](https://towardsdatascience.com/llm-evals-setup-and-the-metrics-that-matter-2cc27e8e35f3)
+Date: Oct 13, 2023<BR>
+Tags: LLMOps, Performance evaluation<BR>
+
+## [An Intro to Real-Time Machine Learning](https://tonysun9.github.io/blog/2023/intro-rtml/)
+Date: Oct, 2023<BR>
+Tags: Feature store, Realtime ML<BR>
+
+## [Branches Are All You Need: Our Opinionated ML Versioning Framework](https://towardsdatascience.com/branches-are-all-you-need-our-opinionated-ml-versioning-framework-057924a4a3a9)
+Date: Oct 10, 2023<BR>
+Tags: ML versioning, Git branch<BR>
+
+## [Advanced RAG Implementation on Custom Data Using Hybrid Search, Embed Caching And Mistral-AI](https://medium.aiplanet.com/advanced-rag-implementation-on-custom-data-using-hybrid-search-embed-caching-and-mistral-ai-ce78fdae4ef6)
+Date: Oct 9, 2023<BR>
+Tags: RAG, Implementation<BR>
+
 ## [Reflections on AI Engineer Summit 2023](https://eugeneyan.com/writing/aieng-reflections/)
 Date: Oct, 2023<BR>
 Tags: LLMOps, Practice<BR>
