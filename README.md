@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [High-Performance Llama 2 Training and Inference with PyTorch/XLA on Cloud TPUs](https://pytorch.org/blog/high-performance-llama-2/)
+Date: Nov 6, 2023<BR>
+Tags: TPU, PyTorch, Llama2, Training, Inference, High performance<BR>
+Company: PyTorch<BR>
+
+## [Boosting RAG: Picking the Best Embedding & Reranker models](https://blog.llamaindex.ai/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83)
+Date: Nov 3, 2023<BR>
+Tags: RAG, Evaluation, Rerankers<BR>
+
+## [Production-Ready Observability Platform for AI Systems](https://medium.com/@bijit211987/production-ready-observability-platform-for-ai-systems-17923d19639b)
+Date: Nov 3, 2023<BR>
+Tags: MLOps, Observability, Good Reference<BR>
+
+## [New models and developer products announced at DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
+Date: Nov 6, 2023<BR>
+Tags: Update, ChatGPT<BR>
+Company: OpenAI<BR>
+
 ## [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 Date: Oct, 2023<BR>
 Tags: SRE, Lessons learned<BR>
