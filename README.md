@@ -1,6 +1,22 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Learning JAX as a PyTorch developer](https://kidger.site/thoughts/torch2jax/)
+Date: Nov 9, 2023<BR>
+Tags: JAX, PyTorch, Tips<BR>
+
+## [make real, the story so far](https://tldraw.substack.com/p/make-real-the-story-so-far)
+Date: Nov 19, 2023<BR>
+Tags: Application, OpenAI, ChatGPT<BR>
+
+## [Ingesting Data for Semantic Searches in a Production-Ready Way](https://arize.com/blog/ingesting-data-for-semantic-searches-in-a-production-ready-way/)
+Date: Nov 19, 2023<BR>
+Tags: LLMOps<BR>
+
+## [Key takeaways from the Biden administration executive order on AI](https://www.ey.com/en_us/public-policy/key-takeaways-from-the-biden-administration-executive-order-on-ai)
+Date: Oct 31, 2023<BR>
+Tags: Executive Order on AI<BR>
+
 ## [High-Performance Llama 2 Training and Inference with PyTorch/XLA on Cloud TPUs](https://pytorch.org/blog/high-performance-llama-2/)
 Date: Nov 6, 2023<BR>
 Tags: TPU, PyTorch, Llama2, Training, Inference, High performance<BR>
