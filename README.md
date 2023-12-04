@@ -1,6 +1,25 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Unveiling the Core of Instacart’s Griffin 2.0: A Deep Dive into the Machine Learning Training Platform](https://tech.instacart.com/unveiling-the-core-of-instacarts-griffin-2-0-8ecb310c8d32)
+Date: Nov 21, 2023<BR>
+Tags: ML Platform, Training<BR>
+Company: Instacart<BR>
+
+## [Mastering ML Model Evaluation with Giskard: From Validation to CI/CD Integration](https://www.giskard.ai/knowledge/machine-learning-validation-with-giskard)
+Date: Oct 24, 2023<BR>
+Tags: Model evaluation, Scan, Vulnerability<BR>
+Company: Giskard<BR>
+
+## [Boost inference performance for LLMs with new Amazon SageMaker containers](https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-llms-with-new-amazon-sagemaker-containers/)
+Date: Nov 27, 2023<BR>
+Tags: LLMs, AWS SageMaker<BR>
+Company: AWS<BR>
+
+## [Automatic detection of hallucination with SelfCheckGPT](https://colab.research.google.com/drive/1Qhq2FO4FFX_MKN5IEgia_PrBEttxCQG4)
+Date: Nov, 2023<BR>
+Tags: Hallucination<BR>
+
 ## [Learning JAX as a PyTorch developer](https://kidger.site/thoughts/torch2jax/)
 Date: Nov 9, 2023<BR>
 Tags: JAX, PyTorch, Tips<BR>
