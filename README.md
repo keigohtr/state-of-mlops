@@ -1,6 +1,19 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
+Date: Nov 28, 2023<BR>
+Tags: LLMs, Vulnerbility<BR>
+
+## [LMQL — SQL for Language Models](https://towardsdatascience.com/lmql-sql-for-language-models-d7486d88c541)
+Date: Nov 28, 2023<BR>
+Tags: LLMOps<BR>
+
+## [Designing a Distributed SQL Engine: Challenges & Decisions](https://en.oceanbase.com/blog/2596985600)
+Date: Apr 23, 2023
+Tags: Engineering<BR>
+Company: OceanBase<BR>
+
 ## [Unveiling the Core of Instacart’s Griffin 2.0: A Deep Dive into the Machine Learning Training Platform](https://tech.instacart.com/unveiling-the-core-of-instacarts-griffin-2-0-8ecb310c8d32)
 Date: Nov 21, 2023<BR>
 Tags: ML Platform, Training<BR>
