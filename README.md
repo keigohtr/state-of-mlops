@@ -3,14 +3,14 @@ List of awesome mlops articles.
 
 ## [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 Date: Nov 28, 2023<BR>
-Tags: LLMs, Vulnerbility<BR>
+Tags: LLMs, Vulnerabilities<BR>
 
 ## [LMQL — SQL for Language Models](https://towardsdatascience.com/lmql-sql-for-language-models-d7486d88c541)
 Date: Nov 28, 2023<BR>
 Tags: LLMOps<BR>
 
 ## [Designing a Distributed SQL Engine: Challenges & Decisions](https://en.oceanbase.com/blog/2596985600)
-Date: Apr 23, 2023
+Date: Apr 23, 2023<BR>
 Tags: Engineering<BR>
 Company: OceanBase<BR>
 
