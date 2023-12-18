@@ -1,6 +1,29 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Our First Netflix Data Engineering Summit](https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102)
+Date: Dec 15, 2023<BR>
+Tags: Data Engineering, Practice<BR>
+Company: Netflix<BR>
+
+## [Minimize real-time inference latency by using Amazon SageMaker routing strategies](https://aws.amazon.com/blogs/machine-learning/minimize-real-time-inference-latency-by-using-amazon-sagemaker-routing-strategies/)
+Date: Nov 30, 2023<BR>
+Tags: SageMaker, real-time inference<BR>
+Company: AWS<BR>
+
+## [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
+Date: Dec 6, 2023<BR>
+Tags: RAG, Practice<BR>
+
+## [Deploy Mixtral 8x7B on Amazon SageMaker](https://www.philschmid.de/sagemaker-deploy-mixtral)
+Date: Dec 12, 2023<BR>
+Tags: RAG, SageMaker, Mixtral<BR>
+
+## [データ品質の5つの分類と品質管理プロセス](https://techblog.kazaneya.com/20231218-dataquality/)
+Date: Dec 18, 2023<BR>
+Tags: Data engineering<BR>
+Company: 風音屋<BR>
+
 ## [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 Date: Nov 28, 2023<BR>
 Tags: LLMs, Vulnerabilities<BR>
