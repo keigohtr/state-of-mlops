@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How Pinterest scaled to 11 million users with only 6 engineers](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
+Date: Oct 3, 2023<BR>
+Tags: Engineering, Practice<BR>
+Company: Pinterest<BR>
+
+## [Optimizing LLMs From a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
+Date: Sep 15, 2023<BR>
+Tags: LLMs, Dataset, Finetuning<BR>
+
+## [Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
+Date: Dec 17, 2023<BR>
+Tags: RAG, Techniques<BR>
+
+## [Efficient Vector Similarity Search in Recommender Workflows Using Milvus with NVIDIA Merlin](https://milvus.io/blog/efficient-vector-similarity-search-recommender-workflows-using-milvus-nvidia-merlin.md)
+Date: Dec 15, 2023<BR>
+Tags: Practice, Vector search, Recommender, NVIDIA Merlin, Milvus<BR>
+Company: Milvus<BR>
+
 ## [Our First Netflix Data Engineering Summit](https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102)
 Date: Dec 15, 2023<BR>
 Tags: Data Engineering, Practice<BR>
