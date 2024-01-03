@@ -1,6 +1,17 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation](https://github.com/cumulo-autumn/StreamDiffusion)
+Tags: Diffusion model, OSS<BR>
+
+## [How To Use Comet At Different Stages of ML Projects](https://www.comet.com/site/blog/how-to-use-comet-at-different-stages-of-ml-projects/)
+Date: Dec 20, 2023<BR>
+Tags: Practice, MLOps<BR>
+Company: Comet<BR>
+
+## [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+Tags: LLM links<BR>
+
 ## [How Pinterest scaled to 11 million users with only 6 engineers](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 Date: Oct 3, 2023<BR>
 Tags: Engineering, Practice<BR>
