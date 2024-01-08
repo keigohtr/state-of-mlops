@@ -1,6 +1,20 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
+Date: Dec 22, 2023<BR>
+Tags: Summary<BR>
+Company: Google<BR>
+
+## [Evaluating Prompts: A Developer’s Guide](https://arize.com/blog-course/evaluating-prompt-playground/)
+Date: Dec 19, 2023<BR>
+Tags: LLM, Prompt engineering, Evaluation guide<BR>
+Company: arize<BR>
+
+## [Speculative Decoding for 2x Faster Whisper Inference](https://huggingface.co/blog/whisper-speculative-decoding)
+Date: Dec 20, 2023<BR>
+Tags: Whisper, Engineering<BR>
+
 ## [StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation](https://github.com/cumulo-autumn/StreamDiffusion)
 Tags: Diffusion model, OSS<BR>
 
