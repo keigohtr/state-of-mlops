@@ -1,6 +1,21 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [https://github.com/recommenders-team/recommenders](https://github.com/recommenders-team/recommenders)
+Tags: OSS, Recommender system, Algorithm<BR>
+
+## [Generating value from enterprise data: Best practices for Text2SQL and generative AI](https://aws.amazon.com/blogs/machine-learning/generating-value-from-enterprise-data-best-practices-for-text2sql-and-generative-ai/)
+Date: Jan 4, 2024<BR>
+Tags: LLM application, AWS Bedrock<BR>
+Company: AWS<BR>
+
+## [Merge Large Language Models with mergekit](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54)
+Date: Jan 9, 2024<BR>
+Tags: OSS, LLMs merge, Algorithm<BR>
+
+## [https://github.com/DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton)
+Tags: OSS, DAG, Dataflow<BR>
+
 ## [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
 Date: Dec 22, 2023<BR>
 Tags: Summary<BR>
