@@ -1,6 +1,18 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How Meta built the infrastructure for Threads](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads/)
+Date: Dec 19, 2023<BR>
+Tags: ZippyDB, Infrastructure<BR>
+Company: Meta<BR>
+
+## [CI/CD for Machine Learning in 2024: Best Practices to Build, Train, and Deploy](https://medium.com/infer-qwak/ci-cd-for-machine-learning-in-2024-best-practices-to-build-test-and-deploy-c4ad869824d2)
+Date: Dec 27, 2023<BR>
+Tags: CI/CD/CT, MLOps, ML Lifesycle<BR>
+
+## [https://github.com/collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech)
+Tags: OSS, Speech to Text<BR>
+
 ## [https://github.com/recommenders-team/recommenders](https://github.com/recommenders-team/recommenders)
 Tags: OSS, Recommender system, Algorithm<BR>
 
