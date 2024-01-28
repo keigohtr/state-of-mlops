@@ -1,6 +1,15 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Host the Whisper Model on Amazon SageMaker: exploring inference options](https://aws.amazon.com/blogs/machine-learning/host-the-whisper-model-on-amazon-sagemaker-exploring-inference-options/)
+Date: Jan 16, 2024<BR>
+Tags: Open AI Whisper, Amazon SageMaker<BR>
+Company: AWS<BR>
+
+## [Advanced RAG: Query Augmentation for Next-Level Search using LlamaIndex](https://akash-mathur.medium.com/advanced-rag-query-augmentation-for-next-level-search-using-llamaindex-d362fed7ecc3)
+Date: Jan 18, 2024<BR>
+Tags: RAG, LlamaIndex<BR>
+
 ## [How Meta built the infrastructure for Threads](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads/)
 Date: Dec 19, 2023<BR>
 Tags: ZippyDB, Infrastructure<BR>
