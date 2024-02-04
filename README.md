@@ -1,6 +1,26 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices](https://ar5iv.labs.arxiv.org/html/2203.10716)
+Tags: Best Practice, Data Science, Evaluation<BR>
+
+## [Enhance Conversational Agents with LangChain Memory](https://www.comet.com/site/blog/enhance-conversational-agents-with-langchain-memory/)
+Date: Jan 25, 2024<BR>
+Tags: LangChain, ChatOps, Chat agent<BR>
+Company: commet<BR>
+
+## [Doubling Down on Production AI at Tecton](https://www.tecton.ai/blog/announcement-doubling-down-on-production-ai/)
+Date: Dec 19, 2023<BR>
+Tags: News, Feast, Tecton<BR>
+Company: Tecton<BR>
+
+## [LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)
+Date: Jan 30, 2024<BR>
+Tags: News, LLaVA<BR>
+
+## [What is the dumbest thing you have seen in data science?](https://old.reddit.com/r/datascience/comments/1abuu59/what_is_the_dumbest_thing_you_have_seen_in_data/)
+Tags: reddit, dumbest, Data Science<BR>
+
 ## [Host the Whisper Model on Amazon SageMaker: exploring inference options](https://aws.amazon.com/blogs/machine-learning/host-the-whisper-model-on-amazon-sagemaker-exploring-inference-options/)
 Date: Jan 16, 2024<BR>
 Tags: Open AI Whisper, Amazon SageMaker<BR>
