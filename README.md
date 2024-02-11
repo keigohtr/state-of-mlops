@@ -1,6 +1,14 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+Date: Feb 1, 2024<BR>
+Tags: Ops, Infrastructure, Kubernetes, Good and Bad Practice<BR>
+
+## [Top Evaluation Metrics for RAG Failures](https://towardsdatascience.com/top-evaluation-metrics-for-rag-failures-acb27d2a5485)
+Date: Feb 3, 2024<BR>
+Tags: RAG, LLM, Ops, Metrics, Practice<BR>
+
 ## [Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices](https://ar5iv.labs.arxiv.org/html/2203.10716)
 Tags: Best Practice, Data Science, Evaluation<BR>
 
