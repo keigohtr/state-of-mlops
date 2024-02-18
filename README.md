@@ -1,8 +1,7 @@
 # state-of-mlops
 List of awesome mlops articles.
 
-## [Automated Unit Test Improvement using Large Language Models
-at Meta](https://arxiv.org/pdf/2402.09171.pdf)
+## [Automated Unit Test Improvement using Large Language Modelsat Meta](https://arxiv.org/pdf/2402.09171.pdf)
 Tags: Paper, LLM, Unit Test Improvement<BR>
 Company: Meta<BR>
 
