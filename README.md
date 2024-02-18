@@ -1,6 +1,15 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Automated Unit Test Improvement using Large Language Models
+at Meta](https://arxiv.org/pdf/2402.09171.pdf)
+Tags: Paper, LLM, Unit Test Improvement<BR>
+Company: Meta<BR>
+
+## [My MLOps bookshelf](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d)
+Date: Apr 17, 2023<BR>
+Tags: Books<BR>
+
 ## [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 Date: Feb 1, 2024<BR>
 Tags: Ops, Infrastructure, Kubernetes, Good and Bad Practice<BR>
