@@ -1,6 +1,18 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Generative AI Design Patterns: A Comprehensive Guide](https://towardsdatascience.com/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0)
+Date: Feb 14, 2024<BR>
+Tags: GenAI, Practice, Applicaton Pattern<BR>
+
+## [Gemma Open Models](https://ai.google.dev/gemma)
+Tags: AI, OSS<BR>
+Company: Google<BR>
+
+## [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+Date: Jan 30, 2023<BR>
+Tags: Learning resource<BR>
+
 ## [Automated Unit Test Improvement using Large Language Modelsat Meta](https://arxiv.org/pdf/2402.09171.pdf)
 Tags: Paper, LLM, Unit Test Improvement<BR>
 Company: Meta<BR>
