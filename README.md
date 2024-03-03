@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Build an LLM-Powered API Agent for Task Execution](https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/)
+Date: Feb 21, 2024<BR>
+Tags: LLM, Application, API Agent<BR>
+Company: NVIDIA<BR>
+
+## [Intro to DSPy: Goodbye Prompting, Hello Programming!](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)
+Date: Feb 29, 2024<BR>
+Tags: LLMOps, DSPy, Prompt<BR>
+
+## [How to Build an Advanced AI-Powered Enterprise Content Pipeline Using Mixtral 8x7B and Qdrant](https://blog.superteams.ai/how-to-build-an-advanced-ai-powered-enterprise-content-pipeline-using-mixtral-8x7b-and-qdrant-b01aa66e3884)
+Date: Feb 19, 2024<BR>
+Tags: LLM, Search, Touch and Try<BR>
+
+## [Top 5 Web Scraping Methods: Including Using LLMs](https://www.comet.com/site/blog/top-5-web-scraping-methods-including-using-llms/)
+Date: Feb 26, 2024<BR>
+Tags: Scraping<BR>
+Company: comet<BR>
+
 ## [Generative AI Design Patterns: A Comprehensive Guide](https://towardsdatascience.com/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0)
 Date: Feb 14, 2024<BR>
 Tags: GenAI, Practice, Applicaton Pattern<BR>
