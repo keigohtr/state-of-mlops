@@ -19,6 +19,10 @@ Date: Feb 26, 2024<BR>
 Tags: Scraping<BR>
 Company: comet<BR>
 
+## [Deploying LLMs Into Production Using TensorRT LLM](https://towardsdatascience.com/deploying-llms-into-production-using-tensorrt-llm-ed36e620dac4)
+Date: Feb 22, 2024<BR>
+Tags: NVIDIA, TensorRT LLM, Tutorial<BR>
+
 ## [Generative AI Design Patterns: A Comprehensive Guide](https://towardsdatascience.com/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0)
 Date: Feb 14, 2024<BR>
 Tags: GenAI, Practice, Applicaton Pattern<BR>
