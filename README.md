@@ -1,6 +1,19 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
+Date: Mar 12, 2024<BR>
+Tags: Infrastructure, High-Level Architecture<BR>
+Company: Meta<BR>
+
+## [LLM Evaluation Metrics: Everything You Need for LLM Evaluation](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
+Date: Jan 22, 2024<BR>
+Tags: deepeval, LLM Evaluation Metrics<BR>
+Company: Confident AI<BR>
+
+## [MIT 6.S087: Foundation Models & Generative AI (2024)](https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR)
+Tags: Lecture<BR>
+
 ## [Build an LLM-Powered API Agent for Task Execution](https://developer.nvidia.com/blog/build-an-llm-powered-api-agent-for-task-execution/)
 Date: Feb 21, 2024<BR>
 Tags: LLM, Application, API Agent<BR>
