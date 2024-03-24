@@ -1,6 +1,20 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Evolving from Rule-based Classifier: Machine Learning Powered Auto Remediation in Netflix Data Platform](https://netflixtechblog.com/evolving-from-rule-based-classifier-machine-learning-powered-auto-remediation-in-netflix-data-039d5efd115b)
+Date: Mar 5, 2024<BR>
+Tags: DevOps, Auto Remediation, OOM error<BR>
+Company: Netflix<BR>
+
+## [PDF-Based Question Answering with Amazon Bedrock and Haystack](https://haystack.deepset.ai/blog/pdf-qa-application-with-bedrock)
+Date: Jan 17, 2024<BR>
+Tags: Practice, Bedrock, OpenSearch, Haystack<BR>
+Company: deepset<BR>
+
+## [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
+Tags: Learning resource<BR>
+Company: Microsoft<BR>
+
 ## [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 Date: Mar 12, 2024<BR>
 Tags: Infrastructure, High-Level Architecture<BR>
