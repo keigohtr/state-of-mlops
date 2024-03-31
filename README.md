@@ -1,6 +1,34 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Supporting Diverse ML Systems at Netflix](https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d)
+Date: Mar 8, 2024<BR>
+Tags: Practice, ML system, Metaflow<BR>
+Company: Netflix<BR>
+
+## [Scaling AI/ML Infrastructure at Uber](https://www.uber.com/en-DE/blog/scaling-ai-ml-infrastructure-at-uber/)
+Date: Mar 28, 2024<BR>
+Tags: Practice, ML Infra<BR>
+Company: Uber<BR>
+
+## [Introducing DBRX: A New State-of-the-Art Open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+Date: Mar 27, 2024<BR>
+Tags: OSS, LLM<BR>
+Company: Databricks<BR>
+
+## [CI/CD for Machine Learning in 2024: Best Practices to Build, Train, and Deploy](https://medium.com/infer-qwak/ci-cd-for-machine-learning-in-2024-best-practices-to-build-test-and-deploy-c4ad869824d2)
+Date: Dec 27, 2023<BR>
+Tags: Practice, MLOps<BR>
+
+## [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](https://huggingface.co/blog/embedding-quantization)
+Date: Mar 22, 2024<BR>
+Tags: LLM, Quantization<BR>
+Company: Hugging Face<BR>
+
+## [7 Methods to Secure LLM Apps from Prompt Injections and Jailbreaks](https://mlops.community/7-methods-to-secure-llm-apps-from-prompt-injections-and-jailbreaks/)
+Date: Mar 26, 2024<BR>
+Tags: Prompt Injection<BR>
+
 ## [Evolving from Rule-based Classifier: Machine Learning Powered Auto Remediation in Netflix Data Platform](https://netflixtechblog.com/evolving-from-rule-based-classifier-machine-learning-powered-auto-remediation-in-netflix-data-039d5efd115b)
 Date: Mar 5, 2024<BR>
 Tags: DevOps, Auto Remediation, OOM error<BR>
