@@ -1,6 +1,14 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=yguq9rSfSp0uy1D1)
+Date: Apr 2, 2024<BR>
+Tags: Learning Resource, Transformers<BR>
+
+## [Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai)
+Date: Apr 4, 2024<BR>
+Tags: For Beginner, Data<BR>
+
 ## [Supporting Diverse ML Systems at Netflix](https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d)
 Date: Mar 8, 2024<BR>
 Tags: Practice, ML system, Metaflow<BR>
