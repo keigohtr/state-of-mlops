@@ -1,9 +1,38 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Shepherd: How Stripe adapted Chronon to scale ML feature development](https://stripe.com/blog/shepherd-how-stripe-adapted-chronon-to-scale-ml-feature-development)
+Date: Apr 15, 2024<BR>
+Tags: Practice, Chronon<BR>
+Company: Stripe<BR>
+
+## [Verba: Building an Open Source, Modular RAG Application](https://weaviate.io/blog/verba-open-source-rag-app)
+Date: Mar 7, 2024<BR>
+Tags: OSS, RAG Application, Verba<BR>
+Company: Weaviate<BR>
+
+## [Our next-generation Meta Training and Inference Accelerator](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
+Date: Apr 10, 2024<BR>
+Tags: Hardware, AI<BR>
+Company: Meta<BR>
+
+## [Measuring trends in AI](https://aiindex.stanford.edu/report/)
+Tags: Report, Trend<BR>
+Company: Stanford Univ<BR>
+
+## [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
+Date: Apr 18, 2024<BR>
+Tags: LLM, Llama3<BR>
+Company: Meta<BR>
+
+## [NSA Publishes Guidance for Strengthening AI System Security](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/)
+Date: Apr 15, 2024<BR>
+Tags: Goverment, Guidance, Security<BR>
+Company: NSA<BR>
+
 ## [Chronon, Airbnb’s ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 Date: Apr 9, 2024<BR>
-Tags: OSS, Feature Platform<BR>
+Tags: OSS, Feature Platform, Chronon<BR>
 Company: Airbnb<BR>
 
 ## [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=yguq9rSfSp0uy1D1)
