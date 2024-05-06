@@ -1,6 +1,31 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Common Pitfalls To Avoid When Using Vector Databases](https://dagshub.com/blog/common-pitfalls-to-avoid-when-using-vector-databases/)
+Date: Apr 29, 2024<BR>
+Tags: Practice, Vector database<BR>
+
+## [Streaming Pipelines for Fine-tuning LLMs and RAG in Real-Time](https://www.comet.com/site/blog/streaming-pipelines-for-fine-tuning-llms/)
+Date: Apr 24, 2024<BR>
+Tags: Streaming pipeline<BR>
+Company: Comet<BR>
+
+## [Building a Chat Application with LangChain, LLMs, and Streamlit for Complex SQL Database Interaction](https://towardsdatascience.com/building-a-chat-app-with-langchain-llms-and-streamlit-for-complex-sql-database-interaction-7433245079f3)
+Date: Feb 10, 2024<BR>
+Tags: LangChain<BR>
+
+## [A Visual Guide to Vision Transformers](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
+Date: Apr 5, 2024<BR>
+Tags: Learning resource, Vision Transformers<BR>
+
+## [Snowflake Launches the World’s Best Practical Text-Embedding Model for Retrieval Use Cases](https://www.snowflake.com/blog/introducing-snowflake-arctic-embed-snowflakes-state-of-the-art-text-embedding-family-of-models/)
+Date: Apr 16, 2024<BR>
+Tags: OSS, LLM<BR>
+Company: Snowflake<BR>
+
+## [Rules of Machine Learning: Best Practices for ML Engineering](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+Tags: Practice, ML Engineering<BR>
+
 ## [Shepherd: How Stripe adapted Chronon to scale ML feature development](https://stripe.com/blog/shepherd-how-stripe-adapted-chronon-to-scale-ml-feature-development)
 Date: Apr 15, 2024<BR>
 Tags: Practice, Chronon<BR>
