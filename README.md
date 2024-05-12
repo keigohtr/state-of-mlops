@@ -1,6 +1,16 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [MOMENT](https://github.com/moment-timeseries-foundation-model/moment?tab=readme-ov-file)
+Tags: OSS, Time series ML<BR>
+Company: Carnegie Mellon University<BR>
+
+## [A first attempt at DSPy Agents from scratch](https://learnbybuilding.ai/tutorials/dspy-agents-from-scratch)
+Tags: Tutorial, DSPy<BR>
+
+## [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai)
+Tags: OSS, Web Scraping, LLM<BR>
+
 ## [Common Pitfalls To Avoid When Using Vector Databases](https://dagshub.com/blog/common-pitfalls-to-avoid-when-using-vector-databases/)
 Date: Apr 29, 2024<BR>
 Tags: Practice, Vector database<BR>
