@@ -1,6 +1,18 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
+Date: May 16, 2024<BR>
+Tags: Learning resource, Llama3, numpy<BR>
+
+## [The 4 Advanced RAG Algorithms You Must Know to Implement](https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
+Date: May 4, 2024<BR>
+Tags: Practice, RAG<BR>
+
+## [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
+Tags: VSCode extension, Data engineering<BR>
+Company: Microsoft<BR>
+
 ## [MOMENT](https://github.com/moment-timeseries-foundation-model/moment?tab=readme-ov-file)
 Tags: OSS, Time series ML<BR>
 Company: Carnegie Mellon University<BR>
