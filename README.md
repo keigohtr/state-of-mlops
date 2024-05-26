@@ -1,6 +1,19 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How To Organize Continuous Delivery of ML/AI Systems: a 10-Stage Maturity Model](https://outerbounds.com/blog/continuous-delivery-of-ml-ai/)
+Date: May 17, 2024<BR>
+Tags: Guideline, CICD, MLOps<BR>
+Company: Outerbounds<BR>
+
+## [Langfuse](https://langfuse.com/)
+Tags: OSS, LLMOps<BR>
+Company: Langfuse<BR>
+
+## [Building an Observable arXiv RAG Chatbot with LangChain, Chainlit, and Literal AI](https://towardsdatascience.com/building-an-observable-arxiv-rag-chatbot-with-langchain-chainlit-and-literal-ai-9c345fcd1cd8)
+Date: May 14, 2024<BR>
+Tags: Practice, LLM App<BR>
+
 ## [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
 Date: May 16, 2024<BR>
 Tags: Learning resource, Llama3, numpy<BR>
