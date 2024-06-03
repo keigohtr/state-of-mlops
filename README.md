@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Unexpected Anti-Patterns for Engineering Leaders — Lessons From Stripe, Uber & Carta](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
+Tags: Note, Engineering Management<BR>
+
+## [From Predictive to Generative – How Michelangelo Accelerates Uber’s AI Journey](https://www.uber.com/en-TW/blog/from-predictive-to-generative-ai/)
+Date: May 2, 2024<BR>
+Tags: System Design, MLOps, Michelangelo<BR>
+Company: Uber<BR>
+
+## [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
+Date: Jun 8, 2024<BR>
+Tags: Practice, LLMs<BR>
+Company: Applied LLMs<BR>
+
+## [Create a Blog Writer Multi-Agent System using Crewai and Ollama](https://medium.com/the-ai-forum/create-a-blog-writer-multi-agent-system-using-crewai-and-ollama-f47654a5e1cd)
+Date: May 27, 2024<BR>
+Tags: Practice, LLM Apps<BR>
+
+## [MLOps Infrastructure at Mission Lane (Part 1)](https://medium.com/mission-lane-tech-blog/mlops-infrastructure-at-mission-lane-7e780d99496e)
+Date: Jan 31, 2024<BR>
+Tags: System Design, MLOps<BR>
+Company: Mission Lane<BR>
+
+## [Powering Feature Stores with ClickHouse](https://clickhouse.com/blog/powering-featurestores-with-clickhouse)
+Date: Jan 18, 2024<BR>
+Tags: System Design, MLOps<BR>
+Company: ClickHouse<BR>
+
 ## [How To Organize Continuous Delivery of ML/AI Systems: a 10-Stage Maturity Model](https://outerbounds.com/blog/continuous-delivery-of-ml-ai/)
 Date: May 17, 2024<BR>
 Tags: Guideline, CICD, MLOps<BR>
