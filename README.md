@@ -1,6 +1,42 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Building RAG Applications with NVIDIA NIM and Haystack on K8s](https://haystack.deepset.ai/blog/haystack-nvidia-nim-rag-guide)
+Tags: Tutorial, NVIDIA NIM, Haystack<BR>
+
+## [NVIDIA NIM Offers Optimized Inference Microservices for Deploying AI Models at Scale](https://developer.nvidia.com/blog/nvidia-nim-offers-optimized-inference-microservices-for-deploying-ai-models-at-scale/)
+Date: Mar 18, 2024<BR>
+Tags: News, NVIDIA NIM<BR>
+Company: NVIDIA<BR>
+
+## [NVIDIA NIM Inference Microservice](https://docs.llamaindex.ai/en/stable/examples/llm/nvidia_nim/)
+Tags: Tutorial, NVIDIA NIM, LlamaIndex<BR>
+Company: LlamaIndex<BR>
+
+## [The 10 Minute Guide to Reliable RAG Systems Using Patronus AI, MongoDB Atlas, and LlamaIndex](https://www.patronus.ai/blog/the-10-minute-guide-to-reliable-rag-systems-using-patronus-ai-mongodb-atlas-and-llamaindex)
+Date: Jan 10, 2024<BR>
+Tags: Tutorial, Patronus AI, RAG<BR>
+Company: Patronus AI<BR>
+
+## [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
+Date: Jun 6, 2024<BR>
+Tags: Blog, Software Engineer, AI support<BR>
+Company: Google<BR>
+
+## [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
+Date: Dec 22, 2023<BR>
+Tags: Paper, Developer Productivity<BR>
+Company: Google<BR>
+
+## [Open-source Model Fine-Tuning Leaderboard](https://predibase.com/fine-tuning-index)
+Tags: Leaderboard, LLM, Fine Tuning<BR>
+Company: Predibase<BR>
+
+## [Hello Qwen2](https://qwenlm.github.io/blog/qwen2/)
+Date: Jun 7, 2024<BR>
+Tags: OSS, LLM<BR>
+Company: Qwen<BR>
+
 ## [Unexpected Anti-Patterns for Engineering Leaders — Lessons From Stripe, Uber & Carta](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 Tags: Note, Engineering Management<BR>
 
