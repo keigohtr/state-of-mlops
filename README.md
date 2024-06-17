@@ -1,6 +1,37 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
+Date: Jun 12, 2024<BR>
+Tags: Practice, Infrastructure<BR>
+Company: Meta<BR>
+
+## [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
+Date: Jun 10, 2024<BR>
+Tags: Policy, Security, Privacy<BR>
+Company: Apple<BR>
+
+## [How to Build an End-to-End ML Pipeline in 2024](https://mlengineering.medium.com/how-to-build-an-end-to-end-ml-pipeline-in-2024-2f184938a4d5)
+Date: Apr 7, 2024<BR>
+Tags: Learning resources, MLOps<BR>
+
+## [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
+Date: Jun 13, 2024<BR>
+Tags: Technique, LLM Application<BR>
+
+## [Advanced RAG: Corrective Retrieval Augmented Generation (CRAG) with LangGraph](https://blog.gopenai.com/advanced-rag-corrective-retrieval-augmented-generation-crag-b0dd1e42c220)
+Date: Apr 24, 2024<BR>
+Tags: Technique, RAG Application<BR>
+
+## [Monitoring LLM Security in Langfuse](https://langfuse.com/blog/2024-06-monitoring-llm-security)
+Date: May 14, 2024<BR>
+Tags: Tool, LLM, Security<BR>
+Company: Langfuse<BR>
+
+## [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU?si=VOpi0QWiw75PN4Pf)
+Date: Jun 10, 2024<BR>
+Tags: Learning resources, Hands-on, GPT-2<BR>
+
 ## [Building RAG Applications with NVIDIA NIM and Haystack on K8s](https://haystack.deepset.ai/blog/haystack-nvidia-nim-rag-guide)
 Tags: Tutorial, NVIDIA NIM, Haystack<BR>
 
