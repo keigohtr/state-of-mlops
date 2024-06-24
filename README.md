@@ -1,6 +1,20 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Data + AI Summit 2024 - Keynotes](https://www.youtube.com/playlist?list=PLTPXxbhUt-YXh57uL3QUQiKLwTf39IoT1)
+Date: Jun, 2024<BR>
+Tags: Summit, Data + AI Summit<BR>
+Company: Databricks<BR>
+
+## [Beyond the Basics of Retrieval for Augmenting Generation](https://parlance-labs.com/education/rag/ben.html)
+Date: Jun 12, 2024<BR>
+Tags: Practice, RAG<BR>
+
+## [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
+Date: Jun 18, 2024<BR>
+Tags: OSS, Research, Models, Datasets<BR>
+Company: Meta<BR>
+
 ## [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
 Date: Jun 12, 2024<BR>
 Tags: Practice, Infrastructure<BR>
