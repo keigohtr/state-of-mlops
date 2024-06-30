@@ -1,6 +1,35 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Scale LLMs with PyTorch 2.0 FSDP on Amazon EKS – Part 2](https://aws.amazon.com/blogs/machine-learning/scale-llms-with-pytorch-2-0-fsdp-on-amazon-eks-part-2/)
+Date: Apr 1, 2024<BR>
+Tags: AWS EKS, LLMs Training<BR>
+Company: AWS<BR>
+
+## [From bare metal to a 70B model: infrastructure set-up and scripts](https://imbue.com/research/70b-infrastructure/)
+Date: Jun 25, 2024<BR>
+Tags: Practice, ML Infra<BR>
+Company: imbue<BR>
+
+## [Deep dive into how Pinterest built its Text-to-SQL solution](https://blog.getwren.ai/what-we-learned-from-pinterests-text-to-sql-solution-840fa5840635)
+Date: May 10, 2024<BR>
+Tags: Text to SQL<BR>
+Company: Pinterest<BR>
+
+## [New Chunking Method for RAG-Systems](https://medium.datadriveninvestor.com/new-chunking-method-for-rag-systems-2eb3523d0420)
+Date: Jun 2, 2024<BR>
+Tags: Knowledge share<BR>
+
+## [Benchmarking Haystack Pipelines for Optimal Performance](https://haystack.deepset.ai/blog/benchmarking-haystack-pipelines)
+Date: Jun 24, 2024<BR>
+Tags: Benchmarking, RAG, Performance<BR>
+Company: Haystack<BR>
+
+## [Gemma 2 is now available to researchers and developers](https://blog.google/technology/developers/google-gemma-2/)
+Date: Jun 27, 2024<BR>
+Tags: OSS, LLMs<BR>
+Company: Google<BR>
+
 ## [Data + AI Summit 2024 - Keynotes](https://www.youtube.com/playlist?list=PLTPXxbhUt-YXh57uL3QUQiKLwTf39IoT1)
 Date: Jun, 2024<BR>
 Tags: Summit, Data + AI Summit<BR>
