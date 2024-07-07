@@ -1,6 +1,27 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Modernizing Uber’s Batch Data Infrastructure with Google Cloud Platform](https://www.uber.com/en-AU/blog/modernizing-ubers-data-infrastructure-with-gcp/)
+Date: May 30, 2024<BR>
+Tags: migration, GCP<BR>
+Company: Uber<BR>
+
+## [Step-by-Step Guide to Choosing the Best Embedding Model for Your Application](https://weaviate.io/blog/how-to-choose-an-embedding-model)
+Date: Jun 4, 2024<BR>
+Tags: FYI, Embeddings<BR>
+Company: Weaviate<BR>
+
+## [Constructing knowledge graphs from text using OpenAI functions](https://bratanic-tomaz.medium.com/constructing-knowledge-graphs-from-text-using-openai-functions-096a6d010c17)
+Date: Oct 20, 2023<BR>
+Tags: Practice, Neo4j, LanguChain<BR>
+
+## [MLOps Org](https://ml-ops.org/)
+Tags: Org<BR>
+
+## [Mastering AI Department Reorganizations: Lessons from the Trenches](https://towardsdatascience.com/mastering-ai-department-reorganizations-lessons-from-the-trenches-16a7459d4a7e)
+Date: Jun 13, 2024<BR>
+Tags: Engineering Management<BR>
+
 ## [Scale LLMs with PyTorch 2.0 FSDP on Amazon EKS – Part 2](https://aws.amazon.com/blogs/machine-learning/scale-llms-with-pytorch-2-0-fsdp-on-amazon-eks-part-2/)
 Date: Apr 1, 2024<BR>
 Tags: AWS EKS, LLMs Training<BR>
