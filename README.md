@@ -1,6 +1,29 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
+Date: Jul 1, 2024<BR>
+Tags: Engineering, Data lake<BR>
+Company: Notion<BR>
+
+## [Deploy Multilingual LLMs with NVIDIA NIM](https://developer.nvidia.com/blog/deploy-multilingual-llms-with-nvidia-nim/)
+Date: Jul 8, 2024<BR>
+Tags: Tutorial, NVIDIA NIM<BR>
+Company: NVIDIA<BR>
+
+## [Google Cloud TPUs made available to Hugging Face users](https://huggingface.co/blog/tpu-inference-endpoints-spaces)
+Date: Jul 9, 2024<BR>
+Tags: NEWS<BR>
+Company: HuggingFace<BR>
+
+## [Extrinsic Hallucinations in LLMs](https://lilianweng.github.io/posts/2024-07-07-hallucination/)
+Date: Jul 7, 2024<BR>
+Tags: Learning Resource, Hallucination<BR>
+
+## [Multi AI Agent Systems 101](https://towardsdatascience.com/multi-ai-agent-systems-101-bac58e3bcc47)
+Date: Jun 17, 2024<BR>
+Tags: Tutorial, CrewAI<BR>
+
 ## [Modernizing Uber’s Batch Data Infrastructure with Google Cloud Platform](https://www.uber.com/en-AU/blog/modernizing-ubers-data-infrastructure-with-gcp/)
 Date: May 30, 2024<BR>
 Tags: migration, GCP<BR>
