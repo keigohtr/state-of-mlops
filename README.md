@@ -1,6 +1,19 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Reasoning through arguments against taking AI safety seriously](https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/)
+Date: Jul 9, 2024<BR>
+Tags: Blog, AI Safety<BR>
+
+## [Introducing Micro Agent: An (Actually Reliable) AI Coding Agent](https://www.builder.io/blog/micro-agent)
+Date: Jun 19, 2024<BR>
+Tags: OSS, Coding assistant<BR>
+Company: builder io<BR>
+
+## [LLM Evaluation doesn't need to be complicated](https://www.philschmid.de/llm-evaluation)
+Date: Jul 11, 2024<BR>
+Tags: Tips, LLM App Evaluation<BR>
+
 ## [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 Date: Jul 1, 2024<BR>
 Tags: Engineering, Data lake<BR>
