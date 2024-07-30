@@ -1,6 +1,15 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
+Date: Jun 8, 2024<BR>
+Tags: Practice, LLM Application<BR>
+
+## [Maestro: Data/ML Workflow Orchestrator at Netflix](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
+Date: Jul 23, 2024<BR>
+Tags: OSS, Workflow<BR>
+Company: Netflix<BR>
+
 ## [Reasoning through arguments against taking AI safety seriously](https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/)
 Date: Jul 9, 2024<BR>
 Tags: Blog, AI Safety<BR>
