@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Amazon’s Exabyte-Scale Migration from Apache Spark to Ray on Amazon EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
+Date: Jul 25, 2024<BR>
+Tags: Practice, Migration from Spark to Ray<BR>
+Company: AWS<BR>
+
+## [LLM Knowledge Graph Builder: From Zero to GraphRAG in Five Minutes](https://neo4j.com/developer-blog/graphrag-llm-knowledge-graph-builder/)
+Date: Jun 19, 2024<BR>
+Tags: Tutorial, Graph RAG<BR>
+Company: neo4j<BR>
+
+## [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+Date: Jul 22, 2024<BR>
+Tags: Learning resource, Quantization<BR>
+
+## [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+Date: Jul 25, 2024<BR>
+Tags: Practice, RAG App<BR>
+
 ## [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
 Date: Jun 8, 2024<BR>
 Tags: Practice, LLM Application<BR>
