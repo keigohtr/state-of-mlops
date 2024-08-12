@@ -1,6 +1,20 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Deploy open LLMs with Terraform and Amazon SageMaker](https://www.philschmid.de/terraform-llm-sagemaker)
+Date: Aug 5, 2024<BR>
+Tags: Tutorial, LLMs, AWS SageMaker, Terraform<BR>
+
+## [CPU-Optimized Embedding Models with fastRAG and Haystack](https://haystack.deepset.ai/blog/cpu-optimized-models-with-fastrag)
+Date: Aug 1, 2024<BR>
+Tags: Experiement, fastRAG<BR>
+Company: Haystack<BR>
+
+## [Securing Generative AI Deployments with NVIDIA NIM and NVIDIA NeMo Guardrails](https://developer.nvidia.com/blog/securing-generative-ai-deployments-with-nvidia-nim-and-nvidia-nemo-guardrails/)
+Date: Aug 5, 2024<BR>
+Tags: Tutorial, NVIDIA NIM, NVIDIA NeMo Guardrails<BR>
+Company: NVIDIA<BR>
+
 ## [Amazon’s Exabyte-Scale Migration from Apache Spark to Ray on Amazon EC2](https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/)
 Date: Jul 25, 2024<BR>
 Tags: Practice, Migration from Spark to Ray<BR>
