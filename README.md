@@ -1,6 +1,19 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://youtu.be/vAmKB7iPkWw?si=EoBkqMy0Q5k6FUyd)
+Date: Aug 7, 2024<BR>
+Tags: Handson, Multimodal Language Model<BR>
+
+## [Introduction to Distributed Pipeline Parallelism](https://pytorch.org/tutorials/intermediate/pipelining_tutorial.html)
+Tags: Tutorial, Distributed system<BR>
+Company: PyTorch<BR>
+
+## [How to Deploy the Open-Source Milvus Vector Database on Amazon EKS](https://milvus.io/blog/how-to-deploy-open-source-milvus-vector-database-on-amazon-eks.md)
+Date: Aug 9, 2024<BR>
+Tags: Handson, Milvus<BR>
+Company: milvus<BR>
+
 ## [Deploy open LLMs with Terraform and Amazon SageMaker](https://www.philschmid.de/terraform-llm-sagemaker)
 Date: Aug 5, 2024<BR>
 Tags: Tutorial, LLMs, AWS SageMaker, Terraform<BR>
