@@ -1,9 +1,23 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Locally running RAG pipeline with Verba and Llama3 with Ollama](https://weaviate.io/blog/local-llm-with-verba-for-rag)
+Date: Jul 9, 2024<BR>
+Tags: Hands-on, RAG, pipeline<BR>
+Company: Weaviate<BR>
+
+## [Prompt caching with Claude](https://www.anthropic.com/news/prompt-caching)
+Date: Aug 15, 2024<BR>
+Tags: Prompt engineering<BR>
+Company: Anthropic<BR>
+
+## [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
+Date: Aug 19, 2024<BR>
+Tags: Blog, Postgres, Vector search<BR>
+
 ## [Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation](https://youtu.be/vAmKB7iPkWw?si=EoBkqMy0Q5k6FUyd)
 Date: Aug 7, 2024<BR>
-Tags: Handson, Multimodal Language Model<BR>
+Tags: Hands-on, Multimodal Language Model<BR>
 
 ## [Introduction to Distributed Pipeline Parallelism](https://pytorch.org/tutorials/intermediate/pipelining_tutorial.html)
 Tags: Tutorial, Distributed system<BR>
@@ -11,7 +25,7 @@ Company: PyTorch<BR>
 
 ## [How to Deploy the Open-Source Milvus Vector Database on Amazon EKS](https://milvus.io/blog/how-to-deploy-open-source-milvus-vector-database-on-amazon-eks.md)
 Date: Aug 9, 2024<BR>
-Tags: Handson, Milvus<BR>
+Tags: Hands-on, Milvus<BR>
 Company: milvus<BR>
 
 ## [Deploy open LLMs with Terraform and Amazon SageMaker](https://www.philschmid.de/terraform-llm-sagemaker)
