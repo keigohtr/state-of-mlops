@@ -1,6 +1,34 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [GenOps: learning from the world of microservices and traditional DevOps](https://cloud.google.com/blog/products/devops-sre/genops-learnings-from-microservices-and-traditional-devops)
+Date: Aug 31, 2024<BR>
+Tags: Practice, GenAIOps<BR>
+Company: Google<BR>
+
+## [Building a serverless RAG application with LlamaIndex and Azure OpenAI](https://www.llamaindex.ai/blog/building-a-serverless-rag-application-with-llamaindex-and-azure-openai)
+Date: Aug 27, 2024<BR>
+Tags: Hands-on, RAG, LlamaIndex, Azure<BR>
+Company: LlamaIndex<BR>
+
+## [Building a Low-Cost Local LLM Server to Run 70 Billion Parameter Models](https://www.comet.com/site/blog/build-local-llm-server/)
+Date: Aug 30, 2024<BR>
+Tags: Hands-on, Local, LLM<BR>
+Company: comet<BR>
+
+## [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+Date: Apr 22, 2020<BR>
+Tags: Learning resource, DB<BR>
+
+## [Aryn](https://www.aryn.ai/)
+Tags: OSS, Extract from PDF<BR>
+Company: Aryn<BR>
+
+## [Enriching and Ingesting Data into Weaviate with Aryn](https://weaviate.io/blog/sycamore-and-weaviate)
+Date: Sep 3, 2024<BR>
+Tags: Hands-on, Aryn, Weaviate<BR>
+Company: Weaviate<BR>
+
 ## [Locally running RAG pipeline with Verba and Llama3 with Ollama](https://weaviate.io/blog/local-llm-with-verba-for-rag)
 Date: Jul 9, 2024<BR>
 Tags: Hands-on, RAG, pipeline<BR>
