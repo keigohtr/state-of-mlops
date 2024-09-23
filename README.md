@@ -1,6 +1,37 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [GPU acceleration with Polars and NVIDIA RAPIDS](https://pola.rs/posts/gpu-engine-release/)
+Date: Sep 17, 2024<BR>
+Tags: News, Polars, GPU, NVIDIA<BR>
+Company: Polars<BR>
+
+## [Introducing llama-deploy, a microservice-based way to deploy LlamaIndex Workflows](https://www.llamaindex.ai/blog/introducing-llama-deploy-a-microservice-based-way-to-deploy-llamaindex-workflows)
+Date: Sep 5, 2024<BR>
+Tags: llama-deploy, workflow<BR>
+Company: LlamaIndex<BR>
+
+## [CUDA-Free Inference for LLMs](https://pytorch.org/blog/cuda-free-inference-for-llms/)
+Date: Sep 4, 2024<BR>
+Tags: Practice<BR>
+Company: LlamaIndex<BR>
+
+## [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
+Date: Sep 12, 2024<BR>
+Tags: News, GPT o1<BR>
+Company: OpenAI<BR>
+
+## [Opik](https://github.com/comet-ml/opik)
+Tags: OSS, LLMOps, Platform<BR>
+Company: Comet<BR>
+
+## [How Much GPU Memory is Needed to Serve a Large Language Model (LLM)?](https://masteringllm.medium.com/how-much-gpu-memory-is-needed-to-serve-a-large-languagemodel-llm-b1899bb2ab5d)
+Date: Aug 17, 2024<BR>
+Tags: Tips<BR>
+
+## [The Pragmatic Programmer for Machine Learning](https://ppml.dev/)
+Tags: Learning resource<BR>
+
 ## [GenOps: learning from the world of microservices and traditional DevOps](https://cloud.google.com/blog/products/devops-sre/genops-learnings-from-microservices-and-traditional-devops)
 Date: Aug 31, 2024<BR>
 Tags: Practice, GenAIOps<BR>
