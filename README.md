@@ -1,6 +1,32 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Introducing Netflix’s Key-Value Data Abstraction Layer](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
+Date: Sep 19, 2024<BR>
+Tags: Practice, Key-Value Store, Pagination<BR>
+Company: Netflix<BR>
+
+## [Optimize and deploy models with Optimum-Intel and OpenVINO GenAI](https://huggingface.co/blog/deploy-with-openvino)
+Date: Sep 20, 2024<BR>
+Tags: Edge, OpenVINO, LLM<BR>
+
+## [GPU-Puzzles](https://github.com/srush/GPU-Puzzles)
+Tags: Learning resources, GPU, CUDA<BR>
+
+## [GenOps: the evolution of MLOps for gen AI](https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-build-and-scale-generative-ai-solutions-with-genops)
+Date: Sep 21, 2024<BR>
+Tags: Blog, GenOps, MLOps<BR>
+Company: Google<BR>
+
+## [langfun](https://github.com/google/langfun)
+Tags: OSS, Plug-and-play<BR>
+Company: Google<BR>
+
+## [Measuring Developer Goals](https://research.google/pubs/measuring-developer-goals/)
+Date: 2024<BR>
+Tags: Paper, Developer Productivity<BR>
+Company: Google<BR>
+
 ## [GPU acceleration with Polars and NVIDIA RAPIDS](https://pola.rs/posts/gpu-engine-release/)
 Date: Sep 17, 2024<BR>
 Tags: News, Polars, GPU, NVIDIA<BR>
