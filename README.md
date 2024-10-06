@@ -1,6 +1,23 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
+Date: Sep 26, 2024<BR>
+Tags: Blog, Data platform<BR>
+Company: ngrok<BR>
+
+## [Airbyte](https://airbyte.com/)
+Tags: OSS, Data pipeline<BR>
+Company: Airbyte<BR>
+
+## [Superset](https://superset.apache.org/)
+Tags: OSS, BI tool<BR>
+Company: Superset<BR>
+
+## [How to train a model on 10k H100 GPUs?](https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html)
+Date: Oct 2, 2024<BR>
+Tags: Blog, GPU cluster<BR>
+
 ## [Introducing Netflix’s Key-Value Data Abstraction Layer](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
 Date: Sep 19, 2024<BR>
 Tags: Practice, Key-Value Store, Pagination<BR>
