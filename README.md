@@ -1,6 +1,18 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [STATE OF AI REPORT 2024](https://www.stateof.ai/)
+Tags: Report, AI<BR>
+
+## [Announcing new products and features for Azure OpenAI Service including GPT-4o-Realtime-Preview with audio and speech capabilities](https://azure.microsoft.com/en-us/blog/announcing-new-products-and-features-for-azure-openai-service-including-gpt-4o-realtime-preview-with-audio-and-speech-capabilities/)
+Date: Oct 1, 2024<BR>
+Tags: Press release, Azure AI<BR>
+Company: Microspft<BR>
+
+## [Building a Legal AI Agent using Azure AI Search, Azure OpenAI, LlamaIndex, and CrewAI](https://farzzy.hashnode.dev/building-a-legal-ai-agent-using-azure-ai-search-azure-openai-llamaindex-and-crewai)
+Date: Aug 22, 2024<BR>
+Tags: Blog, LLM App<BR>
+
 ## [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform)
 Date: Sep 26, 2024<BR>
 Tags: Blog, Data platform<BR>
