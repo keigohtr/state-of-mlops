@@ -1,6 +1,30 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [BitNet](https://github.com/microsoft/BitNet)
+Tags: OSS, 1-bit LLMs<BR>
+Company: Microspft<BR>
+
+## [Real-time Data Infrastructure at Uber](https://arxiv.org/pdf/2104.00087)
+Date: Mar 31, 2021<BR>
+Tags: Paper, System design<BR>
+Company: Uber<BR>
+
+## [Ray Batch Inference at Pinterest (Part 3)](https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385)
+Date: Oct 11, 2024<BR>
+Tags: Ray Batch<BR>
+Company: Pinterest<BR>
+
+## [How Shopify improved consumer search intent with real-time ML](https://cloud.google.com/blog/products/data-analytics/how-shopify-improved-consumer-search-intent-with-real-time-ml)
+Date: Oct 16, 2024<BR>
+Tags: Intent search, Real-time ML<BR>
+Company: Shopify<BR>
+
+## [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/fair-news-segment-anything-2-1-meta-spirit-lm-layer-skip-salsa-lingua/)
+Date: Oct 18, 2024<BR>
+Tags: OSS, Data, Model, SAM<BR>
+Company: Meta<BR>
+
 ## [STATE OF AI REPORT 2024](https://www.stateof.ai/)
 Tags: Report, AI<BR>
 
