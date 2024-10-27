@@ -1,6 +1,32 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
+Date: Oct 23, 2024<BR>
+Tags: PR, Calude, RPA<BR>
+Company: Anthropic<BR>
+
+## [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
+Date: Oct 24, 2024<BR>
+Tags: OSS, Llama, Quantization<BR>
+Company: Meta<BR>
+
+## [Un Ministral, des Ministraux](https://mistral.ai/news/ministraux/)
+Date: Oct 16, 2024<BR>
+Tags: OSS, Mistral, Ministral<BR>
+Company: Mistral<BR>
+
+## [Generalized Contrastive Learning for Multi-Modal Retrieval and Ranking](https://github.com/marqo-ai/GCL)
+Tags: OSS, Dataset, Ranking<BR>
+
+## [Deploy Llama 3.2 Vision on Amazon SageMaker](https://www.philschmid.de/sagemaker-llama32-vision)
+Date: Oct 17, 2024<BR>
+Tags: Hands-on, SageMaker, Llama<BR>
+
+## [PyTorch 2.5 Release Blog](https://pytorch.org/blog/pytorch2-5/)
+Date: Oct 17, 2024<BR>
+Tags: Release note, Pytorch<BR>
+
 ## [BitNet](https://github.com/microsoft/BitNet)
 Tags: OSS, 1-bit LLMs<BR>
 Company: Microspft<BR>
