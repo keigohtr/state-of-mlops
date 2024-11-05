@@ -1,6 +1,31 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Slurm vs Kubernetes: Which to choose for your ML workloads](https://medium.com/nebius/slurm-vs-kubernetes-which-to-choose-for-your-ml-workloads-23e398ce7ece)
+Date: Jun 10, 2024<BR>
+Tags: Learning resource, Slurm, Kubernetes<BR>
+
+## [Introducing the next-level of AI-powered workflows with Amazon Q Developer inline chat](https://aws.amazon.com/blogs/devops/amazon-q-developer-inline-chat/)
+Date: Oct 29, 2024<BR>
+Tags: Amazon Q, Coding support<BR>
+Company: AWS<BR>
+
+## [Time-MoE](https://github.com/Time-MoE/Time-MoE?tab=readme-ov-file)
+Tags: OSS, Dataset<BR>
+
+## [GPT-4o Guardrails Gone: Data Poisoning & Jailbreak-Tuning](https://far.ai/post/2024-10-poisoning/)
+Date: Oct 30, 2024<BR>
+Tags: Blog, Data poisoning<BR>
+Company: FAR.AI<BR>
+
+## [Evaluating Model Retraining Strategies](https://towardsdatascience.com/evaluating-model-retraining-strategies-9c337d95409a)
+Date: Oct 21, 2024<BR>
+Tags: Practice, Drift<BR>
+
+## [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
+Date: Oct 29, 2024<BR>
+Tags: Practice, OSS, pgai, pgvectorscale<BR>
+
 ## [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
 Date: Oct 23, 2024<BR>
 Tags: PR, Calude, RPA<BR>
