@@ -1,6 +1,29 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Deploying LLMs with TorchServe + vLLM](https://pytorch.org/blog/deploying-llms-torchserve-vllm/)
+Date: Oct 31, 2024<BR>
+Tags: TorchServe, LLM<BR>
+Company: PyTorch<BR>
+
+## [RFP Response Generation Workflow (with Human-in-the-Loop)](https://github.com/run-llama/llamacloud-demo/blob/main/examples/report_generation/rfp_response/generate_rfp_hitl.ipynb)
+Tags: Hands-on, Llama<BR>
+
+## [Vector Indexes](https://superlinked.com/vectorhub/articles/vector-indexes)
+Date: Aug 14, 2024<BR>
+Tags: Learning Resource, Vector index<BR>
+Company: VectorHub<BR>
+
+## [BI-as-Code and the New Era of GenBI](https://www.rilldata.com/blog/bi-as-code-and-the-new-era-of-genbi)
+Date: Nov 4, 2024<BR>
+Tags: Blog, BI, GenAI<BR>
+Company: Rill<BR>
+
+## [What is Agentic RAG](https://weaviate.io/blog/what-is-agentic-rag)
+Date: Nov 5, 2024<BR>
+Tags: Blog, RAG Agent<BR>
+Company: Weaviate<BR>
+
 ## [Slurm vs Kubernetes: Which to choose for your ML workloads](https://medium.com/nebius/slurm-vs-kubernetes-which-to-choose-for-your-ml-workloads-23e398ce7ece)
 Date: Jun 10, 2024<BR>
 Tags: Learning resource, Slurm, Kubernetes<BR>
