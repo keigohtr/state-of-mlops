@@ -1,6 +1,27 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Introducing Netflix’s TimeSeries Data Abstraction Layer](https://netflixtechblog.com/introducing-netflix-timeseries-data-abstraction-layer-31552f6326f8)
+Date: Oct 9, 2024<BR>
+Tags: Architecture, Data Platform<BR>
+Company: Netflix<BR>
+
+## [FireDucks : Pandas but 100x faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
+Date: Nov 11, 2024<BR>
+Tags: Pandas, Polars<BR>
+
+## [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+Tags: Learning resources, Prompt tuning<BR>
+
+## [Designing Cognitive Architectures: Agentic Workflow Patterns from Scratch](https://medium.com/google-cloud/designing-cognitive-architectures-agentic-workflow-patterns-from-scratch-63baa74c54bc)
+Date: Oct 25, 2024<BR>
+Tags: Learning resources, Architecture, LLM App<BR>
+
+## [How to deploy and serve multi-host gen AI large open models over GKE](https://cloud.google.com/blog/products/ai-machine-learning/deploy-and-serve-open-models-over-google-kubernetes-engine)
+Date: Nov 9, 2024<BR>
+Tags: Hands-on, Llama, GKE<BR>
+Company: Google<BR>
+
 ## [Deploying LLMs with TorchServe + vLLM](https://pytorch.org/blog/deploying-llms-torchserve-vllm/)
 Date: Oct 31, 2024<BR>
 Tags: TorchServe, LLM<BR>
