@@ -1,6 +1,25 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Automatically generating cloud configurations: Introducing RAGformation](https://www.llamaindex.ai/blog/automatically-generating-cloud-configurations-introducing-ragformation)
+Date: Nov 14, 2024<BR>
+Tags: Architecture, LLM Agent<BR>
+Company: LlamaIndex<BR>
+
+## [65,000 nodes and counting: Google Kubernetes Engine is ready for trillion-parameter AI models](https://cloud.google.com/blog/products/containers-kubernetes/gke-65k-nodes-and-counting)
+Date: Nov 14, 2024<BR>
+Tags: News, GKE, Spanner<BR>
+Company: Google<BR>
+
+## [Tracking Voluntary Commitments](https://www.anthropic.com/voluntary-commitments)
+Date: Nov 18, 2024<BR>
+Tags: Blog, Activities<BR>
+Company: Anthropic<BR>
+
+## [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=6qZe2AgrnZwzJkHU)
+Date: Nov 21, 2024<BR>
+Tags: Learning resource, LLM<BR>
+
 ## [Introducing Netflix’s TimeSeries Data Abstraction Layer](https://netflixtechblog.com/introducing-netflix-timeseries-data-abstraction-layer-31552f6326f8)
 Date: Oct 9, 2024<BR>
 Tags: Architecture, Data Platform<BR>
