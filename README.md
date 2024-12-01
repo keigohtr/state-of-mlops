@@ -1,6 +1,29 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Constructing a Knowledge Graph with LlamaIndex and Memgraph](https://www.llamaindex.ai/blog/constructing-a-knowledge-graph-with-llamaindex-and-memgraph)
+Date: Nov 21, 2024<BR>
+Tags: Hands-on<BR>
+Company: LlamaIndex<BR>
+
+## [Create a Swarm of Agents](https://haystack.deepset.ai/blog/swarm-of-agents)
+Date: Nov 26, 2024<BR>
+Tags: Hands-on<BR>
+Company: Haystack<BR>
+
+## [Perplexity for LLM Evaluation](https://www.comet.com/site/blog/perplexity-for-llm-evaluation/)
+Date: Nov 21, 2024<BR>
+Tags: Evaluation, LLM<BR>
+Company: comet<BR>
+
+## [Which Foundation Model is best for Agent Orchestration](https://artificialintelligencemadesimple.substack.com/p/which-foundation-model-is-best-for)
+Date: Nov 20, 2024<BR>
+Tags: Comparison, LLM<BR>
+
+## [An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
+Date: Jun 11, 2024<BR>
+Tags: Learning resource, Sparse Autoencoder<BR>
+
 ## [Automatically generating cloud configurations: Introducing RAGformation](https://www.llamaindex.ai/blog/automatically-generating-cloud-configurations-introducing-ragformation)
 Date: Nov 14, 2024<BR>
 Tags: Architecture, LLM Agent<BR>
