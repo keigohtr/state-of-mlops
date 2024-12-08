@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [5-Day Gen AI Intensive Course with Google Learn Guide](https://www.kaggle.com/learn-guide/5-day-genai#GenAI)
+Tags: Hands-on, Learning resource, GenAI, LLMOps<BR>
+Company: Google<BR>
+
+## [Create a self-escalating chatbot in Conversational Agents using Webhook and Generators](https://cloud.google.com/blog/topics/developers-practitioners/create-a-self-escalating-chatbot-in-conversational-agents)
+Date: Nov 23, 2024<BR>
+Tags: Hands-on, GenAI, Agent<BR>
+Company: Google<BR>
+
+## [Build an Agentic Video Workflow with Video Search and Summarization](https://developer.nvidia.com/blog/build-an-agentic-video-workflow-with-video-search-and-summarization/)
+Date: Dec 3, 2024<BR>
+Tags: Hands-on, GenAI, Workflow<BR>
+Company: NVIDIA<BR>
+
+## [Deploy QwQ-32B-Preview the best open Reasoning Model on AWS with Hugging Face](https://www.philschmid.de/sagemaker-deploy-qwq)
+Date: Dec 3, 2024<BR>
+Tags: Hands-on, SageMaker, QwQ 32B Model<BR>
+
+## [Veo and Imagen 3: Announcing new video and image generation models on Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai)
+Date: Dec 4, 2024<BR>
+Tags: PR, New Model<BR>
+Company: Google<BR>
+
+## [LLMOps Database](https://www.zenml.io/llmops-database)
+Tags: Learning Resource, LLMOps<BR>
+Company: ZenML<BR>
+
 ## [Constructing a Knowledge Graph with LlamaIndex and Memgraph](https://www.llamaindex.ai/blog/constructing-a-knowledge-graph-with-llamaindex-and-memgraph)
 Date: Nov 21, 2024<BR>
 Tags: Hands-on<BR>
