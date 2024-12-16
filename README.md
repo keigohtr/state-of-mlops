@@ -1,6 +1,42 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Ilya Sutskever: "Sequence to sequence learning with neural networks: what a decade"](https://www.youtube.com/watch?v=1yvBqasHLZs)
+Date: Dec 15, 2024<BR>
+Tags: Learning resource, Presentation, Review<BR>
+
+## [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)
+Date: Sep 27, 2022<BR>
+Tags: Paper, Online Training and Serving<BR>
+
+## [Introducing Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#ceo-message)
+Date: Dec 11, 2024<BR>
+Tags: News, New Model<BR>
+Company: Google<BR>
+
+## [Sora is here](https://openai.com/index/sora-is-here/)
+Date: Dec 9, 2024<BR>
+Tags: News, New Model<BR>
+Company: OpenAI<BR>
+
+## [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/)
+Date: Dec 12, 2024<BR>
+Tags: News, New Model<BR>
+Company: Meta<BR>
+
+## [Designing Multi-Tenancy RAG with Milvus: Best Practices for Scalable Enterprise Knowledge Bases](https://milvus.io/blog/build-multi-tenancy-rag-with-milvus-best-practices-part-one.md)
+Date: Dec 4, 2024<BR>
+Tags: Engineering, RAG, Production<BR>
+Company: milvus<BR>
+
+## [Optimize parsing costs with LlamaParse auto mode](https://www.llamaindex.ai/blog/optimize-parsing-costs-with-llamaparse-auto-mode)
+Date: Dec 9, 2024<BR>
+Tags: News, New Feature<BR>
+Company: LlamaIndex<BR>
+
+## [Taming LLMs](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
+Tags: Practice, LLMOps<BR>
+
 ## [5-Day Gen AI Intensive Course with Google Learn Guide](https://www.kaggle.com/learn-guide/5-day-genai#GenAI)
 Tags: Hands-on, Learning resource, GenAI, LLMOps<BR>
 Company: Google<BR>
