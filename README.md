@@ -1,6 +1,22 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Introducing Phi-4: Microsoft’s Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
+Date: Dec 13, 2024<BR>
+Tags: News, New Model<BR>
+Company: Microsoft<BR>
+
+## [Quick software tips for new ML researchers](https://www.eugenevinitsky.com/posts/quick-software-tips/)
+Tags: Learning resource, ML and MLOps<BR>
+
+## [Archetypes of LLM apps](https://www.contraption.co/archetypes-of-llm-apps/)
+Date: Nov 22, 2024<BR>
+Tags: Learning resouce, LLM App<BR>
+
+## [Introducing Google Agentspace](https://cloud.google.com/blog/products/ai-machine-learning/bringing-ai-agents-to-enterprises-with-google-agentspace)
+Tags: News, New Service<BR>
+Company: Google<BR>
+
 ## [Ilya Sutskever: "Sequence to sequence learning with neural networks: what a decade"](https://www.youtube.com/watch?v=1yvBqasHLZs)
 Date: Dec 15, 2024<BR>
 Tags: Learning resource, Presentation, Review<BR>
