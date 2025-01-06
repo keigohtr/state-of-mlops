@@ -1,6 +1,38 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Intro to LLM Observability: What to Monitor & How to Get Started](https://www.comet.com/site/blog/llm-observability/)
+Date: Dec 19, 2024<BR>
+Tags: Practice, LLM app, Observability<BR>
+Company: Comet<BR>
+
+## [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
+Date: Dec 20, 2024<BR>
+Tags: Practice, LLM app, Agent, Workflow<BR>
+Company: Anthropic<BR>
+
+## [What Are Shapley Interactions, and Why Should You Care?](https://mindfulmodeler.substack.com/p/what-are-shapley-interactions-and)
+Date: Dec 4, 2024<BR>
+Tags: Data science, Math<BR>
+
+## [Streamlining AI Paper Discovery: Building an Automated Research Newsletter](https://wesleypasfield.substack.com/p/streamlining-ai-paper-discovery-building)
+Date: Dec 5, 2024<BR>
+Tags: Blog, LLM app<BR>
+
+## [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+Date: Dec 31, 2024<BR>
+Tags: Review, 2024<BR>
+
+## [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
+Date: Jan 1, 2025<BR>
+Tags: Review, 2024<BR>
+
+## [DuckDB: Crunching Data Anywhere, From Laptops to Servers • Gabor Szarnyas • GOTO 2024](https://www.youtube.com/watch?v=9Rdwh0rNaf0)
+Tags: Learning resource, DuckDB<BR>
+
+## [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://aguvis-project.github.io/)
+Tags: OSS, LLM<BR>
+
 ## [Introducing Phi-4: Microsoft’s Newest Small Language Model Specializing in Complex Reasoning](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
 Date: Dec 13, 2024<BR>
 Tags: News, New Model<BR>
