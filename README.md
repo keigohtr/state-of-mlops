@@ -1,6 +1,22 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Agents](https://huyenchip.com/2025/01/07/agents.html)
+Date: Jan 7, 2025<BR>
+Tags: Overview, Learning resource, AI Agent<BR>
+
+## [AI Agent Workflow Design Patterns — An Overview](https://medium.com/binome/ai-agent-workflow-design-patterns-an-overview-cf9e1f609696)
+Date: Dec 11, 2024<BR>
+Tags: Learning resource, AI Agent<BR>
+
+## [Building Agentic Workflows with Inngest](https://weaviate.io/blog/inngest-ai-workflows)
+Date: Jan 7, 2025<BR>
+Tags: Blog, Workflow, AI Agent<BR>
+Company: weaviate<BR>
+
+## [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
+Tags: OSS, Paper<BR>
+
 ## [Intro to LLM Observability: What to Monitor & How to Get Started](https://www.comet.com/site/blog/llm-observability/)
 Date: Dec 19, 2024<BR>
 Tags: Practice, LLM app, Observability<BR>
