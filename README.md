@@ -1,6 +1,29 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [NVIDIA CEO Jensen Huang Keynote at CES 2025](https://www.youtube.com/watch?v=k82RwXqZHY8)
+Date: Jan 7, 2025<BR>
+Tags: Keynote, Overview<BR>
+Company: NVIDIA<BR>
+
+## [Introducing Agentic Document Workflows](https://www.llamaindex.ai/blog/introducing-agentic-document-workflows)
+Date: Jan 9, 2025<BR>
+Tags: Blog, LLM App, Agent<BR>
+Company: LlamaIndex<BR>
+
+## [Codestral 25.01](https://mistral.ai/news/codestral-2501/)
+Date: Jan, 2025<BR>
+Tags: PR, Coding Support<BR>
+Company: MISTRAL<BR>
+
+## [How to Build AI Agents with LangGraph: A Step-by-Step Guide](https://medium.com/@lorevanoudenhove/how-to-build-ai-agents-with-langgraph-a-step-by-step-guide-5d84d9c7e832)
+Date: Sep 6, 2024<BR>
+Tags: Hands-on, LangGraph<BR>
+
+## [The 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers)
+Date: Dec 28, 2024<BR>
+Tags: Learning resource, Paper<BR>
+
 ## [Agents](https://huyenchip.com/2025/01/07/agents.html)
 Date: Jan 7, 2025<BR>
 Tags: Overview, Learning resource, AI Agent<BR>
