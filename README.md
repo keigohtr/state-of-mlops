@@ -1,6 +1,31 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Common pitfalls when building generative AI applications](https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html)
+Date: Jan 16, 2025<BR>
+Tags: Lesson, AI app<BR>
+
+## [Lessons Learned from Building an AI Sales Assistant](https://developer.nvidia.com/blog/lessons-learned-from-building-an-ai-sales-assistant/)
+Date: Jan 21, 2025<BR>
+Tags: Blog, AI app, LlamaIndex Workflows<BR>
+Company: NVIDIA<BR>
+
+## [Building knowledge graph agents with LlamaIndex Workflows](https://www.llamaindex.ai/blog/building-knowledge-graph-agents-with-llamaindex-workflows)
+Date: Jan 15, 2025<BR>
+Tags: Blog<BR>
+Company: LlamaIndex<BR>
+
+## [The Rise of Single-Node Processing: Challenging the Distributed-First Mindset](https://practicaldataengineering.substack.com/p/the-rise-of-single-node-processing)
+Date: Jan 6, 2025<BR>
+Tags: Overview, Data processing<BR>
+
+## [Cellm](https://github.com/getcellm/cellm?tab=readme-ov-file)
+Tags: OSS, Excel extension<BR>
+
+## [Observability: the present and future, with Charity Majors](https://youtu.be/SvEjS4-2WJQ?si=2ggL6GAskPyq7PfX)
+Date: Jan 23, 2025<BR>
+Tags: Talk, Observability, Honeycomb<BR>
+
 ## [NVIDIA CEO Jensen Huang Keynote at CES 2025](https://www.youtube.com/watch?v=k82RwXqZHY8)
 Date: Jan 7, 2025<BR>
 Tags: Keynote, Overview<BR>
