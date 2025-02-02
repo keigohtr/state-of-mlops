@@ -1,6 +1,35 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Introducing Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
+Date: Jan 24, 2025<BR>
+Tags: RAG App, New Service<BR>
+Company: Anthropic<BR>
+
+## [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
+Date: Jan 28, 2025<BR>
+Tags: Learning resource, Argorithm<BR>
+
+## [Which AI to Use Now: An Updated Opinionated Guide](https://www.oneusefulthing.org/p/which-ai-to-use-now-an-updated-opinionated)
+Date: Jan 26, 2025<BR>
+Tags: Overview<BR>
+
+## [How to align open LLMs in 2025 with DPO & and synthetic data](https://www.philschmid.de/rl-with-llms-in-2025-dpo)
+Date: Jan 23, 2025<BR>
+Tags: Learning resource, Argorithm<BR>
+
+## [State of open video generation models in Diffusers](https://huggingface.co/blog/video_gen)
+Date: Jan 27, 2025<BR>
+Tags: Overview<BR>
+
+## [SmolVLM Grows Smaller – Introducing the 250M & 500M Models!](https://huggingface.co/blog/smolervlm)
+Date: Jan 23, 2025<BR>
+Tags: New LLM, Small LLM<BR>
+
+## [International AI Safety Report](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf)
+Date: Jan, 2025<BR>
+Tags: Report<BR>
+
 ## [Common pitfalls when building generative AI applications](https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html)
 Date: Jan 16, 2025<BR>
 Tags: Lesson, AI app<BR>
