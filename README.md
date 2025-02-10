@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Your Company Needs Small Language Models](https://towardsdatascience.com/your-company-needs-small-language-models-d0a223e0b6d9/)
+Date: Dec 26, 2024<BR>
+Tags: Blog, Strategy<BR>
+
+## [Introducing deep research](https://openai.com/index/introducing-deep-research/)
+Date: Feb 2, 2025<BR>
+Tags: Press Release<BR>
+Company: OpenAI<BR>
+
+## [Building Opik: A Scalable Open-Source LLM Observability Platform](https://www.comet.com/site/blog/llm-observability-architecture-engineering/)
+Date: Jan 29, 2025<BR>
+Tags: OSS, Observability<BR>
+Company: Comet<BR>
+
+## [G-Eval for LLM Evaluation](https://www.comet.com/site/blog/g-eval-for-llm-evaluation/)
+Date: Jan 28, 2025<BR>
+Tags: OSS, Evaluation<BR>
+Company: Comet<BR>
+
+## [Choosing the Right AI Agent Framework: LangGraph vs CrewAI vs OpenAI Swarm](https://blog.relari.ai/choosing-the-right-ai-agent-framework-langgraph-vs-crewai-vs-openai-swarm-56f7931b4249)
+Date: Dec 3, 2024<BR>
+Tags: Blog, Comparison<BR>
+
+## [AI Engineering with Chip Huyen](https://newsletter.pragmaticengineer.com/p/ai-engineering-with-chip-huyen)
+Date: Feb 6, 2025<BR>
+Tags: Interview<BR>
+
 ## [Introducing Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
 Date: Jan 24, 2025<BR>
 Tags: RAG App, New Service<BR>
