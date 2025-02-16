@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [From PDFs to Insights: Structured Outputs from PDFs with Gemini 2.0](https://www.philschmid.de/gemini-pdf-to-data)
+Date: Feb 7, 2025<BR>
+Tags: Hands-on, Pydantic, Python<BR>
+
+## [Hybrid Search Explained](https://weaviate.io/blog/hybrid-search-explained)
+Date: Jan 27, 2025<BR>
+Tags: Blog, Technique<BR>
+Company: Weaviate<BR>
+
+## [Introducing Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
+Date: Feb 14, 2025<BR>
+Tags: Press release<BR>
+Company: Perplexity<BR>
+
+## [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
+Date: Feb 10, 2025<BR>
+Tags: News<BR>
+Company: Anthropic<BR>
+
+## [Introducing AgentWorkflow: A Powerful System for Building AI Agent Systems](https://www.llamaindex.ai/blog/introducing-agentworkflow-a-powerful-system-for-building-ai-agent-systems)
+Date: Jan 22, 2025<BR>
+Tags: Press release, OSS<BR>
+Company: LlamaIndex<BR>
+
+## [Build your own xxx](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file)
+Tags: Links, DIY<BR>
+
 ## [Your Company Needs Small Language Models](https://towardsdatascience.com/your-company-needs-small-language-models-d0a223e0b6d9/)
 Date: Dec 26, 2024<BR>
 Tags: Blog, Strategy<BR>
