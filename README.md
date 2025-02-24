@@ -1,6 +1,18 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/)
+Date: Feb 19, 2025<BR>
+Tags: Practice, GenAI App<BR>
+
+## [When Imperfect Systems are Good, Actually: Bluesky's Lossy Timelines](https://jazco.dev/2025/02/19/imperfection/)
+Date: Feb 19, 2025<BR>
+Tags: Engineering<BR>
+
+## [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=qGYsQpETnsMo-gbi)
+Date: Feb 6, 2025<BR>
+Tags: Learning resource, LLM<BR>
+
 ## [From PDFs to Insights: Structured Outputs from PDFs with Gemini 2.0](https://www.philschmid.de/gemini-pdf-to-data)
 Date: Feb 7, 2025<BR>
 Tags: Hands-on, Pydantic, Python<BR>
