@@ -1,6 +1,39 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [LLM Evaluation Frameworks](https://trilogyai.substack.com/p/llm-evaluation-frameworks)
+Date: Feb 17, 2025<BR>
+Tags: Overview, LLM Evaluation<BR>
+
+## [LLM Juries for Evaluation](https://www.comet.com/site/blog/llm-juries-for-evaluation/)
+Date: Feb 24, 2025<BR>
+Tags: Blog, Opik, LLM Evaluation<BR>
+Company: Comet<BR>
+
+## [Keynote: Why people think "agent" is a buzzword but it isn't](https://www.youtube.com/watch?v=D6v5rlqUIc8)
+Date: Feb 22, 2025<BR>
+Tags: Talk, Agent, Chip Huyen<BR>
+
+## [Beyond RAG: Implementing Agent Search with LangGraph for Smarter Knowledge Retrieval](https://blog.langchain.dev/beyond-rag-implementing-agent-search-with-langgraph-for-smarter-knowledge-retrieval/)
+Date: Feb 22, 2025<BR>
+Tags: Case, LangGraph, Retrieval<BR>
+Company: LangChain<BR>
+
+## [10x Cheaper PDF Processing: Ingesting and RAG on Millions of Documents with Gemini 2.0 Flash](https://ai.gopubby.com/10x-cheaper-pdf-processing-ingesting-and-rag-on-millions-of-documents-with-gemini-2-0-flash-8a93dbbb3b54)
+Date: Feb 14, 2025<BR>
+Tags: Case, RAG<BR>
+
+## [The State of Machine Learning Competitions](https://mlcontests.com/state-of-machine-learning-competitions-2024/)
+Date: Feb, 2025<BR>
+Tags: Overview, Competitions<BR>
+
+## [AIBrix](https://aibrix.readthedocs.io/latest/)
+Tags: OSS, LLM inference<BR>
+
+## [Wan AI](https://wanxai.com/)
+Tags: OSS, Video generation<BR>
+Company: Alibaba<BR>
+
 ## [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/)
 Date: Feb 19, 2025<BR>
 Tags: Practice, GenAI App<BR>
