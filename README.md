@@ -1,6 +1,27 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [The data validation landscape in 2025](https://aeturrell.com/blog/posts/the-data-validation-landscape-in-2025/)
+Date: Mar 5, 2025<BR>
+Tags: Blog, Toolings, Data engineering<BR>
+
+## [Optimizing Query Performance with Materialized Views with Arun Parthiban](https://youtu.be/WayP20Yb1ts?si=D9rs2JNOKIWSj-nN)
+Date: Mar 5, 2025<BR>
+Tags: Presentation, Engineering<BR>
+Company: Datadog<BR>
+
+## [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+Tags: Learning resources<BR>
+Company: MIT<BR>
+
+## [Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget](https://github.com/SonyResearch/micro_diffusion)
+Tags: Paper<BR>
+Company: Sony<BR>
+
+## [CoreWeave and Weights & Biases to Join Forces](https://www.coreweave.com/blog/coreweave-and-weights-biases-to-join-forces)
+Date: Mar 4, 2025<BR>
+Tags: News<BR>
+
 ## [LLM Evaluation Frameworks](https://trilogyai.substack.com/p/llm-evaluation-frameworks)
 Date: Feb 17, 2025<BR>
 Tags: Overview, LLM Evaluation<BR>
