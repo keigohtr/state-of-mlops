@@ -1,6 +1,35 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [What Are Agentic Workflows? Patterns, Use Cases, Examples, and More](https://weaviate.io/blog/what-are-agentic-workflows)
+Date: Mar 6, 2025<BR>
+Tags: Overview, AI agent workflow<BR>
+Company: Weaviate<BR>
+
+## [OmniAI OCR Benchmark](https://getomni.ai/ocr-benchmark)
+Date: Feb 20, 2025<BR>
+Tags: Benchmark, OCR, LLM usecase<BR>
+Company: OmniAI<BR>
+
+## [Defense Against Dishonest Charts](https://flowingdata.com/projects/dishonest-charts/)
+Tags: Learning resource, Data science<BR>
+
+## [Using generative AI to scale DuoRadio 10x faster](https://blog.duolingo.com/scaling-duoradio/)
+Date: Mar 11, 2025<BR>
+Tags: Blog<BR>
+Company: Duolingo<BR>
+
+## [LeRobot goes to driving school](https://huggingface.co/blog/lerobot-goes-to-driving-school)
+Date: Mar 11, 2025<BR>
+Tags: Blog, Autonomous driving<BR>
+
+## [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
+Date: Mar 11, 2025<BR>
+Tags: Press release, AI workflow<BR>
+
+## [THE STARTUP CTO'S HANDBOOK](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
+Tags: Learning resouce, Engineering management<BR>
+
 ## [The data validation landscape in 2025](https://aeturrell.com/blog/posts/the-data-validation-landscape-in-2025/)
 Date: Mar 5, 2025<BR>
 Tags: Blog, Toolings, Data engineering<BR>
