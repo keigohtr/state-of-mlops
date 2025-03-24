@@ -1,6 +1,34 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
+Date: Mar, 2025<BR>
+Tags: Overview, Learning resources, RecSys<BR>
+
+## [Foundation Model for Personalized Recommendation](https://netflixtechblog.medium.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39)
+Date: Mar 22, 2025<BR>
+Tags: Blog, LLMApp, RecSys<BR>
+Company: Netflix<BR>
+
+## [QueryGPT – Natural Language to SQL Using Generative AI](https://www.uber.com/en-TW/blog/query-gpt/)
+Date: Sep 19, 2024<BR>
+Tags: Blog, LLMApp<BR>
+Company: Uber<BR>
+
+## [Scaling Recommendation Systems Training to Thousands of GPUs with 2D Sparse Parallelism](https://pytorch.org/blog/scaling-recommendation-2d-sparse-parallelism/)
+Date: Mar 11, 2025<BR>
+Tags: Press release, PyTorch<BR>
+Company: Meta<BR>
+
+## [Introducing the Weaviate Transformation Agent](https://weaviate.io/blog/transformation-agen)
+Date: Mar 11, 2025<BR>
+Tags: Press release<BR>
+Company: Weaviate<BR>
+
+## [100 Most Watched Python Talks Of 2024](https://www.techtalksweekly.io/p/100-most-watched-python-talks-of)
+Date: Mar 19, 2025<BR>
+Tags: Learning resources<BR>
+
 ## [What Are Agentic Workflows? Patterns, Use Cases, Examples, and More](https://weaviate.io/blog/what-are-agentic-workflows)
 Date: Mar 6, 2025<BR>
 Tags: Overview, AI agent workflow<BR>
