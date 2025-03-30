@@ -1,6 +1,38 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Build GraphRAG applications using Spanner Graph and LangChain](https://cloud.google.com/blog/products/databases/using-spanner-graph-with-langchain-for-graphrag)
+Date: Mar 22, 2025<BR>
+Tags: Design, GraphRAG<BR>
+Company: Google<BR>
+
+## [Open-Source AI Agent Frameworks: Which One Is Right for You?](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
+Date: Mar 19, 2025<BR>
+Tags: Overview, LLM workflow<BR>
+
+## [Parsing PDFs with LlamaParse: a how-to guide](https://www.llamaindex.ai/blog/pdf-parsing-llamaparse)
+Date: Mar 20, 2025<BR>
+Tags: Press release, Data extraction<BR>
+Company: LlamaIndex<BR>
+
+## [Scaling Supervision or: How We Learned to Stop Worrying and Love Bitbucket Pipelines](https://techblog.fetch.com/scaling-supervision-or-how-we-learned-to-stop-worrying-and-love-bitbucket-pipelines-c7396796d069)
+Date: Mar 6, 2025<BR>
+Tags: Blog, Human-in-the-loop, Data management<BR>
+
+## [Microsoft unveils Microsoft Security Copilot agents and new protections for AI](https://www.microsoft.com/en-us/security/blog/2025/03/24/microsoft-unveils-microsoft-security-copilot-agents-and-new-protections-for-ai/)
+Date: Mar 24, 2025<BR>
+Tags: Press release, Security agent<BR>
+Company: Microsoft<BR>
+
+## [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
+Tags: Learning resource, DDD<BR>
+
+## [On the Biology of a Large Language Mode](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+Tags: Learning resource, LLM<BR>
+
+## [Hands-On APIs for AI and Data Science](https://www.oreilly.com/library/view/hands-on-apis-for/9781098164409/)
+Tags: Learning resource, APIs, Python<BR>
+
 ## [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 Date: Mar, 2025<BR>
 Tags: Overview, Learning resources, RecSys<BR>
