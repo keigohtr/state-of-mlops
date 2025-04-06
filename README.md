@@ -1,6 +1,36 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [SelfCheckGPT for LLM Evaluation](https://www.comet.com/site/blog/selfcheckgpt-for-llm-evaluation/)
+Date: Mar 26, 2025<BR>
+Tags: Blog, Hands-on, Opik<BR>
+Company: Comet<BR>
+
+## [Training and Finetuning Reranker Models with Sentence Transformers v4](https://huggingface.co/blog/train-reranker)
+Date: Mar 26, 2025<BR>
+Tags: Blog, Hands-on<BR>
+
+## [Recent reasoning research: GRPO tweaks, base model RL, and data curation](https://www.interconnects.ai/p/papers-im-reading-base-model-rl-grpo)
+Date: Apr 1, 2025<BR>
+Tags: Learning resource<BR>
+
+## [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
+Date: Mar 27, 2025<BR>
+Tags: Blog<BR>
+Company: Anthropic<BR>
+
+## [The 13 software engineering laws](https://newsletter.manager.dev/p/the-13-software-engineering-laws)
+Date: Apr 1, 2025<BR>
+Tags: Practice<BR>
+
+## [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+Date: Apr 5, 2025<BR>
+Tags: Press release, Llama 4<BR>
+Company: Meta<BR>
+
+## [All RL Algorithms from Scratch](https://github.com/FareedKhan-dev/all-rl-algorithms?tab=readme-ov-file)
+Tags: Learning resource, OSS<BR>
+
 ## [Build GraphRAG applications using Spanner Graph and LangChain](https://cloud.google.com/blog/products/databases/using-spanner-graph-with-langchain-for-graphrag)
 Date: Mar 22, 2025<BR>
 Tags: Design, GraphRAG<BR>
