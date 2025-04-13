@@ -1,6 +1,44 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Model Context Protocol (MCP) an overview](https://www.philschmid.de/mcp-introduction)
+Date: Apr 3, 2025<BR>
+Tags: Learning resource, MCP<BR>
+
+## [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+Date: Apr 9, 2025<BR>
+Tags: Press release, OSS, MCP<BR>
+Company: Google<BR>
+
+## [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
+Date: Apr 6, 2025<BR>
+Tags: Blog, MCP, Security<BR>
+
+## [Optimize Gemma 3 Inference: vLLM on GKE](https://medium.com/google-cloud/optimize-gemma-3-inference-vllm-on-gke-c071a08f7c78)
+Date: Apr 8, 2025<BR>
+Tags: Blog, Infrastructure, LLM<BR>
+
+## [Parsing is Hard: Solving Semantic Understanding with Mistral OCR and Milvus](https://milvus.io/blog/parse-is-hard-solve-semantic-understanding-with-mistral-ocr-and-milvus.md)
+Date: Apr 3, 2025<BR>
+Tags: Hands-on, Mistral OCR<BR>
+Company: milvus<BR>
+
+## [Designing for AI Engineers: UI patterns you need to know](https://uxdesign.cc/designing-for-ai-engineers-what-ui-patterns-and-principles-you-need-to-know-8b16a5b62a61)
+Date: Feb 10, 2025<BR>
+Tags: Blog, UX, Design, AI Platform<BR>
+
+## [Taking a responsible path to AGI](https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/)
+Date: Apr 2, 2025<BR>
+Tags: Blog, Ethical AI<BR>
+Company: Google<BR>
+
+## [Big book of R](https://www.bigbookofr.com/)
+Date: Feb 8, 2025<BR>
+Tags: Learning resource<BR>
+
+## [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
+Tags: Report, Industry<BR>
+
 ## [SelfCheckGPT for LLM Evaluation](https://www.comet.com/site/blog/selfcheckgpt-for-llm-evaluation/)
 Date: Mar 26, 2025<BR>
 Tags: Blog, Hands-on, Opik<BR>
