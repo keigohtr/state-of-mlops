@@ -1,6 +1,38 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
+Date: Apr 15, 2025<BR>
+Tags: Learning resource, Engineering, 3FS<BR>
+
+## [An Overview of Late Interaction Retrieval Models: ColBERT, ColPali, and ColQwen](https://weaviate.io/blog/late-interaction-overview)
+Date: Apr 9, 2025<BR>
+Tags: Learning resource, Machine Learning<BR>
+Company: Weaviate<BR>
+
+## [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
+Date: Apr 17, 2025<BR>
+Tags: Learning resource, Engineering<BR>
+
+## [Negative Results for SAEs On Downstream Tasks and Deprioritising SAE Research (GDM Mech Interp Team Progress Update #2)](https://www.lesswrong.com/posts/4uXCAJNuPKtKBsi28/negative-results-for-saes-on-downstream-tasks)
+Date: Mar 25, 2025<BR>
+Tags: Learning resource, Machine Learning, Sparse AutoEncoder<BR>
+
+## [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
+Date: Apr 15, 2025<BR>
+Tags: Press Release<BR>
+Company: Google<BR>
+
+## [Claude takes research to new places](https://www.anthropic.com/news/research)
+Date: Apr 16, 2025<BR>
+Tags: Press Release<BR>
+Company: Anthropic<BR>
+
+## [Introducing GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
+Date: Apr 14, 2025<BR>
+Tags: Press Release<BR>
+Company: OpenAI<BR>
+
 ## [Model Context Protocol (MCP) an overview](https://www.philschmid.de/mcp-introduction)
 Date: Apr 3, 2025<BR>
 Tags: Learning resource, MCP<BR>
