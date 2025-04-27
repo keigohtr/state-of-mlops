@@ -1,6 +1,32 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Optimizing Mixtral 8x7B on Amazon SageMaker with AWS Inferentia2](https://aws.amazon.com/blogs/machine-learning/optimizing-mixtral-8x7b-on-amazon-sagemaker-with-aws-inferentia2/)
+Date: Apr 15, 2025<BR>
+Tags: Hands-on<BR>
+Company: AWS<BR>
+
+## [Unlocking Gen AI at the Edge: Speeding up Transformers by 80% by Removing Self Attention](https://artificialintelligencemadesimple.substack.com/p/speeding-up-transformers-by-80-by)
+Date: Apr 21, 2025<BR>
+Tags: Learning resource<BR>
+
+## [The State of Reinforcement Learning for LLM Reasoning](https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training)
+Date: Apr 19, 2025<BR>
+Tags: Learning resource<BR>
+
+## [OpenAI Codex CLI, how does it work?](https://www.philschmid.de/openai-codex-cli)
+Date: Apr 17, 2025<BR>
+Tags: Learning resource<BR>
+
+## [ImageBind: a new way to ‘link’ AI across the senses](https://imagebind.metademolab.com/)
+Date: Apr, 2025<BR>
+Tags: Press release, LLM<BR>
+Company: Meta<BR>
+
+## [KubeCon + CloudNativeCon Europe 2025 - Keynotes](https://www.youtube.com/playlist?list=PLj6h78yzYM2Of6psbKjeZxZIHjycSYoYF)
+Date: Apr, 2025<BR>
+Tags: Presentation<BR>
+
 ## [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 Date: Apr 15, 2025<BR>
 Tags: Learning resource, Engineering, 3FS<BR>
