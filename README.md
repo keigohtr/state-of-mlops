@@ -1,6 +1,16 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Build an automated generative AI solution evaluation pipeline with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/build-an-automated-generative-ai-solution-evaluation-pipeline-with-amazon-nova/)
+Date: Apr 21, 2025<BR>
+Tags: Hands-on, LLM Evaluation, FMEval, Ragas<BR>
+Company: AWS<BR>
+
+## [Expanding on what we missed with sycophancy](https://openai.com/index/expanding-on-sycophancy/)
+Date: May 2, 2025<BR>
+Tags: Press Release, Retrospective<BR>
+Company: OpenAI<BR>
+
 ## [Optimizing Mixtral 8x7B on Amazon SageMaker with AWS Inferentia2](https://aws.amazon.com/blogs/machine-learning/optimizing-mixtral-8x7b-on-amazon-sagemaker-with-aws-inferentia2/)
 Date: Apr 15, 2025<BR>
 Tags: Hands-on<BR>
