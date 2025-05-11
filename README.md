@@ -1,6 +1,18 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [What Every AI Engineer Should Know About A2A, MCP & ACP](https://medium.com/@elisowski/what-every-ai-engineer-should-know-about-a2a-mcp-acp-8335a210a742)
+Date: Apr 24, 2025<BR>
+Tags: Learning resource<BR>
+
+## [Zero to One: Learning Agentic Patterns](https://www.philschmid.de/agentic-pattern)
+Date: May 5, 2025<BR>
+Tags: Learning resource<BR>
+
+## [Building News Agents for Daily News Recaps with MCP, Q, and tmux](https://eugeneyan.com/writing/news-agents/)
+Date: May, 2025<BR>
+Tags: Blog, Hands-on<BR>
+
 ## [Build an automated generative AI solution evaluation pipeline with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/build-an-automated-generative-ai-solution-evaluation-pipeline-with-amazon-nova/)
 Date: Apr 21, 2025<BR>
 Tags: Hands-on, LLM Evaluation, FMEval, Ragas<BR>
