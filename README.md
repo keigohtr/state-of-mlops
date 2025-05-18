@@ -1,6 +1,43 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [LlamaIndex agentic workflows: Deep Research code-along](https://colab.research.google.com/drive/1xYq4wr4dkmvOuq0Ljwt1W9fIxfR50ekq)
+Date: May, 2025<BR>
+Tags: Hands-on<BR>
+
+## [How to think about agent frameworks](https://blog.langchain.dev/how-to-think-about-agent-frameworks/)
+Date: Apr 20, 2025<BR>
+Tags: Blog<BR>
+Company: LangChain<BR>
+
+## [Vector Search in the Real World: How to Filter Efficiently Without Killing Recall](https://milvus.io/blog/how-to-filter-efficiently-without-killing-recall.md)
+Date: May 12, 2025<BR>
+Tags: Blog, Practice<BR>
+Company: milvus<BR>
+
+## [How to Build an MCP Server in 5 Lines of Python](https://huggingface.co/blog/gradio-mcp)
+Date: Apr 30, 2025<BR>
+Tags: OSS<BR>
+
+## [MetaShuffling: Accelerating Llama 4 MoE Inference](https://pytorch.org/blog/metashuffling-accelerating-llama-4-moe-inference/)
+Date: May 12, 2025<BR>
+Tags: Blog, Learning resource<BR>
+Company: PyTorch<BR>
+
+## [Working on Complex Systems](https://www.thecoder.cafe/p/complex-systems)
+Date: May 7, 2025<BR>
+Tags: Blog<BR>
+
+## [Introducing Codex](https://openai.com/index/introducing-codex/)
+Date: May 16, 2025<BR>
+Tags: Press release<BR>
+Company: OpenAI<BR>
+
+## [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
+Date: May 14, 2025<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
 ## [What Every AI Engineer Should Know About A2A, MCP & ACP](https://medium.com/@elisowski/what-every-ai-engineer-should-know-about-a2a-mcp-acp-8335a210a742)
 Date: Apr 24, 2025<BR>
 Tags: Learning resource<BR>
