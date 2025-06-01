@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Announcing Opik’s Guardrails Beta: Moderate LLM Applications in Real-Time](https://www.comet.com/site/blog/opik-guardrails-release/)
+Date: May 23, 2025<BR>
+Tags: Press release, OSS, LLM security<BR>
+Company: comet<BR>
+
+## [How I built an agent with Pydantic AI and Google Gemini](https://medium.com/google-cloud/how-i-built-an-agent-with-pydantic-ai-and-google-gemini-4887e5dd041d)
+Date: Jan 7, 2025<BR>
+Tags: Blog, Hands-on, Agent<BR>
+
+## [Architecting a Multi-Agent System with Google A2A and ADK](https://medium.com/google-cloud/architecting-a-multi-agent-system-with-google-a2a-and-adk-4ced4502c86a)
+Date: Apr 20, 2025<BR>
+Tags: Blog, Hands-on, Multi-Agent<BR>
+
+## [Iceberg Operation Journey: Takeaways for DB & Server Logs](https://tech.kakao.com/posts/695)
+Date: Apr 18, 2025<BR>
+Tags: Practice, System Design<BR>
+Company: kakao<BR>
+
+## [Exploring Quantization Backends in Diffusers](https://huggingface.co/blog/diffusers-quantization)
+Date: May 21, 2025<BR>
+Tags: Practice, Research<BR>
+Company: Hugging Face<BR>
+
+## [OpenAI & Meta Distinguished Engineer (IC9) On Working With Zuck, Carmack & Career Growth | Philip Su](https://www.developing.dev/p/openai-and-meta-distinguished-engineer)
+Date: May 23, 2025<BR>
+Tags: Video, Story<BR>
+
 ## [LlamaIndex agentic workflows: Deep Research code-along](https://colab.research.google.com/drive/1xYq4wr4dkmvOuq0Ljwt1W9fIxfR50ekq)
 Date: May, 2025<BR>
 Tags: Hands-on<BR>
