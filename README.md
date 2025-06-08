@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [A Technical Tutorial on Reinforcement Learning from Human Feedback](https://blog.ml.cmu.edu/2025/06/01/rlhf-101-a-technical-tutorial-on-reinforcement-learning-from-human-feedback/)
+Date: Jun 1, 2025<BR>
+Tags: Blog, Learning resource, Hands-on<BR>
+
+## [RAG is dead, long live agentic retrieval](https://www.llamaindex.ai/blog/rag-is-dead-long-live-agentic-retrieval)
+Date: May 29, 2025<BR>
+Tags: Blog, Design, RAG<BR>
+Company: LlamaIndex<BR>
+
+## [The State of Enterprise AI in 2025: Measured Progress Over Hype](https://weaviate.io/blog/enterprise-ai-trends-2025)
+Date: May 27, 2025<BR>
+Tags: Review<BR>
+Company: weaviate<BR>
+
+## [Written using Claude](https://github.com/cloudflare/workers-oauth-provider/?tab=readme-ov-file#written-using-claude)
+Tags: AI Coding<BR>
+Company: CloudFlare<BR>
+
 ## [Announcing Opik’s Guardrails Beta: Moderate LLM Applications in Real-Time](https://www.comet.com/site/blog/opik-guardrails-release/)
 Date: May 23, 2025<BR>
 Tags: Press release, OSS, LLM security<BR>
