@@ -1,6 +1,30 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Benchmarking Multi-Agent Architectures](https://blog.langchain.dev/benchmarking-multi-agent-architectures/)
+Date: Jun 10, 2025<BR>
+Tags: Benchmark, Design<BR>
+Company: LangChain<BR>
+
+## [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
+Date: Jun 13, 2025<BR>
+Tags: Blog, Design, Data management<BR>
+Company: Netflix<BR>
+
+## [Building a Production Multimodal Fine-Tuning Pipeline](https://cloud.google.com/blog/topics/developers-practitioners/building-a-production-multimodal-fine-tuning-pipeline)
+Date: Jun 7, 2025<BR>
+Tags: Hands-on, GCP<BR>
+Company: Google<BR>
+
+## [More efficient multi-vector embeddings with MUVERA](https://weaviate.io/blog/muvera)
+Date: Jun 5, 2025<BR>
+Tags: Press release, Technique<BR>
+Company: Weaviate<BR>
+
+## [GitHub MCP Exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
+Date: May 26, 2025<BR>
+Tags: Blog, Security<BR>
+
 ## [A Technical Tutorial on Reinforcement Learning from Human Feedback](https://blog.ml.cmu.edu/2025/06/01/rlhf-101-a-technical-tutorial-on-reinforcement-learning-from-human-feedback/)
 Date: Jun 1, 2025<BR>
 Tags: Blog, Learning resource, Hands-on<BR>
