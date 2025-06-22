@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system)
+Date: Jun 13, 2025<BR>
+Tags: Practice, Design<BR>
+Company: Anthropic<BR>
+
+## [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+Date: Jun 17, 2025<BR>
+Tags: Presentation<BR>
+
+## [Google's Approach for Secure AI Agents](https://research.google/pubs/an-introduction-to-googles-approach-for-secure-ai-agents/)
+Date: 2025<BR>
+Tags: Paper, Practice<BR>
+Company: Google<BR>
+
+## [The State of Engineering Leadership in 2025](https://newsletter.eng-leadership.com/p/the-state-of-engineering-leadership?hide_intro_popup=true)
+Date: Jun 16, 2025<BR>
+Tags: Other, Survey<BR>
+
 ## [Benchmarking Multi-Agent Architectures](https://blog.langchain.dev/benchmarking-multi-agent-architectures/)
 Date: Jun 10, 2025<BR>
 Tags: Benchmark, Design<BR>
