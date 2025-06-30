@@ -1,6 +1,34 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Build an agentic multimodal AI assistant with Amazon Nova and Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/build-an-agentic-multimodal-ai-assistant-with-amazon-nova-and-amazon-bedrock-data-automation/)
+Date: Jun 23, 2025<BR>
+Tags: Design, Hands-on<BR>
+Company: Amazon<BR>
+
+## [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt/)
+Date: Jun 24, 2025<BR>
+Tags: Learning resource, BPE<BR>
+
+## [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
+Date: Jun 21, 2025<BR>
+Tags: Blog, Security<BR>
+Company: Anthropic<BR>
+
+## [Optimizing SQL (and DataFrames) in DataFusion, Part 2: Optimizers in Apache DataFusion](https://datafusion.apache.org/blog/2025/06/15/optimizing-sql-dataframes-part-two/)
+Date: Jun 15, 2025<BR>
+Tags: Learning resource<BR>
+Company: DataFusion<BR>
+
+## [Why Your Vibe Coding Generates Outdated Code and How to Fix It with Milvus MCP](https://milvus.io/blog/why-vibe-coding-generate-outdated-code-and-how-to-fix-it-with-milvus-mcp.md)
+Date: Jun 13, 2025<BR>
+Tags: Press release<BR>
+Company: milvus<BR>
+
+## [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
+Date: Jun 18, 2025<BR>
+Tags: Learning resource<BR>
+
 ## [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system)
 Date: Jun 13, 2025<BR>
 Tags: Practice, Design<BR>
