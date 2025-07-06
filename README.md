@@ -1,6 +1,23 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
+Date: Jun 27, 2025<BR>
+Tags: Design, In-house AI APIs<BR>
+
+## [Training and Finetuning Sparse Embedding Models with Sentence Transformers v5](https://huggingface.co/blog/train-sparse-encoder)
+Date: Jul 1, 2025<BR>
+Tags: OSS, Search domain, Hands-on<BR>
+
+## [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+Date: Jul, 2025<BR>
+Tags: Guide<BR>
+Company: OpenAI<BR>
+
+## [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
+Date: Jul, 2025<BR>
+Tags: Book, TPU<BR>
+
 ## [Build an agentic multimodal AI assistant with Amazon Nova and Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/build-an-agentic-multimodal-ai-assistant-with-amazon-nova-and-amazon-bedrock-data-automation/)
 Date: Jun 23, 2025<BR>
 Tags: Design, Hands-on<BR>
