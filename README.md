@@ -1,6 +1,43 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Andrew Ng: Building Faster with AI](https://youtu.be/RNJCfif1dPY?si=ZVYnZvC_NI3G9fPX)
+Date: Jul 11, 2025<BR>
+Tags: Presentation, For startup<BR>
+
+## [Agent Memory: How to Build Agents that Learn and Remember](https://www.letta.com/blog/agent-memory)
+Date: Jul 7, 2025<BR>
+Tags: Blog<BR>
+
+## [Integrating Long-Term Memory with Gemini 2.5 with Mem0](https://www.philschmid.de/gemini-with-memory)
+Date: Jul 3, 2025<BR>
+Tags: Blog, Hands-on<BR>
+
+## [Advancing Claude for Education](https://www.anthropic.com/news/advancing-claude-for-education)
+Date: Jul 10, 2025<BR>
+Tags: Press release<BR>
+Company: Anthropic<BR>
+
+## [Per-Tensor and Per-Block Scaling Strategies for Effective FP8 Training](https://developer.nvidia.com/blog/per-tensor-and-per-block-scaling-strategies-for-effective-fp8-training/)
+Date: Jul 1, 2025<BR>
+Tags: Engineering<BR>
+Company: NVIDIA<BR>
+
+## [Measuring AI code assistants and agents](https://getdx.com/research/measuring-ai-code-assistants-and-agents/)
+Date: Jul, 2025<BR>
+Tags: Research<BR>
+Company: GetDX<BR>
+
+## [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
+Date: Jul 10, 2025<BR>
+Tags: Research<BR>
+Company: METR<BR>
+
+## [AI Assisted Coding with Cursor AI and Opik](https://www.comet.com/site/blog/cursor-vibe-coding/)
+Date: Jul 7, 2025<BR>
+Tags: Blog<BR>
+Company: comet<BR>
+
 ## [How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
 Date: Jun 27, 2025<BR>
 Tags: Design, In-house AI APIs<BR>
