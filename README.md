@@ -1,6 +1,38 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Stop Saying RAG Is Dead](https://hamel.dev/notes/llm/rag/not_dead.html)
+Date: Jul 12, 2025<BR>
+Tags: Learning resources, Slides<BR>
+
+## [Reasoning reimagined: Introducing Phi-4-mini-flash-reasoning](https://azure.microsoft.com/en-us/blog/reasoning-reimagined-introducing-phi-4-mini-flash-reasoning/)
+Date: Jul 9, 2025<BR>
+Tags: Press release<BR>
+Company: Microsoft<BR>
+
+## [Voxtral](https://mistral.ai/news/voxtral)
+Date: Jul 15, 2025<BR>
+Tags: Press release, Voice AI model, OSS<BR>
+Company: mistral<BR>
+
+## [Introducing Kiro](https://kiro.dev/blog/introducing-kiro/)
+Date: Jul 14, 2025<BR>
+Tags: Press release<BR>
+Company: kiro<BR>
+
+## [Graph foundation models for relational data](https://research.google/blog/graph-foundation-models-for-relational-data/)
+Date: Jul 10, 2025<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
+## [Reflections on OpenAI](https://calv.info/openai-reflections)
+Date: Jul 16, 2025<BR>
+Tags: Blog<BR>
+
+## [What is a Principal Engineer at Amazon? With Steve Huynh](https://youtu.be/vZGycBUc1vM?si=z25_wiWN3j6bvovE)
+Date: Jul 10, 2025<BR>
+Tags: Vlog<BR>
+
 ## [Andrew Ng: Building Faster with AI](https://youtu.be/RNJCfif1dPY?si=ZVYnZvC_NI3G9fPX)
 Date: Jul 11, 2025<BR>
 Tags: Presentation, For startup<BR>
