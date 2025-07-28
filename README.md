@@ -1,6 +1,18 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+Date: Jul 19, 2025<BR>
+Tags: Learning resources, LLMs<BR>
+
+## [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/)
+Date: Jul 24, 2025<BR>
+Tags: Blog<BR>
+
+## [Ray Data, Train & Tune at Klaviyo](https://klaviyo.tech/ray-data-train-tune-at-klaviyo-bca9f14abf21)
+Date: Jul 22, 2025<BR>
+Tags: Blog<BR>
+
 ## [Stop Saying RAG Is Dead](https://hamel.dev/notes/llm/rag/not_dead.html)
 Date: Jul 12, 2025<BR>
 Tags: Learning resources, Slides<BR>
