@@ -1,6 +1,36 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Build enterprise workflows with Langchain and Weaviate v3](https://weaviate.io/blog/enterprise-workflow-langchain-weaviate)
+Date: Jul 30, 2025<BR>
+Tags: Press release, Hands-on<BR>
+Company: Weaviate<BR>
+
+## [Introducing Letta Filesystem](https://www.letta.com/blog/letta-filesystem)
+Date: Jul 24, 2025<BR>
+Tags: Press release<BR>
+Company: Letta<BR>
+
+## [MLOps with Databricks: Free Edition](https://www.youtube.com/playlist?list=PL_MIDuPM12MOcQQjnLDtWCCCuf1Cv-nWL)
+Date: Jul, 2025<BR>
+Tags: Learning resources<BR>
+
+## [Vibe code is legacy code](https://blog.val.town/vibe-code)
+Date: Jul 30, 2025<BR>
+Tags: Blog<BR>
+
+## [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/)
+Date: Jul 30, 2025<BR>
+Tags: Blog, Practice<BR>
+
+## [Building and evaluating alignment auditing agents](https://alignment.anthropic.com/2025/automated-auditing/)
+Date: Jul 24, 2025<BR>
+Tags: Blog, Practice<BR>
+
+## [Evaluating Grok 4’s Math Capabilities](https://epoch.ai/blog/grok-4-math)
+Date: Jul 25, 2025<BR>
+Tags: Blog, Review<BR>
+
 ## [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
 Date: Jul 19, 2025<BR>
 Tags: Learning resources, LLMs<BR>
