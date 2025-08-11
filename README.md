@@ -1,6 +1,38 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [FM-Intent: Predicting User Session Intent with Hierarchical Multi-Task Learning](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8)
+Date: May 21, 2025<BR>
+Tags: Practice, Recommender system<BR>
+Company: Netflix<BR>
+
+## [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/)
+Date: Aug 7, 2025<BR>
+Tags: Blog<BR>
+
+## [AI judging AI: Scaling unstructured text analysis with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/ai-judging-ai-scaling-unstructured-text-analysis-with-amazon-nova/)
+Date: Aug 4, 2025<BR>
+Tags: Blog, Hands-on<BR>
+Company: Amazon<BR>
+
+## [Remember this: Agent state and memory with ADK](https://cloud.google.com/blog/topics/developers-practitioners/remember-this-agent-state-and-memory-with-adk)
+Date: Aug 2, 2025<BR>
+Tags: Blog, OSS, Agent development<BR>
+Company: Google<BR>
+
+## [Pretraining: Breaking Down the Modern LLM Training Pipeline](https://www.comet.com/site/blog/pretraining/)
+Date: Aug 1, 2025<BR>
+Tags: Learning resource<BR>
+Company: comet<BR>
+
+## [Why, When and How to Fine-Tune a Custom Embedding Model](https://weaviate.io/blog/fine-tune-embedding-model)
+Date: Aug 5, 2025<BR>
+Tags: Learning resource<BR>
+Company: weaviate<BR>
+
+## [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+Tags: Learning resource<BR>
+
 ## [Build enterprise workflows with Langchain and Weaviate v3](https://weaviate.io/blog/enterprise-workflow-langchain-weaviate)
 Date: Jul 30, 2025<BR>
 Tags: Press release, Hands-on<BR>
