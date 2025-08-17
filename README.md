@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [MCP Vulnerabilities Every Developer Should Know](https://composio.dev/blog/mcp-vulnerabilities-every-developer-should-know)
+Date: Aug 11, 2025<BR>
+Tags: Security<BR>
+
+## [Four places where you can put LLM monitoring](https://redwoodresearch.substack.com/p/four-places-where-you-can-put-llm)
+Date: Aug 10, 2025<BR>
+Tags: Blog, Observability<BR>
+
+## [AI Agent Design Patterns: How to Build Reliable AI Agent Architecture for Production](https://www.comet.com/site/blog/ai-agent-design/)
+Date: Aug 8, 2025<BR>
+Tags: Blog<BR>
+Company: comet<BR>
+
+## [Elysia: Building an end-to-end agentic RAG app](https://weaviate.io/blog/elysia-agentic-rag)
+Date: Aug 12, 2025<BR>
+Tags: Press release<BR>
+Company: Weaviate<BR>
+
+## [7 Drop-In Replacements to Instantly Speed Up Your Python Data Science Workflows](https://developer.nvidia.com/blog/7-drop-in-replacements-to-instantly-speed-up-your-python-data-science-workflows/)
+Date: Aug 1, 2025<BR>
+Tags: Technique<BR>
+Company: Netflix<BR>
+
+## [Architecting LARGE software projects.](https://www.youtube.com/watch?v=sSpULGNHyoI)
+Date: Aug 5, 2025<BR>
+Tags: Software engineering<BR>
+
 ## [FM-Intent: Predicting User Session Intent with Hierarchical Multi-Task Learning](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8)
 Date: May 21, 2025<BR>
 Tags: Practice, Recommender system<BR>
