@@ -1,6 +1,34 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Best Practices for Building Agentic AI Systems: What Actually Works in Production](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
+Date: Aug 14, 2025<BR>
+Tags: Practice<BR>
+
+## [Basic Feature Engineering with DuckDB](https://duckdb.org/2025/08/15/ml-data-preprocessing)
+Date: Aug 15, 2025<BR>
+Tags: Blog, Hands-on, SQL<BR>
+Company: DuckDB<BR>
+
+## [Accelerating MoE’s with a Triton Persistent Cache-Aware Grouped GEMM Kernel](https://pytorch.org/blog/accelerating-moes-with-a-triton-persistent-cache-aware-grouped-gemm-kernel/)
+Date: Aug 18, 2025<BR>
+Tags: Blog<BR>
+Company: PyTorch<BR>
+
+## [From Facts & Metrics to Media Machine Learning: Evolving the Data Engineering Function at Netflix](https://netflixtechblog.com/from-facts-metrics-to-media-machine-learning-evolving-the-data-engineering-function-at-netflix-6dcc91058d8d)
+Date: Aug 22, 2025<BR>
+Tags: Blog<BR>
+Company: Netflix<BR>
+
+## [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder)
+Date: Aug 18, 2025<BR>
+Tags: Hands-on<BR>
+
+## [Beyond billion-parameter burdens: Unlocking data synthesis with a conditional generator](https://research.google/blog/beyond-billion-parameter-burdens-unlocking-data-synthesis-with-a-conditional-generator/)
+Date: Aug 14, 2025<BR>
+Tags: Paper<BR>
+Company: Google<BR>
+
 ## [MCP Vulnerabilities Every Developer Should Know](https://composio.dev/blog/mcp-vulnerabilities-every-developer-should-know)
 Date: Aug 11, 2025<BR>
 Tags: Security<BR>
