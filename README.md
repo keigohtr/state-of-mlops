@@ -1,6 +1,40 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [101+ gen AI use cases with technical blueprints](https://cloud.google.com/blog/products/ai-machine-learning/real-world-gen-ai-use-cases-with-technical-blueprints)
+Date: Aug 22, 2025<BR>
+Tags: Practice, Blueprint<BR>
+Company: Google Cloud<BR>
+
+## [8-bit Rotational Quantization: How to Compress Vectors by 4x and Improve the Speed-Quality Tradeoff of Vector Search](https://weaviate.io/blog/8-bit-rotational-quantization)
+Date: Aug 26, 2025<BR>
+Tags: Practice<BR>
+Company: weaviate<BR>
+
+## [JUDE: LLM-based representation learning for LinkedIn job recommendations](https://www.linkedin.com/blog/engineering/ai/jude-llm-based-representation-learning-for-linkedin-job-recommendations)
+Date: May 22, 2025<BR>
+Tags: Practice<BR>
+Company: LinkedIn<BR>
+
+## [Learning DSPy (1): The power of good abstractions](https://thedataquarry.com/blog/learning-dspy-1-the-power-of-good-abstractions/)
+Date: Aug 26, 2025<BR>
+Tags: Blog, Learning resource<BR>
+
+## [Why Stacking Sliding Windows Can't See Very Far](https://guangxuanx.com/blog/stacking-swa.html)
+Date: Aug 25, 2025<BR>
+Tags: Blog, Learning resource<BR>
+
+## [MIT How to AI (Almost) Anything, Spring 2025](https://youtu.be/0MYt0u3CW5I?si=fF_aG8VW-RcBu8-I)
+Date: Aug 27, 2025<BR>
+Tags: Lecture, Learning resource<BR>
+
+## [Python: The Documentary | An origin story](https://youtu.be/GfH4QL4VqJ0?si=FCeCrmuctocshYIm)
+Date: Aug 29, 2025<BR>
+Tags: Fun<BR>
+
+## [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent/tree/main?tab=readme-ov-file)
+Tags: OSS<BR>
+
 ## [Best Practices for Building Agentic AI Systems: What Actually Works in Production](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
 Date: Aug 14, 2025<BR>
 Tags: Practice<BR>
