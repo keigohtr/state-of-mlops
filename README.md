@@ -1,6 +1,43 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Learn how Amazon Health Services improved discovery in Amazon search using AWS ML and gen AI](https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-health-services-improved-discovery-in-amazon-search-using-aws-ml-and-gen-ai/)
+Date: Aug 26, 2025<BR>
+Tags: Practice<BR>
+Company: Amazon<BR>
+
+## [Fine-Tuning gpt-oss for Accuracy and Performance with Quantization Aware Training](https://developer.nvidia.com/blog/fine-tuning-gpt-oss-for-accuracy-and-performance-with-quantization-aware-training/)
+Date: Aug 29, 2025<BR>
+Tags: Hands-on<BR>
+Company: NVIDIA<BR>
+
+## [From Generalist to Specialist: Fine-Tuning Gemini for Terraform Scans & Phishing Detection](https://medium.com/google-cloud/from-generalist-to-specialist-fine-tuning-gemini-for-terraform-scans-phishing-detection-ee6043816c37)
+Date: Aug 29, 2025<BR>
+Tags: Blog<BR>
+
+## [Data Lake Table Formats (Open Table Formats)](https://www.ssp.sh/brain/data-lake-table-format/)
+Date: Sep 3, 2025<BR>
+Tags: Learning resource, Open Table Formats<BR>
+
+## [AgentScope: Agent-Oriented Programming for Building LLM Applications](https://github.com/agentscope-ai/agentscope)
+Tags: OSS, <BR>
+
+## [Launch of Polars Cloud and Distributed Polars](https://pola.rs/posts/polars-cloud-launch/)
+Date: Sep 3, 2025<BR>
+Tags: Press release<BR>
+Company: Polars<BR>
+
+## [DSPy 0‑to‑1 Guide: Building Self‑Improving LLM Applications from Scratch](https://github.com/haasonsaas/dspy-0to1-guide)
+Tags: Hands-on<BR>
+
+## [Le Chat. Custom MCP connectors. Memories.](https://mistral.ai/news/le-chat-mcp-connectors-memories)
+Date: Sep 2, 2025<BR>
+Tags: Press release<BR>
+Company: Mistral<BR>
+
+## [Claude Code Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
+Tags: Learning resource<BR>
+
 ## [101+ gen AI use cases with technical blueprints](https://cloud.google.com/blog/products/ai-machine-learning/real-world-gen-ai-use-cases-with-technical-blueprints)
 Date: Aug 22, 2025<BR>
 Tags: Practice, Blueprint<BR>
