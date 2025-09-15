@@ -1,6 +1,26 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Will Amazon S3 Vectors Kill Vector Databases—or Save Them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
+Date: Sep 4, 2025<BR>
+Tags: Blog<BR>
+
+## [How to Spot (and Fix) 5 Common Performance Bottlenecks in pandas Workflows](https://developer.nvidia.com/blog/how-to-spot-and-fix-5-common-performance-bottlenecks-in-pandas-workflows/)
+Date: Aug 22, 2025<BR>
+Tags: Blog, Technique<BR>
+Company: NVIDIA<BR>
+
+## [From Frequencies to Coverage: Rethinking What “Representative” Means](https://mindfulmodeler.substack.com/p/the-two-cultures-of-representativeness)
+Date: Sep 3, 2025<BR>
+Tags: Blog<BR>
+
+## [The two versions of Parquet](https://www.jeronimo.dev/the-two-versions-of-parquet/)
+Date: Feb 10, 2025<BR>
+Tags: Blog<BR>
+
+## [Transparent, Robust and Ultra-Sparse Trees (TRUST)](https://adc-trust-ai.github.io/trust/)
+Tags: Blog<BR>
+
 ## [Learn how Amazon Health Services improved discovery in Amazon search using AWS ML and gen AI](https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-health-services-improved-discovery-in-amazon-search-using-aws-ml-and-gen-ai/)
 Date: Aug 26, 2025<BR>
 Tags: Practice<BR>
