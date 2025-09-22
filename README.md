@@ -1,6 +1,44 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How to turn Claude Code into a domain specific coding agent](https://blog.langchain.com/how-to-turn-claude-code-into-a-domain-specific-coding-agent/)
+Date: Sep 11, 2025<BR>
+Tags: Blog<BR>
+Company: LangChain<BR>
+
+## [Powering AI commerce with the new Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
+Date: Sep 17, 2025<BR>
+Tags: Press release, OSS<BR>
+Company: Google<BR>
+
+## [The Ultimate Guide to LLM Evaluation: Metrics, Methods & Best Practices](https://www.comet.com/site/blog/llm-evaluation-guide/)
+Date: Sep 11, 2025<BR>
+Tags: Blog<BR>
+Company: comet<BR>
+
+## [Training an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs](https://eugeneyan.com/writing/semantic-ids/)
+Date: Sep, 2025<BR>
+Tags: Blog, Hands-on<BR>
+
+## [Reducing Cold Start Latency for LLM Inference with NVIDIA Run:ai Model Streamer](https://developer.nvidia.com/blog/reducing-cold-start-latency-for-llm-inference-with-nvidia-runai-model-streamer)
+Date: Sep 16, 2025<BR>
+Tags: Press release<BR>
+Company: NVIDIA<BR>
+
+## [Build and scale adoption of AI agents for education with Strands Agents, Amazon Bedrock AgentCore, and LibreChat](https://aws.amazon.com/blogs/machine-learning/build-and-scale-adoption-of-ai-agents-for-education-with-strands-agents-amazon-bedrock-agentcore-and-librechat/)
+Date: Sep 8, 2025<BR>
+Tags: Practice, Design<BR>
+Company: AWS<BR>
+
+## [SQL performance improvements: finding the right queries to fix (part 1)](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
+Date: Sep 17, 2025<BR>
+Tags: Learning resource, Hands-on<BR>
+
+## [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
+Date: Sep 17, 2025<BR>
+Tags: Blog<BR>
+Company: Anthropic<BR>
+
 ## [Will Amazon S3 Vectors Kill Vector Databases—or Save Them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
 Date: Sep 4, 2025<BR>
 Tags: Blog<BR>
