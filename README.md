@@ -1,6 +1,41 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [dspy-profiles](https://nielsgl.github.io/dspy-profiles/)
+Tags: OSS<BR>
+
+## [An Introduction to Speculative Decoding for Reducing Latency in AI Inference](https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference)
+Date: Sep 17, 2025<BR>
+Tags: Blog, Practice<BR>
+Company: NVIDIA<BR>
+
+## [Introduction to LLM-as-a-Judge For Evals](https://www.comet.com/site/blog/llm-as-a-judge/)
+Date: Sep 22, 2025<BR>
+Tags: Overview<BR>
+Company: comet<BR>
+
+## [Rapid ML experimentation for enterprises with Amazon SageMaker AI and Comet](https://aws.amazon.com/blogs/machine-learning/rapid-ml-experimentation-for-enterprises-with-amazon-sagemaker-ai-and-comet/)
+Date: Sep 22, 2025<BR>
+Tags: Hands-on<BR>
+Company: AWS, comet<BR>
+
+## [Adding Document Understanding to Claude Code](https://www.llamaindex.ai/blog/adding-document-understanding-to-claude-code)
+Date: Sep 22, 2025<BR>
+Tags: Blog<BR>
+
+## [Deep researcher with test-time diffusion](https://research.google/blog/deep-researcher-with-test-time-diffusion/)
+Date: Sep 19, 2025<BR>
+Tags: Research<BR>
+Company: Google<BR>
+
+## [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
+Date: Sep 22, 2025<BR>
+Tags: Research<BR>
+
+## [Introducing SedonaDB: A single-node analytical database engine with geospatial as a first-class citizen](https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/)
+Date: Sep 24, 2025<BR>
+Tags: OSS<BR>
+
 ## [How to turn Claude Code into a domain specific coding agent](https://blog.langchain.com/how-to-turn-claude-code-into-a-domain-specific-coding-agent/)
 Date: Sep 11, 2025<BR>
 Tags: Blog<BR>
