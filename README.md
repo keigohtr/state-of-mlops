@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Why Multi-Agent Systems Need Memory Engineering](https://medium.com/mongodb/why-multi-agent-systems-need-memory-engineering-153a81f8d5be)
+Date: Sep 25, 2025<BR>
+Tags: Practice<BR>
+Company: MongoDB<BR>
+
+## [Developing an open standard for agentic commerce](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce)
+Date: Sep 29, 2025<BR>
+Tags: Press release<BR>
+Company: Stripe<BR>
+
+## [How to Integrate Computer Vision Pipelines with Generative AI and Reasoning](https://developer.nvidia.com/blog/how-to-integrate-computer-vision-pipelines-with-generative-ai-and-reasoning/)
+Date: Sep 25, 2025<BR>
+Tags: Blog<BR>
+Company: NVIDIA<BR>
+
+## [Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning](https://youtu.be/_NLHFoVNlbg?si=CQdXctUiMGZhGPVG)
+Tags: Learning resources<BR>
+
 ## [dspy-profiles](https://nielsgl.github.io/dspy-profiles/)
 Tags: OSS<BR>
 
