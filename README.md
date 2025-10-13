@@ -1,6 +1,30 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Scaling Pinterest ML Infrastructure with Ray: From Training to End-to-End ML Pipelines](https://medium.com/pinterest-engineering/scaling-pinterest-ml-infrastructure-with-ray-from-training-to-end-to-end-ml-pipelines-4038b9e837a0)
+Date: Jun 25, 2025<BR>
+Tags: Practice, Design<BR>
+Company: Pinterest<BR>
+
+## [Practical LLM Security Advice from the NVIDIA AI Red Team](https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team)
+Date: Oct 2, 2025<BR>
+Tags: Security<BR>
+Company: NVIDIA<BR>
+
+## [Introducing CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
+Date: Oct 6, 2025<BR>
+Tags: Security<BR>
+Company: Google<BR>
+
+## [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
+Date: Oct 9, 2025<BR>
+Tags: Practice<BR>
+Company: Anthropic<BR>
+
+## [How tech companies measure the impact of AI on software development](https://newsletter.pragmaticengineer.com/p/how-tech-companies-measure-the-impact-of-ai?hide_intro_popup=true)
+Date: Sep 17, 2025<BR>
+Tags: Blog, Productivity<BR>
+
 ## [Why Multi-Agent Systems Need Memory Engineering](https://medium.com/mongodb/why-multi-agent-systems-need-memory-engineering-153a81f8d5be)
 Date: Sep 25, 2025<BR>
 Tags: Practice<BR>
