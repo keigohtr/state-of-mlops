@@ -1,6 +1,37 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
+Date: Oct 16, 2025<BR>
+Tags: Blog<BR>
+
+## [SuperOffload: Unleashing the Power of Large-Scale LLM Training on Superchips](https://pytorch.org/blog/superoffload-unleashing-the-power-of-large-scale-llm-training-on-superchips/)
+Date: Oct 9, 2025<BR>
+Tags: Blog<BR>
+Company: PyTorch<BR>
+
+## [Securing your agents with authentication and authorization](https://blog.langchain.com/agent-authorization-explainer/)
+Date: Oct 13, 2025<BR>
+Tags: Engineering<BR>
+Company: LangChain<BR>
+
+## [Rearchitecting Letta’s Agent Loop: Lessons from ReAct, MemGPT, & Claude Code](https://www.letta.com/blog/letta-v1-agent)
+Date: Oct 14, 2025<BR>
+Tags: Practice<BR>
+Company: Letta<BR>
+
+## [Scaling Request Logging from Millions to Billions with ClickHouse, Kafka, and Vector](https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/)
+Date: Oct 2, 2025<BR>
+Tags: Engineering<BR>
+
+## [So you want to build a data mesh ...with your dbt project](https://jennajordan.me/blog/data-mesh-dbt)
+Date: Oct 15, 2025<BR>
+Tags: Blog<BR>
+
+## [Andrej Karpathy — AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy?hide_intro_popup=true)
+Date: Oct 18, 2025<BR>
+Tags: Video<BR>
+
 ## [Scaling Pinterest ML Infrastructure with Ray: From Training to End-to-End ML Pipelines](https://medium.com/pinterest-engineering/scaling-pinterest-ml-infrastructure-with-ray-from-training-to-end-to-end-ml-pipelines-4038b9e837a0)
 Date: Jun 25, 2025<BR>
 Tags: Practice, Design<BR>
