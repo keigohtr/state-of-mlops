@@ -1,6 +1,25 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+Tags: Learning resource<BR>
+
+## [Legacy data to RAG : Modernise Your Apps with Amazon Sagemaker Unified Studio](https://weaviate.io/blog/sagemaker-studio-rag)
+Date: Oct 16, 2025<BR>
+Tags: Blog<BR>
+Company: Weaviate<BR>
+
+## [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+Tags: OSS<BR>
+
+## [Dexterous Robotic Foundation Models](https://youtu.be/yp5fI6gufBs?si=CtCHHn_EMjrwYRWh)
+Date: Oct 19, 2025<BR>
+Tags: Learning resource, Presentation<BR>
+
+## [The State of Open Models](https://www.interconnects.ai/p/state-of-open-models-2025)
+Date: Oct 16, 2025<BR>
+Tags: Learning resource, Presentation<BR>
+
 ## [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 Date: Oct 16, 2025<BR>
 Tags: Blog<BR>
