@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [the bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
+Date: Oct 22, 2025<BR>
+Tags: Blog<BR>
+
+## [LLM Tracing: The Foundation of Reliable AI Applications](https://www.comet.com/site/blog/llm-tracing/)
+Date: Oct 28, 2025<BR>
+Tags: Blog<BR>
+Company: comet<BR>
+
+## [Post-Training Generative Recommenders with Advantage-Weighted Supervised Finetuning](https://netflixtechblog.com/post-training-generative-recommenders-with-advantage-weighted-supervised-finetuning-61a538d717a9)
+Date: Oct 24, 2025<BR>
+Tags: Algorithm<BR>
+Company: Netflix<BR>
+
+## [DORA - State of AI Assisted Software Development 2025](https://services.google.com/fh/files/misc/2025_state_of_ai_assisted_software_development.pdf)
+Date: 2025<BR>
+Tags: Report<BR>
+Company: Google<BR>
+
+## [Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)](https://www.youtube.com/watch?v=qbvY0dQgSJ4)
+Date: Oct 23, 2025<BR>
+Tags: Presentation<BR>
+
+## [But what is a Laplace Transform?](https://www.youtube.com/watch?v=j0wJBEZdwLs)
+Date: Oct 12, 2025<BR>
+Tags: Presentation<BR>
+
 ## [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 Tags: Learning resource<BR>
 
