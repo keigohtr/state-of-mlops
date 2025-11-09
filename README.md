@@ -1,6 +1,38 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems](https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems/)
+Date: Oct 20, 2025<BR>
+Tags: Engineering<BR>
+Company: NVIDIA<BR>
+
+## [Clario streamlines clinical trial software configurations using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/clario-streamlines-clinical-trial-software-configurations-using-amazon-bedrock/)
+Date: Oct 31, 2025<BR>
+Tags: Engineering, System design<BR>
+Company: AWS<BR>
+
+## [Introducing torchforge – a PyTorch native library for scalable RL post-training and agentic development](https://pytorch.org/blog/introducing-torchforge/)
+Date: Oct 22, 2025<BR>
+Tags: Engineering<BR>
+Company: PyTorch<BR>
+
+## [Build your first AI Agent with Gemini, n8n and Google Cloud Run](https://www.philschmid.de/n8n-cloud-run-gemini)
+Date: Oct 30, 2025<BR>
+Tags: Hands-on<BR>
+
+## [Stress-testing model specs reveals character differences among language models](https://alignment.anthropic.com/2025/stress-testing-model-specs/)
+Date: 2025<BR>
+Tags: Paper<BR>
+
+## [Beyond Standard LLMs](https://magazine.sebastianraschka.com/p/beyond-standard-llms)
+Date: Nov 4, 2025<BR>
+Tags: Learning resource<BR>
+
+## [Introducing Aardvark: OpenAI’s agentic security researcher](https://openai.com/index/introducing-aardvark/)
+Date: Oct 30, 2025<BR>
+Tags: Press release<BR>
+Company: OpenAI<BR>
+
 ## [the bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 Date: Oct 22, 2025<BR>
 Tags: Blog<BR>
