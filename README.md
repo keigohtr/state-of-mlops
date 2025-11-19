@@ -1,6 +1,36 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [ADK architecture: When to use sub-agents versus agents as tools](https://cloud.google.com/blog/topics/developers-practitioners/where-to-use-sub-agents-versus-agents-as-tools)
+Date: Nov 8, 2025<BR>
+Tags: Blog<BR>
+Company: Google<BR>
+
+## [Building powerful RAG pipelines with Docling and OpenSearch](https://opensearch.org/blog/building-powerful-rag-pipelines-with-docling-and-opensearch/)
+Date: Nov 10, 2025<BR>
+Tags: Blog, Design<BR>
+Company: OpenSearch<BR>
+
+## [Best LLM Observability Tools of 2025: Top Platforms & Features](https://www.comet.com/site/blog/llm-observability-tools/)
+Date: Nov 11, 2025<BR>
+Tags: Review<BR>
+Company: Comet<BR>
+
+## [Human-in-the-Loop Review Workflows for LLM Applications & Agents](https://www.comet.com/site/blog/human-in-the-loop/)
+Date: Nov 11, 2025<BR>
+Tags: Blog<BR>
+Company: Comet<BR>
+
+## [Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/)
+Date: Nov 10, 2025<BR>
+Tags: Press release<BR>
+Company: Meta<BR>
+
+## [Introducing Nested Learning: A new ML paradigm for continual learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
+Date: Nov 7, 2025<BR>
+Tags: Paper<BR>
+Company: Google<BR>
+
 ## [Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems](https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems/)
 Date: Oct 20, 2025<BR>
 Tags: Engineering<BR>
