@@ -1,6 +1,48 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Code execution with MCP: Building more efficient agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
+Date: Nov 4, 2025<BR>
+Tags: Blog, Practice<BR>
+Company: Anthropic<BR>
+
+## [Gemini 3 Prompting: Best Practices for General Usage](https://www.philschmid.de/gemini-3-prompt-practices)
+Date: Nov 19, 2025<BR>
+Tags: Blog, Practice<BR>
+
+## [Generative UI: A rich, custom, visual interactive user experience for any prompt](https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/)
+Date: Nov 18, 2025<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
+## [Qdrant 1.16 - Tiered Multitenancy & Disk-Efficient Vector Search](https://qdrant.tech/blog/qdrant-1.16.x/)
+Date: Nov 19, 2025<BR>
+Tags: Press release<BR>
+Company: Qdrant<BR>
+
+## [Introducing real-time streaming for AI models and agents in OpenSearch](https://opensearch.org/blog/introducing-real-time-streaming-for-ai-models-and-agents-in-opensearch/)
+Date: Nov 18, 2025<BR>
+Tags: Press release<BR>
+Company: OpenSearch<BR>
+
+## [Building an Interactive AI Agent for Lightning-Fast Machine Learning Tasks](https://developer.nvidia.com/blog/building-an-interactive-ai-agent-for-lightning-fast-machine-learning-tasks/)
+Date: Nov 7, 2025<BR>
+Tags: Blog<BR>
+Company: NVIDIA<BR>
+
+## [The Definitive Guide to Agentic AI: What AI Agents Actually Are and How to Build Them for Production](https://www.comet.com/site/blog/ai-agents/)
+Date: Nov 13, 2025<BR>
+Tags: Blog<BR>
+Company: comet<BR>
+
+## [Mapping LLMs with Sparse Autoencoders](https://pair.withgoogle.com/explorables/sae/)
+Date: Oct, 2025<BR>
+Tags: Learning resource<BR>
+
+## [KEYNOTE: Hannes Mühleisen - Data Architecture Turned Upside Down | PyData Amsterdam 2025](https://www.youtube.com/watch?v=DxwDaoUijTc)
+Date: Oct 31, 2025<BR>
+Tags: Presentation<BR>
+
 ## [ADK architecture: When to use sub-agents versus agents as tools](https://cloud.google.com/blog/topics/developers-practitioners/where-to-use-sub-agents-versus-agents-as-tools)
 Date: Nov 8, 2025<BR>
 Tags: Blog<BR>
