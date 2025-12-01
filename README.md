@@ -1,6 +1,26 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Introducing agentic search in OpenSearch: Transforming data interaction through natural language](https://opensearch.org/blog/introducing-agentic-search-in-opensearch-transforming-data-interaction-through-natural-language/)
+Date: Nov 24, 2025<BR>
+Tags: Press release<BR>
+Company: OpenSearch<BR>
+
+## [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
+Date: Nov 14, 2025<BR>
+Tags: Blog<BR>
+Company: Anthropic<BR>
+
+## [Reciprocal Rank Fusion and Relative Score Fusion: Classic Hybrid Search Techniques](https://medium.com/mongodb/reciprocal-rank-fusion-and-relative-score-fusion-classic-hybrid-search-techniques-3bf91008b81d)
+Date: Nov 21, 2025<BR>
+Tags: Learning resource<BR>
+Company: MongoDB<BR>
+
+## [Continuous batching](https://huggingface.co/blog/continuous_batching)
+Date: Nov 25, 2025<BR>
+Tags: Learning resource<BR>
+Company: HaggingFace<BR>
+
 ## [Code execution with MCP: Building more efficient agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
 Date: Nov 4, 2025<BR>
 Tags: Blog, Practice<BR>
