@@ -1,6 +1,50 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Making Sense of Memory in AI Agents](https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html)
+Date: Nov 20, 2025<BR>
+Tags: Practices<BR>
+
+## [Real-Time Anomaly Detection with Apache Flink](https://seanfalconer.medium.com/real-time-anomaly-detection-with-apache-flink-38d909a09fce)
+Date: Nov 18, 2025<BR>
+Tags: Engineering<BR>
+
+## [Skill Learning: Bringing Continual Learning to CLI Agents](https://www.letta.com/blog/skill-learning)
+Date: Dec 2, 2025<BR>
+Tags: Blog<BR>
+Company: Letta<BR>
+
+## [OpenSearch as an agentic memory solution: Building context-aware agents using persistent memory](https://opensearch.org/blog/opensearch-as-an-agentic-memory-solution-building-context-aware-agents-using-persistent-memory/)
+Date: Dec 2, 2025<BR>
+Tags: Press release<BR>
+Company: OpenSearch<BR>
+
+## [Build and Run Secure, Data-Driven AI Agents](https://developer.nvidia.com/blog/build-and-run-secure-data-driven-ai-agents/)
+Date: Nov 24, 2025<BR>
+Tags: Press release<BR>
+Company: NVIDIA<BR>
+
+## [From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates](https://magazine.sebastianraschka.com/p/technical-deepseek)
+Date: Dec 3, 2025<BR>
+Tags: Learning resource<BR>
+
+## [650GB of Data (Delta Lake on S3). Polars vs DuckDB vs Daft vs Spark.](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)
+Date: Nov 13, 2025<BR>
+Tags: Blog<BR>
+
+## [Advent of Sysadmin 2025](https://sadservers.com/advent)
+Date: Dec, 2025<BR>
+Tags: Advent Calendar<BR>
+
+## [Advice for New Principal Tech ICs (i.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
+Date: Oct, 2025<BR>
+Tags: Career<BR>
+
+## [The Thinking Game | Full documentary | Tribeca Film Festival official selection](https://youtu.be/d95J8yzvjbQ?si=X668i8IQYpPBskHL)
+Date: Nov 26, 2025<BR>
+Tags: Documentary<BR>
+Company: DeepMind<BR>
+
 ## [Introducing agentic search in OpenSearch: Transforming data interaction through natural language](https://opensearch.org/blog/introducing-agentic-search-in-opensearch-transforming-data-interaction-through-natural-language/)
 Date: Nov 24, 2025<BR>
 Tags: Press release<BR>
