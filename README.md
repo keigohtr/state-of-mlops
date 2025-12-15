@@ -1,6 +1,41 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
+Date: Oct 26, 2025<BR>
+Tags: Hands-on<BR>
+
+## [Top 5 AI Model Optimization Techniques for Faster, Smarter Inference](https://developer.nvidia.com/blog/top-5-ai-model-optimization-techniques-for-faster-smarter-inference/)
+Date: Dec 9, 2025<BR>
+Tags: Practice<BR>
+Company: NVIDIA<BR>
+
+## [The State of Production ML in 2025](https://ethical.institute/state-of-ml-2025)
+Date: Dec, 2025<BR>
+Tags: Review<BR>
+
+## [State of PyTorch Hardware Acceleration 2025](https://tunguz.github.io/PyTorch_Hardware_2025/)
+Date: Dec, 2025<BR>
+Tags: Review<BR>
+
+## [Announcing MCP support in Apigee: Turn existing APIs into secure and governed agentic tools](https://cloud.google.com/blog/products/ai-machine-learning/mcp-support-for-apigee)
+Date: Dec 11, 2025<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
+## [Claude Code is coming to Slack, and that’s a bigger deal than it sounds](https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/)
+Date: Dec 8, 2025<BR>
+Tags: Press release<BR>
+
+## [OpenAI to acquire Neptune](https://openai.com/index/openai-to-acquire-neptune/)
+Date: Dec 3, 2025<BR>
+Tags: Press release<BR>
+Company: OpenAI<BR>
+
+## [PyData Boston March 2025 Meetup | Best practices for hiring data scientists](https://youtu.be/X0PYfLTka7A?si=GIrhqoNMlzuOpP0S)
+Date: Apr 15, 2025<BR>
+Tags: Presentation<BR>
+
 ## [Making Sense of Memory in AI Agents](https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html)
 Date: Nov 20, 2025<BR>
 Tags: Practices<BR>
