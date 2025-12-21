@@ -1,6 +1,30 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Top Python libraries of 2025](https://tryolabs.com/blog/top-python-libraries-2025)
+Date: Dec 18, 2025<BR>
+Tags: OSS, Practice<BR>
+
+## [Interactions API: A unified foundation for models and agents](https://blog.google/technology/developers/interactions-api/)
+Date: Dec 11, 2025<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
+## [How to Build Privacy-Preserving Evaluation Benchmarks with Synthetic Data](https://developer.nvidia.com/blog/how-to-build-privacy-preserving-evaluation-benchmarks-with-synthetic-data)
+Date: Dec 12, 2025<BR>
+Tags: Engineering<BR>
+Company: NVIDIA<BR>
+
+## [Introducing AISAQ in Milvus: Billion-Scale Vector Search Just Got 3,200× Cheaper on Memory](https://milvus.io/blog/introducing-aisaq-in-milvus-billion-scale-vector-search-got-3200-cheaper-on-memory.md)
+Date: Dec 10, 2025<BR>
+Tags: Engineering<BR>
+Company: milvus<BR>
+
+## [Introducing OpenSearch 3.4](https://opensearch.org/blog/introducing-opensearch-3-4/)
+Date: Dec 16, 2025<BR>
+Tags: Press release<BR>
+Company: OpenSearch<BR>
+
 ## [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
 Date: Oct 26, 2025<BR>
 Tags: Hands-on<BR>
