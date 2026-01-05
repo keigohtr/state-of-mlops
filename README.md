@@ -1,6 +1,28 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
+Date: Dec 28, 2025<BR>
+Tags: Review<BR>
+
+## [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+Tags: Learning resource<BR>
+
+## [Agents Meet Databases: The Future of Agentic Architectures](https://medium.com/mongodb/agents-meet-databases-the-future-of-agentic-architectures-b24cdacada43)
+Date: Aug 12, 2025<BR>
+Tags: Engineering<BR>
+Company: MongoDB<BR>
+
+## [Prompt Drift: The Hidden Failure Mode Undermining Agentic Systems](https://www.comet.com/site/blog/prompt-drift/)
+Date: Dec 23, 2025<BR>
+Tags: Blog<BR>
+Company: Comet<BR>
+
+## [Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/#ai-models)
+Date: Dec 23, 2025<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
 ## [Top Python libraries of 2025](https://tryolabs.com/blog/top-python-libraries-2025)
 Date: Dec 18, 2025<BR>
 Tags: OSS, Practice<BR>
