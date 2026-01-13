@@ -1,6 +1,25 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Towards Generalizable and Efficient Large-Scale Generative Recommenders](https://netflixtechblog.medium.com/towards-generalizable-and-efficient-large-scale-generative-recommenders-a7db648aa257)
+Date: Jan 2, 2026<BR>
+Tags: Engineering<BR>
+Company: Netflix<BR>
+
+## [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
+Date: Dec 31, 2025<BR>
+Tags: Review<BR>
+
+## [Multi-Agent Systems: The Architecture Shift from Monolithic LLMs to Collaborative Intelligence](https://www.comet.com/site/blog/multi-agent-systems/)
+Date: Jan 5, 2026<BR>
+Tags: Press release<BR>
+Company: comet<BR>
+
+## [Why Stochastic Rounding is Essential for Modern Generative AI](https://cloud.google.com/blog/topics/developers-practitioners/why-stochastic-rounding-is-essential-for-modern-generative-ai)
+Date: Dec 20, 2025<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
 ## [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
 Date: Dec 28, 2025<BR>
 Tags: Review<BR>
