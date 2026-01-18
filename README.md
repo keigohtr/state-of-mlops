@@ -1,6 +1,21 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Best practices for coding with agents](https://cursor.com/blog/agent-best-practices)
+Date: Jan 9, 2026<BR>
+Tags: Practice<BR>
+Company: Anthropic<BR>
+
+## [Supercharging LLMs: Scalable RL with torchforge and Weaver](https://pytorch.org/blog/supercharging-llms-scalable-rl-with-torchforge-and-weaver/)
+Date: Jan 9, 2026<BR>
+Tags: Practice<BR>
+Company: PyTorch<BR>
+
+## [MIPRO: The Optimizer That Brought Science to Prompt Engineering](https://www.comet.com/site/blog/mipro-optimization/)
+Date: Jan 12, 2026<BR>
+Tags: Blog<BR>
+Company: comet<BR>
+
 ## [Towards Generalizable and Efficient Large-Scale Generative Recommenders](https://netflixtechblog.medium.com/towards-generalizable-and-efficient-large-scale-generative-recommenders-a7db648aa257)
 Date: Jan 2, 2026<BR>
 Tags: Engineering<BR>
