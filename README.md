@@ -1,6 +1,47 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
+Date: Jan 22, 2026<BR>
+Tags: Engineering<BR>
+Company: OpenAI<BR>
+
+## [Heaps do lie: debugging a memory leak in vLLM.](https://mistral.ai/news/debugging-memory-leak-in-vllm)
+Date: Jan 21, 2026<BR>
+Tags: Engineering<BR>
+Company: Mistral<BR>
+
+## [LLM Context Pruning: A Developer’s Guide to Better RAG and Agentic AI Results](https://milvus.io/blog/llm-context-pruning-a-developers-guide-to-better-rag-and-agentic-ai-results.md)
+Date: Jan 15, 2026<BR>
+Tags: OSS, Practice<BR>
+Company: Milvus<BR>
+
+## [How We Built a Semantic Highlight Model To Save Token Cost for RAG](https://huggingface.co/blog/zilliz/zilliz-semantic-highlight-model)
+Date: Jan 15, 2026<BR>
+Tags: OSS, Practice<BR>
+Company: Hugging Face<BR>
+
+## [Counterfactual Evaluation for Recommendation Systems](https://eugeneyan.com/writing/counterfactual-evaluation/)
+Date: Apr, 2022<BR>
+Tags: Learning resource<BR>
+
+## [Universal Commerce Protocol](https://ucp.dev/latest/)
+Date: Jan 23, 2026<BR>
+Tags: Press release<BR>
+
+## [FLUX.2 [klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
+Date: Jan 15, 2026<BR>
+Tags: Press release<BR>
+
+## [A gRPC transport for the Model Context Protocol](https://cloud.google.com/blog/products/networking/grpc-as-a-native-transport-for-mcp)
+Date: Jan 14, 2026<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
+## [What's New in FastMCP 3.0](https://www.jlowin.dev/blog/fastmcp-3-whats-new)
+Date: Jan 20, 2026<BR>
+Tags: Press release, OSS<BR>
+
 ## [Best practices for coding with agents](https://cursor.com/blog/agent-best-practices)
 Date: Jan 9, 2026<BR>
 Tags: Practice<BR>
