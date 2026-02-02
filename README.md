@@ -1,6 +1,25 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [The AI Evolution of Graph Search at Netflix: From Structured Queries to Natural Language](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151)
+Date: Jan 27, 2026<BR>
+Tags: Engineering<BR>
+Company: Netflix<BR>
+
+## [Inside OpenAI’s in-house data agent](https://openai.com/index/inside-our-in-house-data-agent/)
+Date: Jan 29, 2026<BR>
+Tags: Engineering<BR>
+Company: OpenAI<BR>
+
+## [Gas Town’s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
+Date: Jan 30, 2026<BR>
+Tags: Blog, Design<BR>
+
+## [ATLAS: Practical scaling laws for multilingual models](https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/)
+Date: Jan 27, 2026<BR>
+Tags: Research<BR>
+Company: Google<BR>
+
 ## [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
 Date: Jan 22, 2026<BR>
 Tags: Engineering<BR>
