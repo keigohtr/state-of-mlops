@@ -1,6 +1,19 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
+Date: Jan 28, 2026<BR>
+Tags: Research<BR>
+Company: Google<BR>
+
+## [Build TikTok's Personalized Real-Time Recommendation System in Python with Hopsworks](https://youtu.be/skZ1HcF7AsM?si=Qiq7MS9Jp_pQ9osz)
+Date: Oct 7, 2024<BR>
+Tags: Presentation<BR>
+
+## [The Case for RL-Aligned Ranking in RecSys](https://recsysml.substack.com/p/stop-predicting-ctr-start-optimizing)
+Date: Jan 3, 2026<BR>
+Tags: Presentation<BR>
+
 ## [The AI Evolution of Graph Search at Netflix: From Structured Queries to Natural Language](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151)
 Date: Jan 27, 2026<BR>
 Tags: Engineering<BR>
