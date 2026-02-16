@@ -1,6 +1,29 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
+Date: Feb 11, 2026<BR>
+Tags: Practice<BR>
+Company: OpenAI<BR>
+
+## [How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
+Date: Jan 29, 2026<BR>
+Tags: Research<BR>
+Company: Aunthropic<BR>
+
+## [2026 Practical Data Community State of Data Engineering](https://joereis.github.io/practical_data_data_eng_survey/)
+Date: Jan, 2026<BR>
+Tags: Review<BR>
+
+## [Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations](https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/)
+Date: Feb 10, 2026<BR>
+Tags: Research<BR>
+Company: Google<BR>
+
+## [TabICLv2: A state-of-the-art tabular foundation model](https://github.com/soda-inria/tabicl)
+Date: Feb, 2026<BR>
+Tags: OSS<BR>
+
 ## [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
 Date: Jan 28, 2026<BR>
 Tags: Research<BR>
