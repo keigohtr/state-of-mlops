@@ -1,6 +1,30 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194)
+Date: Feb 13, 2026<BR>
+Tags: Engineering, Design<BR>
+Company: Netflix<BR>
+
+## [Optimizing AI IDEs at Scale](https://www.comet.com/site/blog/optimize-ai-ide-cost/)
+Date: Feb 17, 2026<BR>
+Tags: Practice<BR>
+Company: comet<BR>
+
+## [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](https://huggingface.co/blog/openenv-turing)
+Date: Feb 12, 2026<BR>
+Tags: Survey, OSS<BR>
+Company: Turing<BR>
+
+## [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
+Date: Feb 15, 2026<BR>
+Tags: Survey<BR>
+
+## [We Extracted OpenClaw’s Memory System and Open-Sourced It (memsearch)](https://milvus.io/blog/we-extracted-openclaws-memory-system-and-opensourced-it-memsearch.md)
+Date: Feb 13, 2026<BR>
+Tags: Press release<BR>
+Company: milvus<BR>
+
 ## [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 Date: Feb 11, 2026<BR>
 Tags: Practice<BR>
