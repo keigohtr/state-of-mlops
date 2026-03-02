@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Is Boosting Still All You Need for Tabular Data?](https://m-clark.github.io/posts/2026-03-01-dl-for-tabular-foundational/)
+Date: Mar 1, 2026<BR>
+Tags: Blog<BR>
+
+## [MediaFM: The Multimodal AI Foundation for Media Understanding at Netflix](https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d)
+Date: Feb 24, 2026<BR>
+Tags: Engineering<BR>
+Company: Netflix<BR>
+
+## [How we caught our AI agent embezzling tokens](https://posthog.com/blog/optimizing-agent-cost)
+Date: Feb 23, 2026<BR>
+Tags: Blog<BR>
+
+## [Honey, I Tiled the Tensors](https://amandeepsp.github.io/blog/layout-algebra/)
+Date: Feb 26, 2026<BR>
+Tags: GPU, NVIDIA Cute<BR>
+
+## [Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)
+Date: Feb 23, 2026<BR>
+Tags: Blog<BR>
+Company: Anthropic<BR>
+
+## [Pydantic Monty: you probably don't need a full sandbox](https://pydantic.dev/articles/pydantic-monty)
+Date: Feb 27, 2026<BR>
+Tags: Blog, OSS<BR>
+Company: Pydantic<BR>
+
 ## [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194)
 Date: Feb 13, 2026<BR>
 Tags: Engineering, Design<BR>
