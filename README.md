@@ -1,6 +1,25 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
+Date: Mar 4, 2026<BR>
+Tags: Press release, Engineering<BR>
+Company: Microsoft<BR>
+
+## [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers)
+Date: Feb 26, 2026<BR>
+Tags: Blog<BR>
+
+## [Announcing the Opik Claude Code Plugin: Automatically Configure Observability for Complex Agentic Systems](https://www.comet.com/site/blog/opik-claude-code-plugin/)
+Date: Mar 2, 2026<BR>
+Tags: Press release<BR>
+Company: comet<BR>
+
+## [Give your agentic chatbots a fast and reliable long-term memory](https://cloud.google.com/blog/topics/developers-practitioners/improve-chatbot-memory-using-google-cloud)
+Date: Feb 28, 2026<BR>
+Tags: Blog<BR>
+Company: Google<BR>
+
 ## [Is Boosting Still All You Need for Tabular Data?](https://m-clark.github.io/posts/2026-03-01-dl-for-tabular-foundational/)
 Date: Mar 1, 2026<BR>
 Tags: Blog<BR>
