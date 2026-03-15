@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How We Hacked McKinsey's AI Platform](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+Date: Mar 9, 2026<BR>
+Tags: Security<BR>
+Company: CodeWall<BR>
+
+## [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge/)
+Date: Mar 10, 2026<BR>
+Tags: Practice<BR>
+Company: OpenAI<BR>
+
+## [Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds](https://huggingface.co/blog/nvidia/synthetic-code-concepts)
+Date: Mar 11, 2026<BR>
+Tags: Engineering<BR>
+
+## [Research note: Many SWE-bench-Passing PRs Would Not Be Merged into Main](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
+Date: Mar 10, 2026<BR>
+Tags: Blog<BR>
+
+## [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
+Date: Mar 10, 2026<BR>
+Tags: Python, Practice<BR>
+
+## [Native Observability & Alerts for Your OpenClaw with Opik](https://www.comet.com/site/blog/openclaw-observability/)
+Date: Mar 5, 2026<BR>
+Tags: Press release<BR>
+Company: comet<BR>
+
 ## [Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
 Date: Mar 4, 2026<BR>
 Tags: Press release, Engineering<BR>
