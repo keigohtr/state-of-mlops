@@ -1,6 +1,27 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster](https://blog.skypilot.co/scaling-autoresearch/)
+Date: Mar 18, 2026<BR>
+Tags: Hands on<BR>
+
+## [LumberChunker: Long-Form Narrative Document Segmentation](https://blog.ml.cmu.edu/2026/03/17/lumberchunker-long-form-narrative-document-segmentation/)
+Date: Mar 17, 2026<BR>
+Tags: Research, RAG<BR>
+Company: CMU<BR>
+
+## [State of RL for reasoning LLMs](https://aweers.de/blog/2026/rl-for-llms/)
+Date: Mar 15, 2026<BR>
+Tags: Learning resource<BR>
+
+## [The Best Tacit Knowledge Videos on Every Subject](https://www.lesswrong.com/posts/SXJGSPeQWbACveJhs/the-best-tacit-knowledge-videos-on-every-subject)
+Date: Apr 1, 2024<BR>
+Tags: Learning resource<BR>
+
+## [Mamba-3](https://www.together.ai/blog/mamba-3)
+Date: Mar 17, 2026<BR>
+Tags: Press release<BR>
+
 ## [How We Hacked McKinsey's AI Platform](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
 Date: Mar 9, 2026<BR>
 Tags: Security<BR>
