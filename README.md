@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [If DSPy is So Great, Why Isn't Anyone Using It?](https://skylarbpayne.com/posts/dspy-engineering-patterns/)
+Date: Mar 21, 2026<BR>
+Tags: Blog<BR>
+
+## [Building an MCP Ecosystem at Pinterest](https://medium.com/pinterest-engineering/building-an-mcp-ecosystem-at-pinterest-d881eb4c16f1)
+Date: Mar 20, 2026<BR>
+Tags: Practice<BR>
+Company: Pinterest<BR>
+
+## [Personalization at Bluesky](https://recsysml.substack.com/p/personalization-at-bluesky)
+Date: Feb 24, 2026<BR>
+Tags: Engineering<BR>
+Company: Bluesky<BR>
+
+## [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+Date: Mar 24, 2026<BR>
+Tags: Research<BR>
+Company: Google<BR>
+
+## [A Visual Guide to Attention Variants in Modern LLMs](https://magazine.sebastianraschka.com/p/visual-attention-variants)
+Date: Mar 22, 2026<BR>
+Tags: Learning resource<BR>
+
+## [Simon Willison: Engineering practices that make coding agents work - The Pragmatic Summit](https://youtu.be/owmJyKVu5f8?si=vnecdRmLs8bBlbPk)
+Date: Mar 19, 2026<BR>
+Tags: Presentation<BR>
+
 ## [Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster](https://blog.skypilot.co/scaling-autoresearch/)
 Date: Mar 18, 2026<BR>
 Tags: Hands on<BR>
