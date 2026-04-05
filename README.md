@@ -1,6 +1,28 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Deploying Disaggregated LLM Inference Workloads on Kubernetes](https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes/)
+Date: Mar 23, 2026<BR>
+Tags: Engineering<BR>
+Company: NVIDIA<BR>
+
+## [KAI Scheduler](https://github.com/kai-scheduler/KAI-Scheduler)
+Tags: OSS, Kubernetes, GPU<BR>
+
+## [Five techniques to reach the efficient frontier of LLM inference](https://cloud.google.com/blog/topics/developers-practitioners/five-techniques-to-reach-the-efficient-frontier-of-llm-inference)
+Date: Mar 28, 2026<BR>
+Tags: Engineering<BR>
+Company: Google<BR>
+
+## [How Kimi, Cursor, and Chroma Train Agentic Models with RL](https://www.philschmid.de/kimi-composer-context)
+Date: Mar 28, 2026<BR>
+Tags: Learning resource<BR>
+
+## [How to Choose the Best Embedding Model for RAG in 2026: 10 Models Benchmarked](https://zilliz.com/blog/choose-embedding-model-rag-2026)
+Date: Mar 27, 2026<BR>
+Tags: Review<BR>
+Company: zilliz<BR>
+
 ## [If DSPy is So Great, Why Isn't Anyone Using It?](https://skylarbpayne.com/posts/dspy-engineering-patterns/)
 Date: Mar 21, 2026<BR>
 Tags: Blog<BR>
