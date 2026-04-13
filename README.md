@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Claude Managed Agents: get to production 10x faster](https://claude.com/blog/claude-managed-agents)
+Date: Apr 8, 2026<BR>
+Tags: Press release<BR>
+Company: Anthropic<BR>
+
+## [Simulate realistic users to evaluate multi-turn AI agents in Strands Evals](https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/)
+Date: Apr 2, 2026<BR>
+Tags: OSS, Engineering<BR>
+Company: Amazon<BR>
+
+## [Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
+Date: Apr 4, 2026<BR>
+Tags: Blog<BR>
+
+## [Quantization from the ground up](https://ngrok.com/blog/quantization)
+Date: Mar 25, 2026<BR>
+Tags: Learning resource<BR>
+
 ## [Deploying Disaggregated LLM Inference Workloads on Kubernetes](https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes/)
 Date: Mar 23, 2026<BR>
 Tags: Engineering<BR>
