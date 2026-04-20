@@ -1,6 +1,35 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [8 Tips for Writing Agent Skills](https://www.philschmid.de/agent-skills-tips)
+Date: Apr 13, 2026<BR>
+Tags: Practice<BR>
+
+## [Gemma 4 Fine-tuning Guide](https://unsloth.ai/docs/models/gemma-4/train)
+Tags: Guide<BR>
+
+## [MirrorCode: Evidence that AI can already do some weeks-long coding tasks](https://epoch.ai/blog/mirrorcode-preliminary-results)
+Date: Apr 10, 2026<BR>
+Tags: Blog<BR>
+
+## [Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo](https://developer.nvidia.com/blog/full-stack-optimizations-for-agentic-inference-with-nvidia-dynamo)
+Date: Apr 17, 2026<BR>
+Tags: Engineering<BR>
+Company: NVIDIA<BR>
+
+## [Can I Run AI locally?](https://www.canirun.ai/)
+Tags: Portal<BR>
+
+## [Introducing routines in Claude Code](https://claude.com/blog/introducing-routines-in-claude-code)
+Date: Apr 14, 2026<BR>
+Tags: Press release<BR>
+Company: Anthropic<BR>
+
+## [Towards developing future-ready skills with generative AI](https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/)
+Date: Apr 13, 2026<BR>
+Tags: Blog<BR>
+Company: Google<BR>
+
 ## [Claude Managed Agents: get to production 10x faster](https://claude.com/blog/claude-managed-agents)
 Date: Apr 8, 2026<BR>
 Tags: Press release<BR>
