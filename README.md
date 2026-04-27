@@ -1,6 +1,29 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/)
+Date: Apr 2, 2026<BR>
+Tags: Engineering<BR>
+Company: Meta<BR>
+
+## [Two years of vector search at Notion: 10x scale, 1/10th cost](https://www.notion.com/blog/two-years-of-vector-search-at-notion)
+Date: Feb 20, 2026<BR>
+Tags: Engineering<BR>
+Company: Notion<BR>
+
+## [Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles](https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/)
+Date: Apr 16, 2026<BR>
+Tags: Research<BR>
+Company: Google<BR>
+
+## [Breaking Opus 4.7 with ChatGPT (Hacking Claude's Memory)](https://embracethered.com/blog/posts/2026/breaking-opus-4.7-with-chatgpt/)
+Date: Apr 17, 2026<BR>
+Tags: Blog, Security<BR>
+
+## [How Intercom 2X'd engineering velocity with Claude Code | Brian Scanlan](https://youtu.be/BRDKft0-dUU?si=4XOlWYeBfOJtSo3g)
+Date: Apr 20, 2026<BR>
+Tags: Presentation<BR>
+
 ## [8 Tips for Writing Agent Skills](https://www.philschmid.de/agent-skills-tips)
 Date: Apr 13, 2026<BR>
 Tags: Practice<BR>
