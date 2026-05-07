@@ -1,6 +1,34 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741)
+Date: May 2, 2026<BR>
+Tags: Engineering, Switchboard<BR>
+Company: Netflix<BR>
+
+## [How the PyTorch Lightning Community Discovered a Supply Chain Attack and Fixed it in 42 Minutes](https://lightning.ai/blog/pytorch-lightning-supply-chain-attack)
+Date: May 1, 2026<BR>
+Tags: Blog<BR>
+Company: PyTorch<BR>
+
+## [See What Your AI Sees: Multimodal Tracing for Images, Audio, and Files](https://mlflow.org/blog/multimodal-tracing/)
+Date: Apr 28, 2026<BR>
+Tags: Press release<BR>
+Company: mlflow<BR>
+
+## [50+ fully managed MCP servers now available for Google Cloud services](https://cloud.google.com/blog/products/ai-machine-learning/google-managed-mcp-servers-are-available-for-everyone)
+Date: Apr 29, 2026<BR>
+Tags: Press release<BR>
+Company: Google<BR>
+
+## [Principles for Autonomous System Design: OpenClaw Deep Dive](https://youtu.be/sxX8BMscce0?si=ZgBmatON54fgCleO)
+Date: Apr 14, 2026<BR>
+Tags: Presentation<BR>
+
+## [Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough](https://youtu.be/JNyuX1zoOgU?si=WtEa23nL4AEDfKNe)
+Date: Apr 29, 2026<BR>
+Tags: Presentation<BR>
+
 ## [KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/)
 Date: Apr 2, 2026<BR>
 Tags: Engineering<BR>
