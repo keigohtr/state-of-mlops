@@ -1,6 +1,21 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1)
+Date: May 5, 2026<BR>
+Tags: Engineering, Knowledge Sharing Infra<BR>
+Company: Netflix<BR>
+
+## [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+Date: May 4, 2026<BR>
+Tags: Engineering, Network<BR>
+Company: OpenAI<BR>
+
+## [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
+Date: May 5, 2026<BR>
+Tags: Engineering<BR>
+Company: Google<BR>
+
 ## [State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741)
 Date: May 2, 2026<BR>
 Tags: Engineering, Switchboard<BR>
