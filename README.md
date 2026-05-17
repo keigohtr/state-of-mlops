@@ -1,6 +1,16 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How to Eliminate Pipeline Friction in AI Model Serving](https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving/)
+Date: May 12, 2026<BR>
+Tags: Practice, TensorRT<BR>
+Company: NVIDIA<BR>
+
+## [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
+Date: May 12, 2026<BR>
+Tags: UX<BR>
+Company: Google<BR>
+
 ## [Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1)
 Date: May 5, 2026<BR>
 Tags: Engineering, Knowledge Sharing Infra<BR>
