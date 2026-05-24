@@ -1,6 +1,20 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate](https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/)
+Date: May 18, 2026<BR>
+Tags: Press Release<BR>
+Company: PyTorch<BR>
+
+## [Text Analysis for Hybrid Search: Tokenization, Stopwords & Accent Folding](https://weaviate.io/blog/tokenization-text-analysis-weaviate)
+Date: May 14, 2026<BR>
+Tags: Press Release<BR>
+Company: Weaviate<BR>
+
+## [SLEIGHT-Bench: Finding Blind Spots in AI Monitors](https://alignment.anthropic.com/2026/sleight-bench/)
+Date: May 19, 2026<BR>
+Tags: Security<BR>
+
 ## [How to Eliminate Pipeline Friction in AI Model Serving](https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving/)
 Date: May 12, 2026<BR>
 Tags: Practice, TensorRT<BR>
