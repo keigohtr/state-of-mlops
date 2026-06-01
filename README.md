@@ -1,6 +1,36 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex/)
+Date: May 27, 2026<BR>
+Tags: Practice<BR>
+Company: OpenAI<BR>
+
+## [What Held Up at 3 AM: One Engineer’s RAG Case Study](https://www.comet.com/site/blog/weavecli-opik-project-example/)
+Date: May 20, 2026<BR>
+Tags: Practice<BR>
+Company: comet<BR>
+
+## [The Best AI Observability Tools for Agentic Systems in 2026](https://www.comet.com/site/blog/ai-observability-tools/)
+Date: May 27, 2026<BR>
+Tags: Review<BR>
+Company: comet<BR>
+
+## [DeepSWE](https://deepswe.datacurve.ai/blog)
+Date: May 26, 2026<BR>
+Tags: Benchmark<BR>
+Company: DeepSWE<BR>
+
+## [The Agent Harness: Why the LLM Is the Smallest Part of Your Agent System](https://medium.com/@MongoDB/the-agent-harness-why-the-llm-is-the-smallest-part-of-your-agent-system-bce68414ccfd)
+Date: May 11, 2026<BR>
+Tags: Blog<BR>
+Company: MongoDB<BR>
+
+## [An Engineer’s Guide to Better AI Skills: Implementing a Testing Process to Optimize Agent Performance in Any Repository or Skill](https://medium.com/pinterest-engineering/an-engineers-guide-to-better-ai-skills-implementing-a-testing-process-to-optimize-agent-a000c9c9abcd)
+Date: May 13, 2026<BR>
+Tags: Blog, Practice<BR>
+Company: Pinterest<BR>
+
 ## [Running PyTorch Models on Apple Silicon GPUs with the ExecuTorch MLX Delegate](https://pytorch.org/blog/running-pytorch-models-on-apple-silicon-gpus-with-the-executorch-mlx-delegate/)
 Date: May 18, 2026<BR>
 Tags: Press Release<BR>
