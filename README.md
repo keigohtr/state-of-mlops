@@ -1,6 +1,35 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [What we’ve learned building cloud agents](https://cursor.com/blog/cloud-agent-lessons)
+Date: Jun 2, 2026<BR>
+Tags: Blog<BR>
+Company: Cursor<BR>
+
+## [Why LLM Inference Needs a New Kind of Router - Part 1](https://www.modular.com/blog/why-llm-inference-needs-a-new-kind-of-router-part-1)
+Date: May 8, 2026<BR>
+Tags: Blog<BR>
+Company: modular<BR>
+
+## [MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All in One Model](https://www.minimax.io/blog/minimax-m3)
+Date: Jun 1, 2026<BR>
+Tags: Press release, Research<BR>
+Company: MINIMAX<BR>
+
+## [Language Modeling from Scratch](https://cs336.stanford.edu/)
+Date: 2026<BR>
+Tags: Learning resource<BR>
+Company: Stanford<BR>
+
+## [Announcing NVIDIA RTX Spark | GTC Taipei 2026 Keynote by CEO Jensen Huang](https://youtu.be/11Y3B33oCLE?si=I2WiY_Dv4_KTGnV8)
+Date: Jun 5, 2026<BR>
+Tags: Press release, Presentation<BR>
+Company: NVIDIA<BR>
+
+## [The Story of C++: The World's Most Consequential Programming Language | The Official Story](https://youtu.be/lI7tMxzSJ7w?si=TnalVbJYc_3qwED2)
+Date: Jun 5, 2026<BR>
+Tags: Presentation<BR>
+
 ## [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex/)
 Date: May 27, 2026<BR>
 Tags: Practice<BR>
