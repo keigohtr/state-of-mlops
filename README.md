@@ -1,6 +1,21 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [AI in SRE: Where and how Google is deploying agentic AI to improve operations](https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations)
+Date: May 29, 2026<BR>
+Tags: Blog, Practice<BR>
+Company: Google<BR>
+
+## [Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/)
+Date: Jun 5, 2026<BR>
+Tags: Blog, Practice<BR>
+Company: Google<BR>
+
+## [How Anthropic enables self-service data analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
+Date: Jun 3, 2026<BR>
+Tags: Blog, Practice<BR>
+Company: Anthropic<BR>
+
 ## [What we’ve learned building cloud agents](https://cursor.com/blog/cloud-agent-lessons)
 Date: Jun 2, 2026<BR>
 Tags: Blog<BR>
