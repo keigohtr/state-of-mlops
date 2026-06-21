@@ -1,6 +1,28 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [How Evaluation-Driven Development (EDD) Works](https://www.decodingai.com/p/5b766861-0001-494f-a37f-4d4eb104dcfa)
+Date: Jun 22, 2026<BR>
+Tags: Practice, LLM system<BR>
+
+## [M*: A Modular, Extensible, Serving System for Multimodal Models](https://ai.stanford.edu/blog/mstar/)
+Date: Jun 15, 2026<BR>
+Tags: Research, Practice<BR>
+Company: Stanford<BR>
+
+## [State of AI Engineering](https://www.datadoghq.com/state-of-ai-engineering/)
+Date: Jun, 2026<BR>
+Tags: Blog<BR>
+Company: Datadog<BR>
+
+## [DuckDB Internals: Why is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
+Date: May 4, 2026<BR>
+Tags: Engineering<BR>
+
+## [SQL to ER Diagram](https://sqltoerdiagram.com/)
+Date: Jun, 2026<BR>
+Tags: Tool<BR>
+
 ## [AI in SRE: Where and how Google is deploying agentic AI to improve operations](https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations)
 Date: May 29, 2026<BR>
 Tags: Blog, Practice<BR>
