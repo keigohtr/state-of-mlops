@@ -1,6 +1,33 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [A Guide to AI Inference Engineering](https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering)
+Date: Jun 16, 2026<BR>
+Tags: Blog, Practice<BR>
+
+## [Using Local Coding Agents](https://magazine.sebastianraschka.com/p/using-local-coding-agents)
+Date: Jun 27, 2026<BR>
+Tags: Blog, Practice<BR>
+
+## [CoT Monitoring: Where Does a Hot Safety Problem Come From?](https://ai.stanford.edu/blog/cot-monitoring-history/)
+Date: Jun 18, 2026<BR>
+Tags: Blog<BR>
+Company: Stanford<BR>
+
+## [Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2)
+Date: Jun 24, 2026<BR>
+Tags: Blog<BR>
+Company: Netflix<BR>
+
+## [Healthcare Benchmarks Are Only as Good as Their Assumptions](https://blog.ml.cmu.edu/2026/06/19/healthcare-benchmarks-are-only-as-good-as-their-assumptions/)
+Date: Jun 19, 2026<BR>
+Tags: Blog<BR>
+Company: CMU<BR>
+
+## [The Future of AI Agents with Andrew Ng | Interrupt 26](https://youtu.be/OaRhpwz_TGM?si=9j8ZaJ1TTEINQy85)
+Date: Jun 18, 2026<BR>
+Tags: Presentation<BR>
+
 ## [How Evaluation-Driven Development (EDD) Works](https://www.decodingai.com/p/5b766861-0001-494f-a37f-4d4eb104dcfa)
 Date: Jun 22, 2026<BR>
 Tags: Practice, LLM system<BR>
