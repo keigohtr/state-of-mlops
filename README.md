@@ -1,6 +1,31 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/)
+Date: Jun 30, 2026<BR>
+Tags: Engineering<BR>
+Company: OpenAI<BR>
+
+## [Senior SWE-Bench](https://senior-swe-bench.snorkel.ai/)
+Date: Jul, 2026<BR>
+Tags: Benchmark<BR>
+Company: Snorkel AI<BR>
+
+## [Introducing TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
+Date: Jun 30, 2026<BR>
+Tags: Press release, OSS<BR>
+Company: Google<BR>
+
+## [Open Agent Specification, Agent Spec](https://oracle.github.io/agent-spec/26.1.0/index.html)
+Date: Jul, 2026<BR>
+Tags: Spec<BR>
+Company: Oracle<BR>
+
+## [R&B-EnCoRe: Self-Improving Pretraining of Embodied Reasoning Vision-Language-Action Models](https://ai.stanford.edu/blog/rnb-encore/)
+Date: Jun 29, 2026<BR>
+Tags: Paper<BR>
+Company: Stanford<BR>
+
 ## [A Guide to AI Inference Engineering](https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering)
 Date: Jun 16, 2026<BR>
 Tags: Blog, Practice<BR>
