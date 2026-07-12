@@ -1,6 +1,18 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
+Date: Jul 4, 2026<BR>
+Tags: Blog<BR>
+
+## [Modular Pretraining Enables Access Control](https://alignment.anthropic.com/2026/modular-pretraining/)
+Date: Jul 8, 2026<BR>
+Tags: Blog<BR>
+
+## [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents)
+Date: Jul 8, 2026<BR>
+Tags: Blog<BR>
+
 ## [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/)
 Date: Jun 30, 2026<BR>
 Tags: Engineering<BR>
