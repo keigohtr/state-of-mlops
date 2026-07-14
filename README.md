@@ -3178,7 +3178,7 @@ Company: Meta<BR>
 Date: Aug 2, 2023<BR>
 Tags: Drift detection, Workflow, Evidently, Kestra<BR>
 
-## [ML Pipeline Architecture Design Patterns (With 10 Real-World Examples)](https://neptune.ai/blog/ml-pipeline-architecture-design-patterns)
+## [ML Pipeline Architecture Design Patterns (With 10 Real-World Examples)](https://web.archive.org/web/20251005115210/https://neptune.ai/blog/ml-pipeline-architecture-design-patterns)
 Date: Aug 11, 2023<BR>
 Tags: Real example, ML pipeline, Workflow<BR>
 Company: Neptune<BR>
@@ -3243,7 +3243,7 @@ Company: Nubank<BR>
 ## [You Don't Need a Bigger Boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
 Tags: MLOps, Sample<BR>
 
-## [MLOps Landscape in 2023: Top Tools and Platforms](https://neptune.ai/blog/mlops-tools-platforms-landscape)
+## [MLOps Landscape in 2023: Top Tools and Platforms](https://web.archive.org/web/20251006160541/https://neptune.ai/blog/mlops-tools-platforms-landscape)
 Tags: Landscape<BR>
 Company: Neptune AI<BR>
 
@@ -3327,7 +3327,7 @@ Tags: Observability<BR>
 Date: Mar 24, 2023<BR>
 Tags: Edge, IoT, Tips<BR>
 
-## [Building a Machine Learning Platform [Definitive Guide]](https://neptune.ai/blog/ml-platform-guide)
+## [Building a Machine Learning Platform [Definitive Guide]](https://web.archive.org/web/20251005121550/https://neptune.ai/blog/ml-platform-guide)
 Date: Mar 23, 2023<BR>
 Tags: MLOps, Platform<BR>
 Company: Neptune AI<BR>
