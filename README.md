@@ -1,6 +1,36 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c)
+Date: Jul 18, 2026<BR>
+Tags: Engineering<BR>
+Company: Netflix<BR>
+
+## [Benchmarking Coding Agents on Databricks’ Multi-Million Line Codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
+Date: Jul 8, 2026<BR>
+Tags: Review, Practice<BR>
+Company: Databricks<BR>
+
+## [Pi](https://pi.dev/)
+Tags: OSS<BR>
+
+## [Kimi K3](https://www.kimi.com/blog/kimi-k3)
+Tags: OSS<BR>
+
+## [How We Optimized Opik’s MCP Server for Cost & Performance](https://www.comet.com/site/blog/mcp-performance-optimization/)
+Date: Jul 15, 2026<BR>
+Tags: Practice<BR>
+Company: Comet<BR>
+
+## [Towards demystifying the creativity of diffusion models](https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/)
+Date: Jul 15, 2026<BR>
+Tags: Learning<BR>
+Company: Google<BR>
+
+## [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms)
+Date: Jul 18, 2026<BR>
+Tags: Learning<BR>
+
 ## [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
 Date: Jul 4, 2026<BR>
 Tags: Blog<BR>
