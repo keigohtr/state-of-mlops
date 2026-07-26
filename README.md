@@ -1,6 +1,24 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Loop Engineering in Self Correcting Code Migration using Google ADK 2.0](https://medium.com/google-cloud/loop-engineering-in-self-correcting-code-migration-using-google-adk-2-0-61c30c9e36ca)
+Date: Jul 23, 2026<BR>
+Tags: Practice<BR>
+Company: Google<BR>
+
+## [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
+Date: Jul 24, 2026<BR>
+Tags: Practice<BR>
+Company: Anthropic<BR>
+
+## [scion](https://googlecloudplatform.github.io/scion/landing/)
+Tags: OSS, Multi-Agent Orchestration<BR>
+Company: Google<BR>
+
+## [Why Software Factories Fail](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md)
+Date: Jul 24, 2026<BR>
+Tags: Blog<BR>
+
 ## [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c)
 Date: Jul 18, 2026<BR>
 Tags: Engineering<BR>
