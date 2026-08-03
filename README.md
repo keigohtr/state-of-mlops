@@ -1,6 +1,29 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
+Date: Jul 31, 2026<BR>
+Tags: Engineering<BR>
+Company: Netflix<BR>
+
+## [Evaluating Agents Beyond the First Prompt](https://www.philschmid.de/evocode-bench)
+Date: Jul 27, 2026<BR>
+Tags: Blog, Benchmark<BR>
+
+## [Build your own Job Agent - Part 1](https://jamwithai.substack.com/p/build-your-own-job-agent-part-1)
+Date: Jul 23, 2026<BR>
+Tags: Hands-on<BR>
+
+## [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
+Date: Jul 27, 2026<BR>
+Tags: Blog<BR>
+Company: Hugging Face<BR>
+
+## [Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction](https://bair.berkeley.edu/blog/2026/07/26/abbel/)
+Date: Jul 26, 2026<BR>
+Tags: Paper, Compaction<BR>
+Company: BAIR (BERKELEY ARTIFICIAL INTELLIGENCE RESEARCH)<BR>
+
 ## [Loop Engineering in Self Correcting Code Migration using Google ADK 2.0](https://medium.com/google-cloud/loop-engineering-in-self-correcting-code-migration-using-google-adk-2-0-61c30c9e36ca)
 Date: Jul 23, 2026<BR>
 Tags: Practice<BR>
