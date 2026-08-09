@@ -1,6 +1,25 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [86% of Your Claude Code Bill Has Nothing to Do With Your Prompts](https://blog.dailydoseofds.com/p/8904b4e2-4510-4221-8e5d-18f44a3a1d59)
+Date: Aug 10, 2026<BR>
+Tags: Practice<BR>
+
+## [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
+Date: Jul 30, 2026<BR>
+Tags: Blog<BR>
+Company: Anthropic<BR>
+
+## [FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities](https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities/)
+Date: Jul 30, 2026<BR>
+Tags: Blog<BR>
+Company: PyTorch<BR>
+
+## [Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence](https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/)
+Date: Jul 30, 2026<BR>
+Tags: Blog<BR>
+Company: Google<BR>
+
 ## [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
 Date: Jul 31, 2026<BR>
 Tags: Engineering<BR>
