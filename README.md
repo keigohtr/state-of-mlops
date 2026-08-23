@@ -1,6 +1,39 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
+Date: Aug 18, 2026<BR>
+Tags: Blog<BR>
+Company: OpenAI<BR>
+
+## [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models/)
+Date: Aug 19, 2026<BR>
+Tags: Blog, Press release<BR>
+Company: OpenAI<BR>
+
+## [How Cloudflare detects MCP traffic and helps secure it](https://blog.cloudflare.com/mcp-security-updates/)
+Date: Aug 14, 2026<BR>
+Tags: Blog, Press release<BR>
+Company: Cloudflare<BR>
+
+## [Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)
+Date: Aug 12, 2026<BR>
+Tags: Research<BR>
+Company: Google<BR>
+
+## [Building Federated Multimodal AI Workflows with NVIDIA FLARE](https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/)
+Date: Aug 19, 2026<BR>
+Tags: Blog, Press release<BR>
+Company: NVIDIA<BR>
+
+## [Agentic Engineering at Zalando: a snapshot](https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html)
+Date: Aug 14, 2026<BR>
+Tags: Blog<BR>
+Company: zalando<BR>
+
+## [Learn Inference](https://learn-inference.com/)
+Tags: Learning resource<BR>
+
 ## [86% of Your Claude Code Bill Has Nothing to Do With Your Prompts](https://blog.dailydoseofds.com/p/8904b4e2-4510-4221-8e5d-18f44a3a1d59)
 Date: Aug 10, 2026<BR>
 Tags: Practice<BR>
