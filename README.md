@@ -1,6 +1,30 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Running a Software Factory Efficiently at Uber Scale](https://www.uber.com/gb/en/blog/efficient-software-factory/)
+Date: Aug 27, 2026<BR>
+Tags: Engineering, Best Practice, IH system<BR>
+Company: Uber<BR>
+
+## [How agents can delegate better](https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better)
+Date: Aug 22, 2026<BR>
+Tags: Practice<BR>
+Company: Google<BR>
+
+## [Dynamic capacity management for AI infrastructure](https://cloud.google.com/blog/topics/ai-infrastructure/best-practices-for-dynamic-capacity-management)
+Date: Aug 27, 2026<BR>
+Tags: Practice<BR>
+Company: Google<BR>
+
+## [Best LLM Observability Tools of 2026: Top Platforms & Features](https://www.comet.com/site/blog/llm-observability-tools/)
+Date: Aug 17, 2026<BR>
+Tags: Comparison<BR>
+Company: comet<BR>
+
+## [Would This Change Your Answer? Evaluating Explanations of LLM Behavior in the Wild with Counterfactual Experiments](https://alignment.anthropic.com/2026/chive/)
+Date: Aug 21, 2026<BR>
+Tags: Research<BR>
+
 ## [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
 Date: Aug 18, 2026<BR>
 Tags: Blog<BR>
