@@ -1,6 +1,30 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale](https://netflixtechblog.medium.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508)
+Date: Sep 5, 2026<BR>
+Tags: Engineering<BR>
+Company: Netflix<BR>
+
+## [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)
+Date: Aug 31, 2026<BR>
+Tags: OSS<BR>
+Company: Google<BR>
+
+## [From 1 Bloated Context Window to 6 Scoped Subagents](https://www.decodingai.com/p/subagents-are-context-engineering)
+Date: Sep 1, 2026<BR>
+Tags: Practice<BR>
+
+## [What’s new in AI infrastructure and orchestration in August](https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month)
+Date: Sep 1, 2026<BR>
+Tags: Summary<BR>
+Company: Google<BR>
+
+## [Achieving Extreme Efficiency through Specialized GPU Kernel Generation](https://www.databricks.com/blog/achieving-extreme-efficiency-through-specialized-gpu-kernel-generation)
+Date: Sep 4, 2026<BR>
+Tags: Engineering<BR>
+Company: Databricks<BR>
+
 ## [Running a Software Factory Efficiently at Uber Scale](https://www.uber.com/gb/en/blog/efficient-software-factory/)
 Date: Aug 27, 2026<BR>
 Tags: Engineering, Best Practice, IH system<BR>
