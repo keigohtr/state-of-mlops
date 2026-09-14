@@ -1,6 +1,25 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one/)
+Date: Sep 11, 2026<BR>
+Tags: Engineering<BR>
+Company: OpenAI<BR>
+
+## [Evolving Pinterest’s Embedding Retrieval Platform](https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01)
+Date: Sep 12, 2026<BR>
+Tags: Engineering<BR>
+Company: Pinterest<BR>
+
+## [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct)
+Date: Sep 3, 2026<BR>
+Tags: Engineering<BR>
+
+## [Inside the megakernel serving engine for North Mini Code](https://cohere.com/blog/megakernels)
+Date: Sep 9, 2026<BR>
+Tags: Engineering<BR>
+Company: cohere<BR>
+
 ## [The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale](https://netflixtechblog.medium.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508)
 Date: Sep 5, 2026<BR>
 Tags: Engineering<BR>
