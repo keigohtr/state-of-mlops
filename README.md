@@ -1,6 +1,49 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Introducing System One Models & Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+Date: Sep 15, 2026<BR>
+Tags: Press release<BR>
+Company: TypeSafe<BR>
+
+## [Inside OpenAI’s agentic software factory](https://newsletter.pragmaticengineer.com/p/openai-software-factory)
+Date: Sep 16, 2026<BR>
+Tags: Blog<BR>
+
+## [Taming the ML Firehose: Scaling Feature Consistency](https://www.uber.com/gb/en/blog/taming-ml-firehose/)
+Date: Sep 22, 2026<BR>
+Tags: Engineering<BR>
+Company: Uber<BR>
+
+## [MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e)
+Date: Aug 29, 2026<BR>
+Tags: Engineering<BR>
+Company: Netflix<BR>
+
+## [Harbor: Stripe’s AI-assisted prototyping tool](https://stripe.dev/blog/harbor-stripes-ai-assisted-prototyping-tool)
+Date: Sep 14, 2026<BR>
+Tags: Blog<BR>
+Company: Stripe<BR>
+
+## [Agent Substrate brings high-density, scalable, trusted infrastructure to GKE](https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke)
+Date: Sep 16, 2026<BR>
+Tags: OSS, Blog<BR>
+Company: Google<BR>
+
+## [When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving](https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/)
+Date: Sep 9, 2026<BR>
+Tags: Blog<BR>
+Company: NVIDIA<BR>
+
+## [How Shopify built a continual learning loop with PyTorch and vLLM](https://pytorch.org/blog/how-shopify-built-a-continual-learning-loop-with-pytorch-and-vllm/)
+Date: Sep 22, 2026<BR>
+Tags: Blog<BR>
+Company: shopify<BR>
+
+## [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://arxiv.org/abs/2609.20519)
+Date: Sep 17, 2026<BR>
+Tags: Engineering, Paper<BR>
+
 ## [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one/)
 Date: Sep 11, 2026<BR>
 Tags: Engineering<BR>
