@@ -1,6 +1,39 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Jev vs. LLM-as-a-Judge for AI Evals](https://www.comet.com/site/blog/jev-model-vs-llm-as-a-judge/)
+Date: Sep 29, 2026<BR>
+Tags: Survey<BR>
+Company: comet<BR>
+
+## [Designing MCP Gateway Uber's MCP Management Platform](https://www.uber.com/gb/en/blog/designing-mcp-gateway/)
+Date: Oct 2, 2026<BR>
+Tags: Engineering<BR>
+Company: Uber<BR>
+
+## [Add Runtime Controls to AI Agents with NVIDIA OpenShell](https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/)
+Date: Sep 28, 2026<BR>
+Tags: OSS<BR>
+Company: NVIDIA<BR>
+
+## [Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/)
+Date: Sep 25, 2026<BR>
+Tags: Engineering<BR>
+Company: AWS<BR>
+
+## [Best practices guide for customizing Gemini models via Reinforcement Learning (RL)](https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/)
+Date: Sep 26, 2026<BR>
+Tags: Practice<BR>
+Company: Google<BR>
+
+## [Partial pooling as an answer to the reference class problem](https://sudippaul.substack.com/p/partial-pooling-as-an-answer-to-the)
+Date: Mar 22, 2026<BR>
+Tags: Statistics<BR>
+
+## [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/abs/2609.24972)
+Date: Sep 23, 2026<BR>
+Tags: Paper, Engineering<BR>
+
 ## [Introducing System One Models & Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 Date: Sep 15, 2026<BR>
 Tags: Press release<BR>
