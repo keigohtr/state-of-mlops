@@ -1,6 +1,36 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+Date: Oct 1, 2026<BR>
+Tags: OSS<BR>
+Company: Cloudflare<BR>
+
+## [AWS debuts Strands Decider 2B, a first lightweight decision model for accelerate agentic workflows](https://siliconangle.com/2026/10/01/aws-debuts-strands-decider-2b-a-first-lightweight-decision-model-for-accelerate-agentic-workflows/)
+Date: Oct 1, 2026<BR>
+Tags: OSS<BR>
+Company: AWS<BR>
+
+## [Ai2 releases Olmo-core 3 to make developing large mixture-of-experts LLMs more efficient](https://siliconangle.com/2026/10/02/ai2-releases-olmo-core-3-to-make-developing-large-mixture-of-experts-llms-more-efficient/)
+Date: Oct 2, 2026<BR>
+Tags: OSS<BR>
+Company: Ai2<BR>
+
+## [How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey](https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/)
+Date: Oct 2, 2026<BR>
+Tags: Engineering<BR>
+Company: Google<BR>
+
+## [From Activity to Intent: Generating User Journeys with LLMs](https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626)
+Date: Oct 10, 2026<BR>
+Tags: Engineering<BR>
+Company: Pinterest<BR>
+
+## [The ultimate guide to multi-harness RL](https://huggingface.co/spaces/FineEnvs/multi-harness-rl#introduction)
+Date: Sep 24, 2026<BR>
+Tags: Engineering<BR>
+Company: Hugging Face, Liquid AI<BR>
+
 ## [Jev vs. LLM-as-a-Judge for AI Evals](https://www.comet.com/site/blog/jev-model-vs-llm-as-a-judge/)
 Date: Sep 29, 2026<BR>
 Tags: Survey<BR>
