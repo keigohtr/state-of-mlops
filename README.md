@@ -1,6 +1,36 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/)
+Date: Oct 12, 2026<BR>
+Tags: Hands on<BR>
+Company: AWS<BR>
+
+## [Building agents that transact with Anchor Browser and AgentCore payments](https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/)
+Date: Oct 13, 2026<BR>
+Tags: Hands on<BR>
+Company: AWS<BR>
+
+## [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+Date: Oct 13, 2026<BR>
+Tags: Blog<BR>
+Company: Anthropic<BR>
+
+## [Investigating unintended model actions in our evaluations and internal use](https://www.anthropic.com/research/investigating-unintended-model-actions)
+Date: Oct 9, 2026<BR>
+Tags: Blog<BR>
+Company: Anthropic<BR>
+
+## [Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf)
+Date: Oct 17, 2026<BR>
+Tags: Blog<BR>
+Company: Netflix<BR>
+
+## [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+Date: Oct 15, 2026<BR>
+Tags: Practice<BR>
+Company: Anthropic<BR>
+
 ## [Introducing Clef: our open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
 Date: Oct 1, 2026<BR>
 Tags: OSS<BR>
