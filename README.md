@@ -1,6 +1,48 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs](https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/)
+Date: Oct 21, 2026<BR>
+Tags: OSS<BR>
+Company: Google<BR>
+
+## [Four evaluation engineering lessons learned from building agent plugins](https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/)
+Date: Oct 17, 2026<BR>
+Tags: Practice<BR>
+Company: Google<BR>
+
+## [Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost](https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents)
+Date: Oct 15, 2026<BR>
+Tags: Practice<BR>
+Company: cohere<BR>
+
+## [Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM](https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/)
+Date: Oct 19, 2026<BR>
+Tags: Engineering<BR>
+Company: AWS<BR>
+
+## [Inside NVIDIA Sentry: Secure AI Agents at Runtime](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/)
+Date: Oct 21, 2026<BR>
+Tags: Engineering<BR>
+Company: NVIDIA<BR>
+
+## [Scaling AI in Legal: Building Uber's Redlining Agent](https://www.uber.com/gb/en/blog/building-ubers-redlining-agent/)
+Date: Oct 8, 2026<BR>
+Tags: Blog<BR>
+Company: Uber<BR>
+
+## [Beyond Top-K: Building search-confidence guardrails for agentic AI with OpenSearch](https://opensearch.org/blog/beyond-top-k-building-search-confidence-guardrails-for-agentic-ai-with-opensearch/)
+Date: Oct 15, 2026<BR>
+Tags: Engineering<BR>
+Company: OpenSearch<BR>
+
+## [Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It](https://alignment.anthropic.com/2026/graft/)
+Date: Oct 19, 2026<BR>
+Tags: Research<BR>
+
+## [How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
+Tags: Discussion<BR>
+
 ## [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/)
 Date: Oct 12, 2026<BR>
 Tags: Hands on<BR>
