@@ -1,6 +1,34 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [When Do Causal ML Models Beat LM / GLM / GBM?](https://philipppro.quarto.pub/blog_philipppro/posts/causalml-toy-cases/)
+Date: Oct 26, 2026<BR>
+Tags: Causal Analysis<BR>
+
+## [How AI agents shape experts’ judgment calls](https://www.anthropic.com/research/agents-judgment-calls)
+Date: Oct 27, 2026<BR>
+Tags: Causal Analysis<BR>
+Company: Anthropic<BR>
+
+## [Making Failure Diagnosis Reliable with Pensive AI](https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015)
+Date: Oct 28, 2026<BR>
+Tags: Practice<BR>
+Company: Netflix<BR>
+
+## [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+Date: Oct 26, 2026<BR>
+Tags: Security<BR>
+Company: cohere<BR>
+
+## [Inside Agent Compute Engine: Building the compute foundation for the agentic era](https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive/)
+Date: Oct 23, 2026<BR>
+Tags: Press Release<BR>
+Company: Google<BR>
+
+## [Building Reasoning Models from the Ground Up: A Full Video Course](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+Date: Oct 24, 2026<BR>
+Tags: Learning resources<BR>
+
 ## [Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs](https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/)
 Date: Oct 21, 2026<BR>
 Tags: OSS<BR>
