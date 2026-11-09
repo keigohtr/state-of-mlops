@@ -1,6 +1,47 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+Date: Nov 2, 2026 <BR>
+Tags: Engineering <BR>
+Company: OpenAI <BR>
+
+## [Components of agent memory](https://www.anthropic.com/research/components-of-agent-memory)
+Date: Nov 6, 2026 <BR>
+Tags: Research <BR>
+Company: Anthropic <BR>
+
+## [MICE from Scratch](https://www.kenkoonwong.com/blog/mice/)
+Date: Oct 31, 2026 <BR>
+Tags: Blog<BR>
+
+## [Freedman’s Paradox at Forty: A Practitioner’s Guide to Variable Selection Failures and Safeguards](https://www.tandfonline.com/doi/full/10.1080/00031305.2026.2742880)
+Date: Oct 7, 2026 <BR>
+Tags: Research <BR>
+
+## [How to Trace and Evaluate a Google ADK Agent with Opik](https://www.comet.com/site/blog/trace-evaluate-google-adk-agent-opik/)
+Date: Nov 5, 2026 <BR>
+Tags: Hands-on <BR>
+Company: Comet <BR>
+
+## [Evaluate AI models for observability: O11y-Bench joins Fireworks Specialized Intelligence Index and reaches v1.1](https://grafana.com/blog/evaluate-ai-models-for-observability-o11y-bench-joins-fireworks-specialized-intelligence-index-and-reaches-v1-1/)
+Date: Oct 28, 2026 <BR>
+Tags: OSS <BR>
+Company: Grafana <BR>
+
+## [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
+Date: Nov 3, 2026 <BR>
+Tags: Blog, Research <BR>
+
+## [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench)
+Date: Nov 3, 2026 <BR>
+Tags: Benchmarking <BR>
+Company: AllenAI <BR>
+
+## [Agentic Backdoors via Pretraining Poisoning](https://arxiv.org/abs/2610.37741)
+Date: Oct 27, 2026 <BR>
+Tags: Security, Research <BR>
+
 ## [When Do Causal ML Models Beat LM / GLM / GBM?](https://philipppro.quarto.pub/blog_philipppro/posts/causalml-toy-cases/)
 Date: Oct 26, 2026<BR>
 Tags: Causal Analysis<BR>
