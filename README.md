@@ -1,6 +1,76 @@
 # state-of-mlops
 List of awesome mlops articles.
 
+## [Components of agent memory](https://www.anthropic.com/research/components-of-agent-memory)
+Date: Nov 6, 2026 <BR>
+Tags: Engineering <BR>
+Company: Anthropic <BR>
+
+## [Engineering AI Discover](https://netflixtechblog.com/engineering-ai-discover-e244944cdc38)
+Date: Nov 18, 2026 <BR>
+Tags: Engineering <BR>
+Company: Netflix <BR>
+
+## [How the Claude Code Team Thinks About Verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
+Date: Nov 16, 2026 <BR>
+Tags: Practice <BR>
+Company: Anthropic <BR>
+
+## [How OpenAI Performance Factory Keeps ChatGPT Fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/)
+Date: Nov 19, 2026 <BR>
+Tags: Practice <BR>
+Company: OpenAI <BR>
+
+## [How to Trace and Evaluate a Google ADK Agent with Opik](https://www.comet.com/site/blog/trace-evaluate-google-adk-agent-opik/)
+Date: Nov 5, 2026 <BR>
+Tags: Hands-on <BR>
+Company: Comet <BR>
+
+## [Optimize Finance Agent with Opik](https://www.comet.com/site/blog/optimize-finance-agent-with-opik/)
+Date: Nov 6, 2026 <BR>
+Tags: Engineering <BR>
+Company: Comet <BR>
+
+## [Four Layers of Context Engineering for Production AI Agents: How Deep Insight Applies Them in Working Code](https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/)
+Date: Nov 4, 2026 <BR>
+Tags: Engineering <BR>
+Company: AWS <BR>
+
+## [Open Infrastructure for Autonomous Agents Comes to CNCF](https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf)
+Date: Nov 6, 2026 <BR>
+Tags: OSS <BR>
+Company: Google <BR>
+
+## [How Pinterest Improved Analytics Agent Compliance with Loop Engineering](https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2)
+Date: Nov 12, 2026 <BR>
+Tags: Engineering <BR>
+Company: Pinterest <BR>
+
+## [Introducing AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+Date: Nov 10, 2026 <BR>
+Tags: Research <BR>
+Company: Google DeepMind <BR>
+
+## [Gemini Robotics 2.5: Accelerating Physical Intelligence](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
+Date: Nov 10, 2026 <BR>
+Tags: Research, Engineering <BR>
+Company: Google DeepMind <BR>
+
+## [Adapting to AI penetration testing orchestrators: The Modern Security Model](https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/)
+Date: Nov 13, 2026 <BR>
+Tags: Security <BR>
+Company: Cloudflare <BR>
+
+## [Read the EmbeddingGemma 2 technical report](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/)
+Date: Nov 17, 2026 <BR>
+Tags: Research, Blog <BR>
+Company: Google <BR>
+
+## [Co-Designing Sparse Attention for Efficient Long-Context Inference](https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/)
+Date: Nov 17, 2026 <BR>
+Tags: Engineering, Research <BR>
+Company: NVIDIA <BR>
+
 ## [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
 Date: Nov 2, 2026 <BR>
 Tags: Engineering <BR>
